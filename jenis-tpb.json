@@ -1,42 +1,52 @@
 [
   {
     "code": "1",
-    "name": "KAWASAN BERIKAT"
+    "name": "KAWASAN BERIKAT",
+    "isActive": true
   },
   {
     "code": "2",
-    "name": "GUDANG BERIKAT"
+    "name": "GUDANG BERIKAT",
+    "isActive": true
   },
   {
     "code": "3",
-    "name": "TPPB"
+    "name": "TPPB",
+    "isActive": true
   },
   {
     "code": "4",
-    "name": "TBB"
+    "name": "TBB",
+    "isActive": true
   },
   {
     "code": "5",
-    "name": "TLB"
+    "name": "TLB",
+    "isActive": true
   },
   {
     "code": "6",
-    "name": "KDUB"
+    "name": "KDUB",
+    "isActive": true
   },
   {
     "code": "7",
-    "name": "LAINNYA"
+    "name": "LAINNYA",
+    "isActive": true
   },
   {
     "code": "8",
-    "name": "KAWASAN BEBAS"
+    "name": "KAWASAN BEBAS",
+    "isActive": true
   },
   {
     "code": "9",
-    "name": "KAWASAN EKONOMI KHUSUS"
+    "name": "KAWASAN EKONOMI KHUSUS",
+    "isActive": true
   },
   {
     "code": "10",
-    "name": "KAWASAN EKONOMI LAINNYA"
+    "name": "KAWASAN EKONOMI LAINNYA",
+    "isActive": true
   }
 ]

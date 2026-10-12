@@ -2,166 +2,199 @@
   {
     "documentCode": "23",
     "code": "01",
-    "name": "BARANG UNTUK DITIMBUN"
+    "name": "BARANG UNTUK DITIMBUN",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "02",
-    "name": "BARANG UNTUK KEPERLUAN PENGUSAHAAN"
+    "name": "BARANG UNTUK KEPERLUAN PENGUSAHAAN",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "11",
-    "name": "UNTUK BAHAN BAKU/BAHAN PENOLONG"
+    "name": "UNTUK BAHAN BAKU/BAHAN PENOLONG",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "12",
-    "name": "UNTUK PENGEMAS/ALAT BANTU PENGEMAS"
+    "name": "UNTUK PENGEMAS/ALAT BANTU PENGEMAS",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "13",
-    "name": "UNTUK PERALATAN UNTUK PEMBANGUNAN, PERLUASAN, ATAU KONSTRUKSI KB"
+    "name": "UNTUK PERALATAN UNTUK PEMBANGUNAN, PERLUASAN, ATAU KONSTRUKSI KB",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "14",
-    "name": "UNTUK BARANG MODAL DAN/ATAU SPAREPARTS BARANG MODAL"
+    "name": "UNTUK BARANG MODAL DAN/ATAU SPAREPARTS BARANG MODAL",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "15",
-    "name": "UNTUK BARANG CONTOH"
+    "name": "UNTUK BARANG CONTOH",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "16",
-    "name": "UNTUK BARANG JADI GUNA DIGABUNG DENGAN HASIL PRODUKSI"
+    "name": "UNTUK BARANG JADI GUNA DIGABUNG DENGAN HASIL PRODUKSI",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "17",
-    "name": "UNTUK BARANG REIMPOR"
+    "name": "UNTUK BARANG REIMPOR",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "18",
-    "name": "UNTUK PERALATAN PERKANTORAN"
+    "name": "UNTUK PERALATAN PERKANTORAN",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "19",
-    "name": "BARANG UNTUK KEPERLUAN PENANGANAN COVID19"
+    "name": "BARANG UNTUK KEPERLUAN PENANGANAN COVID19",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "21",
-    "name": "UNTUK BARANG YANG DITIMBUN DI GB"
+    "name": "UNTUK BARANG YANG DITIMBUN DI GB",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "22",
-    "name": "UNTUK BARANG REIMPOR"
+    "name": "UNTUK BARANG REIMPOR",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "31",
-    "name": "UNTUK BARANG UNTUK DIPAMERKAN"
+    "name": "UNTUK BARANG UNTUK DIPAMERKAN",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "32",
-    "name": "UNTUK BARANG UNTUK MENDUKUNG KEPERLUAN PAMERAN"
+    "name": "UNTUK BARANG UNTUK MENDUKUNG KEPERLUAN PAMERAN",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "33",
-    "name": "UNTUK BARANG REIMPOR"
+    "name": "UNTUK BARANG REIMPOR",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "41",
-    "name": "UNTUK BARANG YANG DITIMBUN DI TBB"
+    "name": "UNTUK BARANG YANG DITIMBUN DI TBB",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "42",
-    "name": "UNTUK BARANG REIMPOR"
+    "name": "UNTUK BARANG REIMPOR",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "51",
-    "name": "UNTUK BARANG LELANG"
+    "name": "UNTUK BARANG LELANG",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "52",
-    "name": "UNTUK SPAREPARTS"
+    "name": "UNTUK SPAREPARTS",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "53",
-    "name": "UNTUK BARANG REIMPOR"
+    "name": "UNTUK BARANG REIMPOR",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "61",
-    "name": "UNTUK BARANG YANG DITIMBUN DI KDUB"
+    "name": "UNTUK BARANG YANG DITIMBUN DI KDUB",
+    "isActive": true
   },
   {
     "documentCode": "23",
     "code": "62",
-    "name": "UNTUK BARANG REIMPOR"
+    "name": "UNTUK BARANG REIMPOR",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "1",
-    "name": "HASIL PRODUKSI"
+    "name": "HASIL PRODUKSI",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "2",
-    "name": "BAHAN BAKU"
+    "name": "BAHAN BAKU",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "3",
-    "name": "BARANG MODAL"
+    "name": "BARANG MODAL",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "4",
-    "name": "PERALATAN KANTOR"
+    "name": "PERALATAN KANTOR",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "5",
-    "name": "SISA DARI PROSES PRODUKSI/LIMBAH (WASTE/SCRAP) DAN/ATAU SISA ATAU BEKAS PENGEMAS"
+    "name": "SISA DARI PROSES PRODUKSI/LIMBAH (WASTE/SCRAP) DAN/ATAU SISA ATAU BEKAS PENGEMAS",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "6",
-    "name": "BARANG YANG DITIMBUN UNTUK DIJUAL"
+    "name": "BARANG YANG DITIMBUN UNTUK DIJUAL",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "7",
-    "name": "BARANG YANG DIPAMERKAN UNTUK DIJUAL"
+    "name": "BARANG YANG DIPAMERKAN UNTUK DIJUAL",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "8",
-    "name": "BARANG LAINNYA"
+    "name": "BARANG LAINNYA",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "9",
-    "name": "BARANG UNTUK KEPERLUAN PENANGANAN COVID19"
+    "name": "BARANG UNTUK KEPERLUAN PENANGANAN COVID19",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "10",
-    "name": "BARANG CONTOH"
+    "name": "BARANG CONTOH",
+    "isActive": true
   }
 ]

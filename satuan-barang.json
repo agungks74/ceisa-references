@@ -1,6174 +1,7717 @@
 [
   {
     "code": "6",
-    "name": "small spray"
+    "name": "small spray",
+    "isActive": true
   },
   {
     "code": "8",
-    "name": "heat lot"
+    "name": "heat lot",
+    "isActive": true
   },
   {
     "code": "10",
-    "name": "group"
+    "name": "group",
+    "isActive": true
   },
   {
     "code": "13",
-    "name": "ration"
+    "name": "ration",
+    "isActive": true
   },
   {
     "code": "14",
-    "name": "shot"
+    "name": "shot",
+    "isActive": true
   },
   {
     "code": "15",
-    "name": "stick, military"
+    "name": "stick, military",
+    "isActive": true
   },
   {
     "code": "16",
-    "name": "hundred fifteen kg drum"
+    "name": "hundred fifteen kg drum",
+    "isActive": true
   },
   {
     "code": "17",
-    "name": "hundred lb drum"
+    "name": "hundred lb drum",
+    "isActive": true
   },
   {
     "code": "18",
-    "name": "fiftyfive gallon (US) drum"
+    "name": "fiftyfive gallon (US) drum",
+    "isActive": true
   },
   {
     "code": "19",
-    "name": "tank truck"
+    "name": "tank truck",
+    "isActive": true
   },
   {
     "code": "20",
-    "name": "twenty foot container"
+    "name": "twenty foot container",
+    "isActive": true
   },
   {
     "code": "21",
-    "name": "forty foot container"
+    "name": "forty foot container",
+    "isActive": true
   },
   {
     "code": "22",
-    "name": "decilitre per gram"
+    "name": "decilitre per gram",
+    "isActive": true
   },
   {
     "code": "24",
-    "name": "theoretical pound"
+    "name": "theoretical pound",
+    "isActive": true
   },
   {
     "code": "26",
-    "name": "actual ton"
+    "name": "actual ton",
+    "isActive": true
   },
   {
     "code": "28",
-    "name": "kilogram per square metre"
+    "name": "kilogram per square metre",
+    "isActive": true
   },
   {
     "code": "29",
-    "name": "pound per thousand square foot"
+    "name": "pound per thousand square foot",
+    "isActive": true
   },
   {
     "code": "30",
-    "name": "horse power day per air dry metric ton"
+    "name": "horse power day per air dry metric ton",
+    "isActive": true
   },
   {
     "code": "31",
-    "name": "catch weight"
+    "name": "catch weight",
+    "isActive": true
   },
   {
     "code": "32",
-    "name": "kilogram per air dry metric ton"
+    "name": "kilogram per air dry metric ton",
+    "isActive": true
   },
   {
     "code": "33",
-    "name": "kilopascal square metre per gram"
+    "name": "kilopascal square metre per gram",
+    "isActive": true
   },
   {
     "code": "34",
-    "name": "kilopascal per millimetre"
+    "name": "kilopascal per millimetre",
+    "isActive": true
   },
   {
     "code": "35",
-    "name": "millilitre per square centimetre second"
+    "name": "millilitre per square centimetre second",
+    "isActive": true
   },
   {
     "code": "36",
-    "name": "cubic foot per minute per square foot"
+    "name": "cubic foot per minute per square foot",
+    "isActive": true
   },
   {
     "code": "38",
-    "name": "ounce per square foot per 0,01inch"
+    "name": "ounce per square foot per 0,01inch",
+    "isActive": true
   },
   {
     "code": "40",
-    "name": "millilitre per second"
+    "name": "millilitre per second",
+    "isActive": true
   },
   {
     "code": "43",
-    "name": "super bulk bag"
+    "name": "super bulk bag",
+    "isActive": true
   },
   {
     "code": "44",
-    "name": "fivehundred kg bulk bag"
+    "name": "fivehundred kg bulk bag",
+    "isActive": true
   },
   {
     "code": "46",
-    "name": "fifty lb bulk bag"
+    "name": "fifty lb bulk bag",
+    "isActive": true
   },
   {
     "code": "47",
-    "name": "fifty lb bag"
+    "name": "fifty lb bag",
+    "isActive": true
   },
   {
     "code": "48",
-    "name": "bulk car load"
+    "name": "bulk car load",
+    "isActive": true
   },
   {
     "code": "53",
-    "name": "theoretical kilogram"
+    "name": "theoretical kilogram",
+    "isActive": true
   },
   {
     "code": "54",
-    "name": "theoretical tonne"
+    "name": "theoretical tonne",
+    "isActive": true
   },
   {
     "code": "57",
-    "name": "mesh"
+    "name": "mesh",
+    "isActive": true
   },
   {
     "code": "58",
-    "name": "net kilogram"
+    "name": "net kilogram",
+    "isActive": true
   },
   {
     "code": "60",
-    "name": "percent weight"
+    "name": "percent weight",
+    "isActive": true
   },
   {
     "code": "61",
-    "name": "part per billion (US)"
+    "name": "part per billion (US)",
+    "isActive": true
   },
   {
     "code": "62",
-    "name": "percent per 1000 hour"
+    "name": "percent per 1000 hour",
+    "isActive": true
   },
   {
     "code": "63",
-    "name": "failure rate in time"
+    "name": "failure rate in time",
+    "isActive": true
   },
   {
     "code": "64",
-    "name": "pound per square inch, gauge"
+    "name": "pound per square inch, gauge",
+    "isActive": true
   },
   {
     "code": "66",
-    "name": "oersted"
+    "name": "oersted",
+    "isActive": true
   },
   {
     "code": "71",
-    "name": "volt ampere per pound"
+    "name": "volt ampere per pound",
+    "isActive": true
   },
   {
     "code": "72",
-    "name": "watt per pound"
+    "name": "watt per pound",
+    "isActive": true
   },
   {
     "code": "73",
-    "name": "ampere tum per centimetre"
+    "name": "ampere tum per centimetre",
+    "isActive": true
   },
   {
     "code": "78",
-    "name": "kilogauss"
+    "name": "kilogauss",
+    "isActive": true
   },
   {
     "code": "84",
-    "name": "kilopound-force per square inch"
+    "name": "kilopound-force per square inch",
+    "isActive": true
   },
   {
     "code": "85",
-    "name": "foot pound-force"
+    "name": "foot pound-force",
+    "isActive": true
   },
   {
     "code": "89",
-    "name": "poise"
+    "name": "poise",
+    "isActive": true
   },
   {
     "code": "92",
-    "name": "calorie per cubic centimetre"
+    "name": "calorie per cubic centimetre",
+    "isActive": true
   },
   {
     "code": "93",
-    "name": "calorie per gram"
+    "name": "calorie per gram",
+    "isActive": true
   },
   {
     "code": "94",
-    "name": "curl unit"
+    "name": "curl unit",
+    "isActive": true
   },
   {
     "code": "96",
-    "name": "ten thousand gallon (US) tankcar"
+    "name": "ten thousand gallon (US) tankcar",
+    "isActive": true
   },
   {
     "code": "97",
-    "name": "ten kg drum"
+    "name": "ten kg drum",
+    "isActive": true
   },
   {
     "code": "98",
-    "name": "fifteen kg drum"
+    "name": "fifteen kg drum",
+    "isActive": true
   },
   {
     "code": "1C",
-    "name": "locomotive count"
+    "name": "locomotive count",
+    "isActive": true
   },
   {
     "code": "1F",
-    "name": "train mile"
+    "name": "train mile",
+    "isActive": true
   },
   {
     "code": "1I",
-    "name": "fixed rate"
+    "name": "fixed rate",
+    "isActive": true
   },
   {
     "code": "1L",
-    "name": "total car count"
+    "name": "total car count",
+    "isActive": true
   },
   {
     "code": "1M",
-    "name": "total car mile"
+    "name": "total car mile",
+    "isActive": true
   },
   {
     "code": "1X",
-    "name": "quarter mile"
+    "name": "quarter mile",
+    "isActive": true
   },
   {
     "code": "2B",
-    "name": "radian per second squared"
+    "name": "radian per second squared",
+    "isActive": true
   },
   {
     "code": "2C",
-    "name": "roentgen"
+    "name": "roentgen",
+    "isActive": true
   },
   {
     "code": "2H",
-    "name": "volt DC"
+    "name": "volt DC",
+    "isActive": true
   },
   {
     "code": "2I",
-    "name": "British thermal unit(international table) per hour"
+    "name": "British thermal unit(international table) per hour",
+    "isActive": true
   },
   {
     "code": "2J",
-    "name": "cubic centimetre per second"
+    "name": "cubic centimetre per second",
+    "isActive": true
   },
   {
     "code": "2K",
-    "name": "cubic foot per hour"
+    "name": "cubic foot per hour",
+    "isActive": true
   },
   {
     "code": "2L",
-    "name": "cubic foot per minute"
+    "name": "cubic foot per minute",
+    "isActive": true
   },
   {
     "code": "2M",
-    "name": "centimetre per second"
+    "name": "centimetre per second",
+    "isActive": true
   },
   {
     "code": "2P",
-    "name": "kilobyte"
+    "name": "kilobyte",
+    "isActive": true
   },
   {
     "code": "2Q",
-    "name": "kilobecquerel"
+    "name": "kilobecquerel",
+    "isActive": true
   },
   {
     "code": "2R",
-    "name": "kilocurie"
+    "name": "kilocurie",
+    "isActive": true
   },
   {
     "code": "2U",
-    "name": "megagram"
+    "name": "megagram",
+    "isActive": true
   },
   {
     "code": "2V",
-    "name": "megagram per hour"
+    "name": "megagram per hour",
+    "isActive": true
   },
   {
     "code": "2W",
-    "name": "bin"
+    "name": "bin",
+    "isActive": true
   },
   {
     "code": "2X",
-    "name": "metre per minute"
+    "name": "metre per minute",
+    "isActive": true
   },
   {
     "code": "2Z",
-    "name": "millivolt"
+    "name": "millivolt",
+    "isActive": true
   },
   {
     "code": "3E",
-    "name": "pound per pound of product"
+    "name": "pound per pound of product",
+    "isActive": true
   },
   {
     "code": "3G",
-    "name": "pound per piece of product"
+    "name": "pound per piece of product",
+    "isActive": true
   },
   {
     "code": "4A",
-    "name": "bobbin"
+    "name": "bobbin",
+    "isActive": true
   },
   {
     "code": "4G",
-    "name": "microlitre"
+    "name": "microlitre",
+    "isActive": true
   },
   {
     "code": "4H",
-    "name": "micrometre (micron)"
+    "name": "micrometre (micron)",
+    "isActive": true
   },
   {
     "code": "4L",
-    "name": "megabyte"
+    "name": "megabyte",
+    "isActive": true
   },
   {
     "code": "4M",
-    "name": "milligram per hour"
+    "name": "milligram per hour",
+    "isActive": true
   },
   {
     "code": "4O",
-    "name": "microfarad"
+    "name": "microfarad",
+    "isActive": true
   },
   {
     "code": "4P",
-    "name": "newton per metre"
+    "name": "newton per metre",
+    "isActive": true
   },
   {
     "code": "4R",
-    "name": "ounce foot"
+    "name": "ounce foot",
+    "isActive": true
   },
   {
     "code": "4T",
-    "name": "picofarad"
+    "name": "picofarad",
+    "isActive": true
   },
   {
     "code": "4U",
-    "name": "pound per hour"
+    "name": "pound per hour",
+    "isActive": true
   },
   {
     "code": "4W",
-    "name": "ton (US) per hour"
+    "name": "ton (US) per hour",
+    "isActive": true
   },
   {
     "code": "5B",
-    "name": "batch"
+    "name": "batch",
+    "isActive": true
   },
   {
     "code": "5C",
-    "name": "gallon(US) per thousand"
+    "name": "gallon(US) per thousand",
+    "isActive": true
   },
   {
     "code": "5E",
-    "name": "MMSCF/day"
+    "name": "MMSCF/day",
+    "isActive": true
   },
   {
     "code": "5G",
-    "name": "pump"
+    "name": "pump",
+    "isActive": true
   },
   {
     "code": "5H",
-    "name": "stage"
+    "name": "stage",
+    "isActive": true
   },
   {
     "code": "5K",
-    "name": "count per minute"
+    "name": "count per minute",
+    "isActive": true
   },
   {
     "code": "5P",
-    "name": "seismic level"
+    "name": "seismic level",
+    "isActive": true
   },
   {
     "code": "5Q",
-    "name": "seismic line"
+    "name": "seismic line",
+    "isActive": true
   },
   {
     "code": "A1",
-    "name": "15 C calorie"
+    "name": "15 C calorie",
+    "isActive": true
   },
   {
     "code": "A11",
-    "name": "angstrom"
+    "name": "angstrom",
+    "isActive": true
   },
   {
     "code": "A12",
-    "name": "astronomical unit"
+    "name": "astronomical unit",
+    "isActive": true
   },
   {
     "code": "A13",
-    "name": "attojoule"
+    "name": "attojoule",
+    "isActive": true
   },
   {
     "code": "A15",
-    "name": "barn per electronvolt"
+    "name": "barn per electronvolt",
+    "isActive": true
   },
   {
     "code": "A2",
-    "name": "ampere per centimetre"
+    "name": "ampere per centimetre",
+    "isActive": true
   },
   {
     "code": "A20",
-    "name": "British thermal unit/second squarefoot d/Rankine"
+    "name": "British thermal unit/second squarefoot d/Rankine",
+    "isActive": true
   },
   {
     "code": "A21",
-    "name": "British thermal unit (IT) per pound degree Rankine"
+    "name": "British thermal unit (IT) per pound degree Rankine",
+    "isActive": true
   },
   {
     "code": "A23",
-    "name": "Britishthermalunit/hour square foot degree Rankine"
+    "name": "Britishthermalunit/hour square foot degree Rankine",
+    "isActive": true
   },
   {
     "code": "A24",
-    "name": "candela per square metre"
+    "name": "candela per square metre",
+    "isActive": true
   },
   {
     "code": "A26",
-    "name": "coulomb metre"
+    "name": "coulomb metre",
+    "isActive": true
   },
   {
     "code": "A27",
-    "name": "coulomb metre squared per volt"
+    "name": "coulomb metre squared per volt",
+    "isActive": true
   },
   {
     "code": "A28",
-    "name": "coulomb per cubic centimetre"
+    "name": "coulomb per cubic centimetre",
+    "isActive": true
   },
   {
     "code": "A3",
-    "name": "ampere per millimetre"
+    "name": "ampere per millimetre",
+    "isActive": true
   },
   {
     "code": "A32",
-    "name": "coulomb per mole"
+    "name": "coulomb per mole",
+    "isActive": true
   },
   {
     "code": "A33",
-    "name": "coulomb per square centimetre"
+    "name": "coulomb per square centimetre",
+    "isActive": true
   },
   {
     "code": "A36",
-    "name": "cubic centimetre per mole"
+    "name": "cubic centimetre per mole",
+    "isActive": true
   },
   {
     "code": "A38",
-    "name": "cubic metre per coulomb"
+    "name": "cubic metre per coulomb",
+    "isActive": true
   },
   {
     "code": "A4",
-    "name": "ampere per square centimetre"
+    "name": "ampere per square centimetre",
+    "isActive": true
   },
   {
     "code": "A41",
-    "name": "ampere per square metre"
+    "name": "ampere per square metre",
+    "isActive": true
   },
   {
     "code": "A43",
-    "name": "deadweight tonnage"
+    "name": "deadweight tonnage",
+    "isActive": true
   },
   {
     "code": "A44",
-    "name": "decalitre"
+    "name": "decalitre",
+    "isActive": true
   },
   {
     "code": "A45",
-    "name": "decametre"
+    "name": "decametre",
+    "isActive": true
   },
   {
     "code": "A47",
-    "name": "decitex"
+    "name": "decitex",
+    "isActive": true
   },
   {
     "code": "A49",
-    "name": "denier"
+    "name": "denier",
+    "isActive": true
   },
   {
     "code": "A51",
-    "name": "dyne second per centimetre"
+    "name": "dyne second per centimetre",
+    "isActive": true
   },
   {
     "code": "A52",
-    "name": "dyne second per centimetre to the fifth power"
+    "name": "dyne second per centimetre to the fifth power",
+    "isActive": true
   },
   {
     "code": "A56",
-    "name": "electronvolt square metre per kilogram"
+    "name": "electronvolt square metre per kilogram",
+    "isActive": true
   },
   {
     "code": "A58",
-    "name": "erg per centimetre"
+    "name": "erg per centimetre",
+    "isActive": true
   },
   {
     "code": "A59",
-    "name": "8-part cloud cover"
+    "name": "8-part cloud cover",
+    "isActive": true
   },
   {
     "code": "A6",
-    "name": "ampere per square metre kelvin squared"
+    "name": "ampere per square metre kelvin squared",
+    "isActive": true
   },
   {
     "code": "A60",
-    "name": "erg per cubic centimetre"
+    "name": "erg per cubic centimetre",
+    "isActive": true
   },
   {
     "code": "A62",
-    "name": "erg per gram second"
+    "name": "erg per gram second",
+    "isActive": true
   },
   {
     "code": "A64",
-    "name": "erg per second square centimetre"
+    "name": "erg per second square centimetre",
+    "isActive": true
   },
   {
     "code": "A65",
-    "name": "erg per square centimetre second"
+    "name": "erg per square centimetre second",
+    "isActive": true
   },
   {
     "code": "A66",
-    "name": "erg square centimetre"
+    "name": "erg square centimetre",
+    "isActive": true
   },
   {
     "code": "A67",
-    "name": "erg square centimetre per gram"
+    "name": "erg square centimetre per gram",
+    "isActive": true
   },
   {
     "code": "A69",
-    "name": "farad per metre"
+    "name": "farad per metre",
+    "isActive": true
   },
   {
     "code": "A7",
-    "name": "ampere per square millimetre"
+    "name": "ampere per square millimetre",
+    "isActive": true
   },
   {
     "code": "A70",
-    "name": "femtojoule"
+    "name": "femtojoule",
+    "isActive": true
   },
   {
     "code": "A71",
-    "name": "femtometre"
+    "name": "femtometre",
+    "isActive": true
   },
   {
     "code": "A73",
-    "name": "foot per second squared"
+    "name": "foot per second squared",
+    "isActive": true
   },
   {
     "code": "A74",
-    "name": "foot pound-force per second"
+    "name": "foot pound-force per second",
+    "isActive": true
   },
   {
     "code": "A76",
-    "name": "gal"
+    "name": "gal",
+    "isActive": true
   },
   {
     "code": "A77",
-    "name": "Gaussian CGS unit of displacement"
+    "name": "Gaussian CGS unit of displacement",
+    "isActive": true
   },
   {
     "code": "A78",
-    "name": "Gaussian CGS unit of electric current"
+    "name": "Gaussian CGS unit of electric current",
+    "isActive": true
   },
   {
     "code": "A79",
-    "name": "Gaussian CGS unit of electric charge"
+    "name": "Gaussian CGS unit of electric charge",
+    "isActive": true
   },
   {
     "code": "A81",
-    "name": "Gaussian CGS unit of electric polarization"
+    "name": "Gaussian CGS unit of electric polarization",
+    "isActive": true
   },
   {
     "code": "A82",
-    "name": "Gaussian CGS unit of electric potential"
+    "name": "Gaussian CGS unit of electric potential",
+    "isActive": true
   },
   {
     "code": "A83",
-    "name": "Gaussian CGS unit of magnetization"
+    "name": "Gaussian CGS unit of magnetization",
+    "isActive": true
   },
   {
     "code": "A85",
-    "name": "gigaelectronvolt"
+    "name": "gigaelectronvolt",
+    "isActive": true
   },
   {
     "code": "A87",
-    "name": "gigaohm"
+    "name": "gigaohm",
+    "isActive": true
   },
   {
     "code": "A88",
-    "name": "gigaohm metre"
+    "name": "gigaohm metre",
+    "isActive": true
   },
   {
     "code": "A9",
-    "name": "rate"
+    "name": "rate",
+    "isActive": true
   },
   {
     "code": "A93",
-    "name": "gram per cubic metre"
+    "name": "gram per cubic metre",
+    "isActive": true
   },
   {
     "code": "A95",
-    "name": "gray"
+    "name": "gray",
+    "isActive": true
   },
   {
     "code": "A96",
-    "name": "gray per second"
+    "name": "gray per second",
+    "isActive": true
   },
   {
     "code": "AA",
-    "name": "ball"
+    "name": "ball",
+    "isActive": true
   },
   {
     "code": "AB",
-    "name": "bulk pack"
+    "name": "bulk pack",
+    "isActive": true
   },
   {
     "code": "ACR",
-    "name": "Acre (4840 yd2)"
+    "name": "Acre (4840 yd2)",
+    "isActive": true
   },
   {
     "code": "ACT",
-    "name": "activity"
+    "name": "activity",
+    "isActive": true
   },
   {
     "code": "AD",
-    "name": "byte"
+    "name": "byte",
+    "isActive": true
   },
   {
     "code": "AED",
-    "name": "United Arab Emirates Dirham"
+    "name": "United Arab Emirates Dirham",
+    "isActive": true
   },
   {
     "code": "AFN",
-    "name": "Afghanistan Afghani"
+    "name": "Afghanistan Afghani",
+    "isActive": true
   },
   {
     "code": "AH",
-    "name": "additional minute"
+    "name": "additional minute",
+    "isActive": true
   },
   {
     "code": "AJ",
-    "name": "cop"
+    "name": "cop",
+    "isActive": true
   },
   {
     "code": "AK",
-    "name": "fathom"
+    "name": "fathom",
+    "isActive": true
   },
   {
     "code": "AL",
-    "name": "access line"
+    "name": "access line",
+    "isActive": true
   },
   {
     "code": "AMH",
-    "name": "Ampere-hour (3,6 kC)"
+    "name": "Ampere-hour (3,6 kC)",
+    "isActive": true
   },
   {
     "code": "ANG",
-    "name": "Netherlands Antilles Guilder"
+    "name": "Netherlands Antilles Guilder",
+    "isActive": true
   },
   {
     "code": "APZ",
-    "name": "Ounce GB,US (31,10348 g)"
+    "name": "Ounce GB,US (31,10348 g)",
+    "isActive": true
   },
   {
     "code": "AQ",
-    "name": "anti-hemophilic factor (AHF) unit"
+    "name": "anti-hemophilic factor (AHF) unit",
+    "isActive": true
   },
   {
     "code": "ARE",
-    "name": "Are (100m2)"
+    "name": "Are (100m2)",
+    "isActive": true
   },
   {
     "code": "AS",
-    "name": "assortment"
+    "name": "assortment",
+    "isActive": true
   },
   {
     "code": "ASM",
-    "name": "alcoholic strength by mass"
+    "name": "alcoholic strength by mass",
+    "isActive": true
   },
   {
     "code": "ASU",
-    "name": "alcoholic strength by volume"
+    "name": "alcoholic strength by volume",
+    "isActive": true
   },
   {
     "code": "ATT",
-    "name": "Technical atmosphere (98066,5 Pa)"
+    "name": "Technical atmosphere (98066,5 Pa)",
+    "isActive": true
   },
   {
     "code": "AUD",
-    "name": "Australia Dollar"
+    "name": "Australia Dollar",
+    "isActive": true
   },
   {
     "code": "AV",
-    "name": "capsule"
+    "name": "capsule",
+    "isActive": true
   },
   {
     "code": "AW",
-    "name": "powder filled vial"
+    "name": "powder filled vial",
+    "isActive": true
   },
   {
     "code": "AY",
-    "name": "assembly"
+    "name": "assembly",
+    "isActive": true
   },
   {
     "code": "AZN",
-    "name": "Azerbaijan Manat"
+    "name": "Azerbaijan Manat",
+    "isActive": true
   },
   {
     "code": "B0",
-    "name": "Btu per cubic foot"
+    "name": "Btu per cubic foot",
+    "isActive": true
   },
   {
     "code": "B10",
-    "name": "bit per second"
+    "name": "bit per second",
+    "isActive": true
   },
   {
     "code": "B12",
-    "name": "joule per metre"
+    "name": "joule per metre",
+    "isActive": true
   },
   {
     "code": "B14",
-    "name": "joule per metre to the fourth power"
+    "name": "joule per metre to the fourth power",
+    "isActive": true
   },
   {
     "code": "B15",
-    "name": "joule per mole"
+    "name": "joule per mole",
+    "isActive": true
   },
   {
     "code": "B17",
-    "name": "credit"
+    "name": "credit",
+    "isActive": true
   },
   {
     "code": "B19",
-    "name": "digit"
+    "name": "digit",
+    "isActive": true
   },
   {
     "code": "B20",
-    "name": "joule square metre per kilogram"
+    "name": "joule square metre per kilogram",
+    "isActive": true
   },
   {
     "code": "B21",
-    "name": "kelvin per watt"
+    "name": "kelvin per watt",
+    "isActive": true
   },
   {
     "code": "B22",
-    "name": "kiloampere"
+    "name": "kiloampere",
+    "isActive": true
   },
   {
     "code": "B26",
-    "name": "kilocoulomb"
+    "name": "kilocoulomb",
+    "isActive": true
   },
   {
     "code": "B27",
-    "name": "kilocoulomb per cubic metre"
+    "name": "kilocoulomb per cubic metre",
+    "isActive": true
   },
   {
     "code": "B29",
-    "name": "kiloelectronvolt"
+    "name": "kiloelectronvolt",
+    "isActive": true
   },
   {
     "code": "B34",
-    "name": "kilogram per cubic decimetre"
+    "name": "kilogram per cubic decimetre",
+    "isActive": true
   },
   {
     "code": "B35",
-    "name": "kilogram per litre"
+    "name": "kilogram per litre",
+    "isActive": true
   },
   {
     "code": "B38",
-    "name": "kilogram-force metre"
+    "name": "kilogram-force metre",
+    "isActive": true
   },
   {
     "code": "B39",
-    "name": "kilogram-force metre per second"
+    "name": "kilogram-force metre per second",
+    "isActive": true
   },
   {
     "code": "B4",
-    "name": "barrel, imperial"
+    "name": "barrel, imperial",
+    "isActive": true
   },
   {
     "code": "B41",
-    "name": "kilojoule per kelvin"
+    "name": "kilojoule per kelvin",
+    "isActive": true
   },
   {
     "code": "B43",
-    "name": "kilojoule per kilogram kelvin"
+    "name": "kilojoule per kilogram kelvin",
+    "isActive": true
   },
   {
     "code": "B45",
-    "name": "kilomole"
+    "name": "kilomole",
+    "isActive": true
   },
   {
     "code": "B46",
-    "name": "kilomole per cubic metre"
+    "name": "kilomole per cubic metre",
+    "isActive": true
   },
   {
     "code": "B49",
-    "name": "kiloohm"
+    "name": "kiloohm",
+    "isActive": true
   },
   {
     "code": "B5",
-    "name": "billet"
+    "name": "billet",
+    "isActive": true
   },
   {
     "code": "B50",
-    "name": "kiloohm metre"
+    "name": "kiloohm metre",
+    "isActive": true
   },
   {
     "code": "B51",
-    "name": "kilopond"
+    "name": "kilopond",
+    "isActive": true
   },
   {
     "code": "B54",
-    "name": "kilosiemens per metre"
+    "name": "kilosiemens per metre",
+    "isActive": true
   },
   {
     "code": "B55",
-    "name": "kilovolt per metre"
+    "name": "kilovolt per metre",
+    "isActive": true
   },
   {
     "code": "B56",
-    "name": "kiloweber per metre"
+    "name": "kiloweber per metre",
+    "isActive": true
   },
   {
     "code": "B59",
-    "name": "lumen hour"
+    "name": "lumen hour",
+    "isActive": true
   },
   {
     "code": "B6",
-    "name": "bun"
+    "name": "bun",
+    "isActive": true
   },
   {
     "code": "B60",
-    "name": "lumen per square metre"
+    "name": "lumen per square metre",
+    "isActive": true
   },
   {
     "code": "B64",
-    "name": "lux second"
+    "name": "lux second",
+    "isActive": true
   },
   {
     "code": "B65",
-    "name": "maxwell"
+    "name": "maxwell",
+    "isActive": true
   },
   {
     "code": "B66",
-    "name": "megaampere per square metre"
+    "name": "megaampere per square metre",
+    "isActive": true
   },
   {
     "code": "B67",
-    "name": "megabecquerel per kilogram"
+    "name": "megabecquerel per kilogram",
+    "isActive": true
   },
   {
     "code": "B68",
-    "name": "gigabit"
+    "name": "gigabit",
+    "isActive": true
   },
   {
     "code": "B71",
-    "name": "megaelectronvolt"
+    "name": "megaelectronvolt",
+    "isActive": true
   },
   {
     "code": "B74",
-    "name": "meganewton metre"
+    "name": "meganewton metre",
+    "isActive": true
   },
   {
     "code": "B78",
-    "name": "megavolt"
+    "name": "megavolt",
+    "isActive": true
   },
   {
     "code": "B79",
-    "name": "megavolt per metre"
+    "name": "megavolt per metre",
+    "isActive": true
   },
   {
     "code": "B81",
-    "name": "reciprocal metre squared reciprocal second"
+    "name": "reciprocal metre squared reciprocal second",
+    "isActive": true
   },
   {
     "code": "B85",
-    "name": "microbar"
+    "name": "microbar",
+    "isActive": true
   },
   {
     "code": "B86",
-    "name": "microcoulomb"
+    "name": "microcoulomb",
+    "isActive": true
   },
   {
     "code": "B87",
-    "name": "microcoulomb per cubic metre"
+    "name": "microcoulomb per cubic metre",
+    "isActive": true
   },
   {
     "code": "B88",
-    "name": "microcoulomb per square metre"
+    "name": "microcoulomb per square metre",
+    "isActive": true
   },
   {
     "code": "B89",
-    "name": "microfarad per metre"
+    "name": "microfarad per metre",
+    "isActive": true
   },
   {
     "code": "B9",
-    "name": "batt"
+    "name": "batt",
+    "isActive": true
   },
   {
     "code": "B90",
-    "name": "microhenry"
+    "name": "microhenry",
+    "isActive": true
   },
   {
     "code": "B91",
-    "name": "microhenry per metre"
+    "name": "microhenry per metre",
+    "isActive": true
   },
   {
     "code": "B93",
-    "name": "micronewton metre"
+    "name": "micronewton metre",
+    "isActive": true
   },
   {
     "code": "B99",
-    "name": "microsiemens"
+    "name": "microsiemens",
+    "isActive": true
   },
   {
     "code": "BAM",
-    "name": "Bosnia and Herzegovina Convertible Marka"
+    "name": "Bosnia and Herzegovina Convertible Marka",
+    "isActive": true
   },
   {
     "code": "BAR",
-    "name": "Bar"
+    "name": "Bar",
+    "isActive": true
   },
   {
     "code": "BB",
-    "name": "base box"
+    "name": "base box",
+    "isActive": true
   },
   {
     "code": "BBD",
-    "name": "Barbados Dollar"
+    "name": "Barbados Dollar",
+    "isActive": true
   },
   {
     "code": "BDT",
-    "name": "Bangladesh Taka"
+    "name": "Bangladesh Taka",
+    "isActive": true
   },
   {
     "code": "BFT",
-    "name": "board foot"
+    "name": "board foot",
+    "isActive": true
   },
   {
     "code": "BHD",
-    "name": "Bahrain Dinar"
+    "name": "Bahrain Dinar",
+    "isActive": true
   },
   {
     "code": "BHP",
-    "name": "brake horse power"
+    "name": "brake horse power",
+    "isActive": true
   },
   {
     "code": "BIF",
-    "name": "Burundi Franc"
+    "name": "Burundi Franc",
+    "isActive": true
   },
   {
     "code": "BL",
-    "name": "bale"
+    "name": "bale",
+    "isActive": true
   },
   {
     "code": "BLD",
-    "name": "Dry barrel (115,627 dm3)"
+    "name": "Dry barrel (115,627 dm3)",
+    "isActive": true
   },
   {
     "code": "BMD",
-    "name": "Bermuda Dollar"
+    "name": "Bermuda Dollar",
+    "isActive": true
   },
   {
     "code": "BND",
-    "name": "Brunei Darussalam Dollar"
+    "name": "Brunei Darussalam Dollar",
+    "isActive": true
   },
   {
     "code": "BO",
-    "name": "bottle"
+    "name": "bottle",
+    "isActive": true
   },
   {
     "code": "BOB",
-    "name": "Bolivia Bolíviano"
+    "name": "Bolivia Bolíviano",
+    "isActive": true
   },
   {
     "code": "BP",
-    "name": "hundred board foot"
+    "name": "hundred board foot",
+    "isActive": true
   },
   {
     "code": "BPM",
-    "name": "beats per minute"
+    "name": "beats per minute",
+    "isActive": true
   },
   {
     "code": "BQL",
-    "name": "Becquerel"
+    "name": "Becquerel",
+    "isActive": true
   },
   {
     "code": "BR",
-    "name": "bar [unit of packaging]"
+    "name": "bar [unit of packaging]",
+    "isActive": true
   },
   {
     "code": "BRL",
-    "name": "Brazil Real"
+    "name": "Brazil Real",
+    "isActive": true
   },
   {
     "code": "BSD",
-    "name": "Bahamas Dollar"
+    "name": "Bahamas Dollar",
+    "isActive": true
   },
   {
     "code": "BT",
-    "name": "bolt"
+    "name": "bolt",
+    "isActive": true
   },
   {
     "code": "BTU",
-    "name": "British thermal unit"
+    "name": "British thermal unit",
+    "isActive": true
   },
   {
     "code": "BUA",
-    "name": "Bushel (35,2391 dm3)"
+    "name": "Bushel (35,2391 dm3)",
+    "isActive": true
   },
   {
     "code": "BUI",
-    "name": "Bushel (36,36874 dm3)"
+    "name": "Bushel (36,36874 dm3)",
+    "isActive": true
   },
   {
     "code": "BW",
-    "name": "base weight"
+    "name": "base weight",
+    "isActive": true
   },
   {
     "code": "BWP",
-    "name": "Botswana Pula"
+    "name": "Botswana Pula",
+    "isActive": true
   },
   {
     "code": "BX",
-    "name": "box"
+    "name": "box",
+    "isActive": true
   },
   {
     "code": "BYN",
-    "name": "Belarus Ruble"
+    "name": "Belarus Ruble",
+    "isActive": true
   },
   {
     "code": "BZ",
-    "name": "million BTUs"
+    "name": "million BTUs",
+    "isActive": true
   },
   {
     "code": "BZD",
-    "name": "Belize Dollar"
+    "name": "Belize Dollar",
+    "isActive": true
   },
   {
     "code": "C0",
-    "name": "call"
+    "name": "call",
+    "isActive": true
   },
   {
     "code": "C12",
-    "name": "milligram per metre"
+    "name": "milligram per metre",
+    "isActive": true
   },
   {
     "code": "C13",
-    "name": "milligray"
+    "name": "milligray",
+    "isActive": true
   },
   {
     "code": "C14",
-    "name": "millihenry"
+    "name": "millihenry",
+    "isActive": true
   },
   {
     "code": "C15",
-    "name": "millijoule"
+    "name": "millijoule",
+    "isActive": true
   },
   {
     "code": "C2",
-    "name": "carset"
+    "name": "carset",
+    "isActive": true
   },
   {
     "code": "C22",
-    "name": "millinewton per metre"
+    "name": "millinewton per metre",
+    "isActive": true
   },
   {
     "code": "C23",
-    "name": "milliohm metre"
+    "name": "milliohm metre",
+    "isActive": true
   },
   {
     "code": "C24",
-    "name": "millipascal second"
+    "name": "millipascal second",
+    "isActive": true
   },
   {
     "code": "C26",
-    "name": "millisecond"
+    "name": "millisecond",
+    "isActive": true
   },
   {
     "code": "C30",
-    "name": "millivolt per metre"
+    "name": "millivolt per metre",
+    "isActive": true
   },
   {
     "code": "C34",
-    "name": "mole"
+    "name": "mole",
+    "isActive": true
   },
   {
     "code": "C35",
-    "name": "mole per cubic decimetre"
+    "name": "mole per cubic decimetre",
+    "isActive": true
   },
   {
     "code": "C36",
-    "name": "mole per cubic metre"
+    "name": "mole per cubic metre",
+    "isActive": true
   },
   {
     "code": "C38",
-    "name": "mole per litre"
+    "name": "mole per litre",
+    "isActive": true
   },
   {
     "code": "C4",
-    "name": "carload"
+    "name": "carload",
+    "isActive": true
   },
   {
     "code": "C41",
-    "name": "nanofarad"
+    "name": "nanofarad",
+    "isActive": true
   },
   {
     "code": "C42",
-    "name": "nanofarad per metre"
+    "name": "nanofarad per metre",
+    "isActive": true
   },
   {
     "code": "C43",
-    "name": "nanohenry"
+    "name": "nanohenry",
+    "isActive": true
   },
   {
     "code": "C47",
-    "name": "nanosecond"
+    "name": "nanosecond",
+    "isActive": true
   },
   {
     "code": "C49",
-    "name": "nanowatt"
+    "name": "nanowatt",
+    "isActive": true
   },
   {
     "code": "C5",
-    "name": "cost"
+    "name": "cost",
+    "isActive": true
   },
   {
     "code": "C53",
-    "name": "newton metre second"
+    "name": "newton metre second",
+    "isActive": true
   },
   {
     "code": "C54",
-    "name": "newton metre squared kilogram squared"
+    "name": "newton metre squared kilogram squared",
+    "isActive": true
   },
   {
     "code": "C56",
-    "name": "newton per square millimetre"
+    "name": "newton per square millimetre",
+    "isActive": true
   },
   {
     "code": "C60",
-    "name": "ohm centimetre"
+    "name": "ohm centimetre",
+    "isActive": true
   },
   {
     "code": "C65",
-    "name": "pascal second"
+    "name": "pascal second",
+    "isActive": true
   },
   {
     "code": "C66",
-    "name": "pascal second per cubic metre"
+    "name": "pascal second per cubic metre",
+    "isActive": true
   },
   {
     "code": "C67",
-    "name": "pascal second per metre"
+    "name": "pascal second per metre",
+    "isActive": true
   },
   {
     "code": "C68",
-    "name": "petajoule"
+    "name": "petajoule",
+    "isActive": true
   },
   {
     "code": "C69",
-    "name": "phon"
+    "name": "phon",
+    "isActive": true
   },
   {
     "code": "C7",
-    "name": "centipoise"
+    "name": "centipoise",
+    "isActive": true
   },
   {
     "code": "C73",
-    "name": "picohenry"
+    "name": "picohenry",
+    "isActive": true
   },
   {
     "code": "C75",
-    "name": "picowatt"
+    "name": "picowatt",
+    "isActive": true
   },
   {
     "code": "C79",
-    "name": "kilovolt ampere hour"
+    "name": "kilovolt ampere hour",
+    "isActive": true
   },
   {
     "code": "C8",
-    "name": "millicoulomb per kilogram"
+    "name": "millicoulomb per kilogram",
+    "isActive": true
   },
   {
     "code": "C82",
-    "name": "radian square metre per mole"
+    "name": "radian square metre per mole",
+    "isActive": true
   },
   {
     "code": "C85",
-    "name": "reciprocal angstrom"
+    "name": "reciprocal angstrom",
+    "isActive": true
   },
   {
     "code": "C88",
-    "name": "reciprocal electron volt per cubic metre"
+    "name": "reciprocal electron volt per cubic metre",
+    "isActive": true
   },
   {
     "code": "C90",
-    "name": "reciprocal joule per cubic metre"
+    "name": "reciprocal joule per cubic metre",
+    "isActive": true
   },
   {
     "code": "C92",
-    "name": "reciprocal metre"
+    "name": "reciprocal metre",
+    "isActive": true
   },
   {
     "code": "C94",
-    "name": "reciprocal minute"
+    "name": "reciprocal minute",
+    "isActive": true
   },
   {
     "code": "C95",
-    "name": "reciprocal mole"
+    "name": "reciprocal mole",
+    "isActive": true
   },
   {
     "code": "C99",
-    "name": "reciprocal second per metre squared"
+    "name": "reciprocal second per metre squared",
+    "isActive": true
   },
   {
     "code": "CAD",
-    "name": "Canada Dollar"
+    "name": "Canada Dollar",
+    "isActive": true
   },
   {
     "code": "CCT",
-    "name": "Carrying capacity in metric tonnes"
+    "name": "Carrying capacity in metric tonnes",
+    "isActive": true
   },
   {
     "code": "CDF",
-    "name": "Congo/Kinshasa Franc"
+    "name": "Congo/Kinshasa Franc",
+    "isActive": true
   },
   {
     "code": "CEL",
-    "name": "Degree celcius"
+    "name": "Degree celcius",
+    "isActive": true
   },
   {
     "code": "CEN",
-    "name": "Hundred"
+    "name": "Hundred",
+    "isActive": true
   },
   {
     "code": "CG",
-    "name": "card"
+    "name": "card",
+    "isActive": true
   },
   {
     "code": "CGM",
-    "name": "centigram"
+    "name": "centigram",
+    "isActive": true
   },
   {
     "code": "CHF",
-    "name": "Switzerland Franc"
+    "name": "Switzerland Franc",
+    "isActive": true
   },
   {
     "code": "CJ",
-    "name": "cone"
+    "name": "cone",
+    "isActive": true
   },
   {
     "code": "CKG",
-    "name": "Coulomb per kilogram"
+    "name": "Coulomb per kilogram",
+    "isActive": true
   },
   {
     "code": "CMT",
-    "name": "Centimetre"
+    "name": "Centimetre",
+    "isActive": true
   },
   {
     "code": "CNP",
-    "name": "Hundred packs"
+    "name": "Hundred packs",
+    "isActive": true
   },
   {
     "code": "CNY",
-    "name": "China Yuan Renminbi"
+    "name": "China Yuan Renminbi",
+    "isActive": true
   },
   {
     "code": "COP",
-    "name": "Colombia Peso"
+    "name": "Colombia Peso",
+    "isActive": true
   },
   {
     "code": "CR",
-    "name": "crate"
+    "name": "crate",
+    "isActive": true
   },
   {
     "code": "CS",
-    "name": "case"
+    "name": "case",
+    "isActive": true
   },
   {
     "code": "CT",
-    "name": "carton"
+    "name": "carton",
+    "isActive": true
   },
   {
     "code": "CTG",
-    "name": "content gram"
+    "name": "content gram",
+    "isActive": true
   },
   {
     "code": "CTM",
-    "name": "Metric carat (200 mg = 2.10-4 kg)"
+    "name": "Metric carat (200 mg = 2.10-4 kg)",
+    "isActive": true
   },
   {
     "code": "CUR",
-    "name": "Curie"
+    "name": "Curie",
+    "isActive": true
   },
   {
     "code": "CVE",
-    "name": "Cape Verde Escudo"
+    "name": "Cape Verde Escudo",
+    "isActive": true
   },
   {
     "code": "CWA",
-    "name": "Hundredweight, US (45,3592 kg)"
+    "name": "Hundredweight, US (45,3592 kg)",
+    "isActive": true
   },
   {
     "code": "CY",
-    "name": "cylinder"
+    "name": "cylinder",
+    "isActive": true
   },
   {
     "code": "D04",
-    "name": "lot [unit of weight]"
+    "name": "lot [unit of weight]",
+    "isActive": true
   },
   {
     "code": "D10",
-    "name": "siemens per metre"
+    "name": "siemens per metre",
+    "isActive": true
   },
   {
     "code": "D11",
-    "name": "mebibit"
+    "name": "mebibit",
+    "isActive": true
   },
   {
     "code": "D12",
-    "name": "siemens square metre per mole"
+    "name": "siemens square metre per mole",
+    "isActive": true
   },
   {
     "code": "D13",
-    "name": "sievert"
+    "name": "sievert",
+    "isActive": true
   },
   {
     "code": "D16",
-    "name": "square centimetre per erg"
+    "name": "square centimetre per erg",
+    "isActive": true
   },
   {
     "code": "D17",
-    "name": "square centimetre per steradian erg"
+    "name": "square centimetre per steradian erg",
+    "isActive": true
   },
   {
     "code": "D18",
-    "name": "metre kelvin"
+    "name": "metre kelvin",
+    "isActive": true
   },
   {
     "code": "D2",
-    "name": "reciprocal second per steradian metre squared"
+    "name": "reciprocal second per steradian metre squared",
+    "isActive": true
   },
   {
     "code": "D20",
-    "name": "square metre per joule"
+    "name": "square metre per joule",
+    "isActive": true
   },
   {
     "code": "D22",
-    "name": "square metre per mole"
+    "name": "square metre per mole",
+    "isActive": true
   },
   {
     "code": "D23",
-    "name": "pen gram (protein)"
+    "name": "pen gram (protein)",
+    "isActive": true
   },
   {
     "code": "D25",
-    "name": "square metre per steradian joule"
+    "name": "square metre per steradian joule",
+    "isActive": true
   },
   {
     "code": "D27",
-    "name": "steradian"
+    "name": "steradian",
+    "isActive": true
   },
   {
     "code": "D28",
-    "name": "syphon"
+    "name": "syphon",
+    "isActive": true
   },
   {
     "code": "D29",
-    "name": "terahertz"
+    "name": "terahertz",
+    "isActive": true
   },
   {
     "code": "D31",
-    "name": "terawatt"
+    "name": "terawatt",
+    "isActive": true
   },
   {
     "code": "D36",
-    "name": "megabit"
+    "name": "megabit",
+    "isActive": true
   },
   {
     "code": "D37",
-    "name": "calorie (thermochemical) per gram kelvin"
+    "name": "calorie (thermochemical) per gram kelvin",
+    "isActive": true
   },
   {
     "code": "D42",
-    "name": "tropical year"
+    "name": "tropical year",
+    "isActive": true
   },
   {
     "code": "D43",
-    "name": "unified atomic mass unit"
+    "name": "unified atomic mass unit",
+    "isActive": true
   },
   {
     "code": "D45",
-    "name": "volt squared per kelvin squared"
+    "name": "volt squared per kelvin squared",
+    "isActive": true
   },
   {
     "code": "D46",
-    "name": "volt - ampere"
+    "name": "volt - ampere",
+    "isActive": true
   },
   {
     "code": "D49",
-    "name": "millivolt per kelvin"
+    "name": "millivolt per kelvin",
+    "isActive": true
   },
   {
     "code": "D5",
-    "name": "kilogram per square centimetre"
+    "name": "kilogram per square centimetre",
+    "isActive": true
   },
   {
     "code": "D50",
-    "name": "volt per metre"
+    "name": "volt per metre",
+    "isActive": true
   },
   {
     "code": "D52",
-    "name": "watt per kelvin"
+    "name": "watt per kelvin",
+    "isActive": true
   },
   {
     "code": "D54",
-    "name": "watt per square metre"
+    "name": "watt per square metre",
+    "isActive": true
   },
   {
     "code": "D56",
-    "name": "watt per square metre kelvin to the fourth power"
+    "name": "watt per square metre kelvin to the fourth power",
+    "isActive": true
   },
   {
     "code": "D57",
-    "name": "watt per steradian"
+    "name": "watt per steradian",
+    "isActive": true
   },
   {
     "code": "D58",
-    "name": "watt per steradian square metre"
+    "name": "watt per steradian square metre",
+    "isActive": true
   },
   {
     "code": "D59",
-    "name": "weber per metre"
+    "name": "weber per metre",
+    "isActive": true
   },
   {
     "code": "D6",
-    "name": "roentgen per second"
+    "name": "roentgen per second",
+    "isActive": true
   },
   {
     "code": "D61",
-    "name": "minute [unit of angle]"
+    "name": "minute [unit of angle]",
+    "isActive": true
   },
   {
     "code": "D64",
-    "name": "block"
+    "name": "block",
+    "isActive": true
   },
   {
     "code": "D65",
-    "name": "round"
+    "name": "round",
+    "isActive": true
   },
   {
     "code": "D66",
-    "name": "cassette"
+    "name": "cassette",
+    "isActive": true
   },
   {
     "code": "D67",
-    "name": "dollar per hour"
+    "name": "dollar per hour",
+    "isActive": true
   },
   {
     "code": "D69",
-    "name": "inch to the fourth power"
+    "name": "inch to the fourth power",
+    "isActive": true
   },
   {
     "code": "D7",
-    "name": "sandwich"
+    "name": "sandwich",
+    "isActive": true
   },
   {
     "code": "D70",
-    "name": "International Table (IT) calorie"
+    "name": "International Table (IT) calorie",
+    "isActive": true
   },
   {
     "code": "D71",
-    "name": "IT calorie per second centimetre kelvin"
+    "name": "IT calorie per second centimetre kelvin",
+    "isActive": true
   },
   {
     "code": "D72",
-    "name": "IT calorie per second square centimetre kelvin"
+    "name": "IT calorie per second square centimetre kelvin",
+    "isActive": true
   },
   {
     "code": "D74",
-    "name": "kilogram per mole"
+    "name": "kilogram per mole",
+    "isActive": true
   },
   {
     "code": "D75",
-    "name": "calorie (international table) per gram"
+    "name": "calorie (international table) per gram",
+    "isActive": true
   },
   {
     "code": "D76",
-    "name": "calorie (international table) per gram kelvin"
+    "name": "calorie (international table) per gram kelvin",
+    "isActive": true
   },
   {
     "code": "D79",
-    "name": "beam"
+    "name": "beam",
+    "isActive": true
   },
   {
     "code": "D8",
-    "name": "draize score"
+    "name": "draize score",
+    "isActive": true
   },
   {
     "code": "D82",
-    "name": "microvolt"
+    "name": "microvolt",
+    "isActive": true
   },
   {
     "code": "D83",
-    "name": "millinewton metre"
+    "name": "millinewton metre",
+    "isActive": true
   },
   {
     "code": "D85",
-    "name": "microwatt per square metre"
+    "name": "microwatt per square metre",
+    "isActive": true
   },
   {
     "code": "D88",
-    "name": "millicoulomb per cubic metre"
+    "name": "millicoulomb per cubic metre",
+    "isActive": true
   },
   {
     "code": "D89",
-    "name": "millicoulomb per square metre"
+    "name": "millicoulomb per square metre",
+    "isActive": true
   },
   {
     "code": "D90",
-    "name": "cubic metre (net)"
+    "name": "cubic metre (net)",
+    "isActive": true
   },
   {
     "code": "D91",
-    "name": "rem"
+    "name": "rem",
+    "isActive": true
   },
   {
     "code": "D94",
-    "name": "second per cubic metre radian"
+    "name": "second per cubic metre radian",
+    "isActive": true
   },
   {
     "code": "D95",
-    "name": "joule per gram"
+    "name": "joule per gram",
+    "isActive": true
   },
   {
     "code": "D97",
-    "name": "pallet/unit load"
+    "name": "pallet/unit load",
+    "isActive": true
   },
   {
     "code": "D99",
-    "name": "sleeve"
+    "name": "sleeve",
+    "isActive": true
   },
   {
     "code": "DAA",
-    "name": "Decare"
+    "name": "Decare",
+    "isActive": true
   },
   {
     "code": "DB",
-    "name": "dry pound"
+    "name": "dry pound",
+    "isActive": true
   },
   {
     "code": "DBC",
-    "name": "Decade (ten years)"
+    "name": "Decade (ten years)",
+    "isActive": true
   },
   {
     "code": "DC",
-    "name": "disk (disc)"
+    "name": "disk (disc)",
+    "isActive": true
   },
   {
     "code": "DD",
-    "name": "degree [unit of angle]"
+    "name": "degree [unit of angle]",
+    "isActive": true
   },
   {
     "code": "DE",
-    "name": "deal"
+    "name": "deal",
+    "isActive": true
   },
   {
     "code": "DEC",
-    "name": "decade"
+    "name": "decade",
+    "isActive": true
   },
   {
     "code": "DJF",
-    "name": "Djibouti Franc"
+    "name": "Djibouti Franc",
+    "isActive": true
   },
   {
     "code": "DKK",
-    "name": "Denmark Krone"
+    "name": "Denmark Krone",
+    "isActive": true
   },
   {
     "code": "DMA",
-    "name": "cubic decametre"
+    "name": "cubic decametre",
+    "isActive": true
   },
   {
     "code": "DMK",
-    "name": "Square decimetre"
+    "name": "Square decimetre",
+    "isActive": true
   },
   {
     "code": "DMO",
-    "name": "standard kilolitre"
+    "name": "standard kilolitre",
+    "isActive": true
   },
   {
     "code": "DMQ",
-    "name": "Cubic decimetre"
+    "name": "Cubic decimetre",
+    "isActive": true
   },
   {
     "code": "DN",
-    "name": "decinewton metre"
+    "name": "decinewton metre",
+    "isActive": true
   },
   {
     "code": "DOP",
-    "name": "Dominican Republic Peso"
+    "name": "Dominican Republic Peso",
+    "isActive": true
   },
   {
     "code": "DPC",
-    "name": "dozen piece"
+    "name": "dozen piece",
+    "isActive": true
   },
   {
     "code": "DPR",
-    "name": "Dozen pairs"
+    "name": "Dozen pairs",
+    "isActive": true
   },
   {
     "code": "DS",
-    "name": "display"
+    "name": "display",
+    "isActive": true
   },
   {
     "code": "DTN",
-    "name": "Centner, metric (100 kg)"
+    "name": "Centner, metric (100 kg)",
+    "isActive": true
   },
   {
     "code": "DU",
-    "name": "dyne"
+    "name": "dyne",
+    "isActive": true
   },
   {
     "code": "DX",
-    "name": "dyne per centimetre"
+    "name": "dyne per centimetre",
+    "isActive": true
   },
   {
     "code": "DZD",
-    "name": "Algeria Dinar"
+    "name": "Algeria Dinar",
+    "isActive": true
   },
   {
     "code": "DZN",
-    "name": "Dozen"
+    "name": "Dozen",
+    "isActive": true
   },
   {
     "code": "E01",
-    "name": "newton per square centimetre"
+    "name": "newton per square centimetre",
+    "isActive": true
   },
   {
     "code": "E07",
-    "name": "megawatt hour per hour"
+    "name": "megawatt hour per hour",
+    "isActive": true
   },
   {
     "code": "E08",
-    "name": "megawatt per hertz"
+    "name": "megawatt per hertz",
+    "isActive": true
   },
   {
     "code": "E09",
-    "name": "milliampere hour"
+    "name": "milliampere hour",
+    "isActive": true
   },
   {
     "code": "E10",
-    "name": "degree day"
+    "name": "degree day",
+    "isActive": true
   },
   {
     "code": "E11",
-    "name": "gigacalorie"
+    "name": "gigacalorie",
+    "isActive": true
   },
   {
     "code": "E12",
-    "name": "mille"
+    "name": "mille",
+    "isActive": true
   },
   {
     "code": "E14",
-    "name": "kilocalorie (international table)"
+    "name": "kilocalorie (international table)",
+    "isActive": true
   },
   {
     "code": "E16",
-    "name": "million Btu(IT) per hour"
+    "name": "million Btu(IT) per hour",
+    "isActive": true
   },
   {
     "code": "E17",
-    "name": "cubic foot per second"
+    "name": "cubic foot per second",
+    "isActive": true
   },
   {
     "code": "E2",
-    "name": "belt"
+    "name": "belt",
+    "isActive": true
   },
   {
     "code": "E20",
-    "name": "megabit per second"
+    "name": "megabit per second",
+    "isActive": true
   },
   {
     "code": "E21",
-    "name": "shares"
+    "name": "shares",
+    "isActive": true
   },
   {
     "code": "E23",
-    "name": "tyre"
+    "name": "tyre",
+    "isActive": true
   },
   {
     "code": "E25",
-    "name": "active unit"
+    "name": "active unit",
+    "isActive": true
   },
   {
     "code": "E31",
-    "name": "square metre per litre"
+    "name": "square metre per litre",
+    "isActive": true
   },
   {
     "code": "E33",
-    "name": "foot per thousand"
+    "name": "foot per thousand",
+    "isActive": true
   },
   {
     "code": "E34",
-    "name": "gigabyte"
+    "name": "gigabyte",
+    "isActive": true
   },
   {
     "code": "E35",
-    "name": "terabyte"
+    "name": "terabyte",
+    "isActive": true
   },
   {
     "code": "E36",
-    "name": "petabyte"
+    "name": "petabyte",
+    "isActive": true
   },
   {
     "code": "E4",
-    "name": "gross kilogram"
+    "name": "gross kilogram",
+    "isActive": true
   },
   {
     "code": "E40",
-    "name": "part per hundred thousand"
+    "name": "part per hundred thousand",
+    "isActive": true
   },
   {
     "code": "E42",
-    "name": "kilogram-force per square centimetre"
+    "name": "kilogram-force per square centimetre",
+    "isActive": true
   },
   {
     "code": "E43",
-    "name": "joule per square centimetre"
+    "name": "joule per square centimetre",
+    "isActive": true
   },
   {
     "code": "E44",
-    "name": "kilogram-force metre per square centimetre"
+    "name": "kilogram-force metre per square centimetre",
+    "isActive": true
   },
   {
     "code": "E45",
-    "name": "milliohm"
+    "name": "milliohm",
+    "isActive": true
   },
   {
     "code": "E46",
-    "name": "kilowatt hour per cubic metre"
+    "name": "kilowatt hour per cubic metre",
+    "isActive": true
   },
   {
     "code": "E47",
-    "name": "kilowatt hour per kelvin"
+    "name": "kilowatt hour per kelvin",
+    "isActive": true
   },
   {
     "code": "E50",
-    "name": "accounting unit"
+    "name": "accounting unit",
+    "isActive": true
   },
   {
     "code": "E53",
-    "name": "test"
+    "name": "test",
+    "isActive": true
   },
   {
     "code": "E54",
-    "name": "trip"
+    "name": "trip",
+    "isActive": true
   },
   {
     "code": "E55",
-    "name": "use"
+    "name": "use",
+    "isActive": true
   },
   {
     "code": "E56",
-    "name": "well"
+    "name": "well",
+    "isActive": true
   },
   {
     "code": "E57",
-    "name": "zone"
+    "name": "zone",
+    "isActive": true
   },
   {
     "code": "E58",
-    "name": "exabit per second"
+    "name": "exabit per second",
+    "isActive": true
   },
   {
     "code": "E61",
-    "name": "tebibyte"
+    "name": "tebibyte",
+    "isActive": true
   },
   {
     "code": "E63",
-    "name": "mebibyte"
+    "name": "mebibyte",
+    "isActive": true
   },
   {
     "code": "E64",
-    "name": "kibibyte"
+    "name": "kibibyte",
+    "isActive": true
   },
   {
     "code": "E65",
-    "name": "exbibit per metre"
+    "name": "exbibit per metre",
+    "isActive": true
   },
   {
     "code": "E69",
-    "name": "gibibit per metre"
+    "name": "gibibit per metre",
+    "isActive": true
   },
   {
     "code": "E70",
-    "name": "gibibit per square metre"
+    "name": "gibibit per square metre",
+    "isActive": true
   },
   {
     "code": "E71",
-    "name": "gibibit per cubic metre"
+    "name": "gibibit per cubic metre",
+    "isActive": true
   },
   {
     "code": "E72",
-    "name": "kibibit per metre"
+    "name": "kibibit per metre",
+    "isActive": true
   },
   {
     "code": "E73",
-    "name": "kibibit per square metre"
+    "name": "kibibit per square metre",
+    "isActive": true
   },
   {
     "code": "E74",
-    "name": "kibibit per cubic metre"
+    "name": "kibibit per cubic metre",
+    "isActive": true
   },
   {
     "code": "E75",
-    "name": "mebibit per metre"
+    "name": "mebibit per metre",
+    "isActive": true
   },
   {
     "code": "E76",
-    "name": "mebibit per square metre"
+    "name": "mebibit per square metre",
+    "isActive": true
   },
   {
     "code": "E77",
-    "name": "mebibit per cubic metre"
+    "name": "mebibit per cubic metre",
+    "isActive": true
   },
   {
     "code": "E79",
-    "name": "petabit per second"
+    "name": "petabit per second",
+    "isActive": true
   },
   {
     "code": "E82",
-    "name": "pebibit per cubic metre"
+    "name": "pebibit per cubic metre",
+    "isActive": true
   },
   {
     "code": "E85",
-    "name": "tebibit per metre"
+    "name": "tebibit per metre",
+    "isActive": true
   },
   {
     "code": "E87",
-    "name": "tebibit per square metre"
+    "name": "tebibit per square metre",
+    "isActive": true
   },
   {
     "code": "E88",
-    "name": "bit per metre"
+    "name": "bit per metre",
+    "isActive": true
   },
   {
     "code": "E89",
-    "name": "bit per square metre"
+    "name": "bit per square metre",
+    "isActive": true
   },
   {
     "code": "E90",
-    "name": "reciprocal centimetre"
+    "name": "reciprocal centimetre",
+    "isActive": true
   },
   {
     "code": "E92",
-    "name": "cubic decimetre per hour"
+    "name": "cubic decimetre per hour",
+    "isActive": true
   },
   {
     "code": "E93",
-    "name": "kilogram per hour"
+    "name": "kilogram per hour",
+    "isActive": true
   },
   {
     "code": "E94",
-    "name": "kilomole per second"
+    "name": "kilomole per second",
+    "isActive": true
   },
   {
     "code": "E96",
-    "name": "degree per second"
+    "name": "degree per second",
+    "isActive": true
   },
   {
     "code": "E97",
-    "name": "millimetre per degree Celcius metre"
+    "name": "millimetre per degree Celcius metre",
+    "isActive": true
   },
   {
     "code": "E98",
-    "name": "degree celsius per kelvin"
+    "name": "degree celsius per kelvin",
+    "isActive": true
   },
   {
     "code": "E99",
-    "name": "hektopascal per bar"
+    "name": "hektopascal per bar",
+    "isActive": true
   },
   {
     "code": "EA",
-    "name": "each"
+    "name": "each",
+    "isActive": true
   },
   {
     "code": "EB",
-    "name": "electronic mail box"
+    "name": "electronic mail box",
+    "isActive": true
   },
   {
     "code": "EP",
-    "name": "eleven pack"
+    "name": "eleven pack",
+    "isActive": true
   },
   {
     "code": "EUR",
-    "name": "Euro Member Countries"
+    "name": "Euro Member Countries",
+    "isActive": true
   },
   {
     "code": "F01",
-    "name": "bit per cubic metre"
+    "name": "bit per cubic metre",
+    "isActive": true
   },
   {
     "code": "F02",
-    "name": "kelvin per kelvin"
+    "name": "kelvin per kelvin",
+    "isActive": true
   },
   {
     "code": "F04",
-    "name": "millibar per bar"
+    "name": "millibar per bar",
+    "isActive": true
   },
   {
     "code": "F05",
-    "name": "megapascal per bar"
+    "name": "megapascal per bar",
+    "isActive": true
   },
   {
     "code": "F07",
-    "name": "pascal per bar"
+    "name": "pascal per bar",
+    "isActive": true
   },
   {
     "code": "F08",
-    "name": "milliampere per inch"
+    "name": "milliampere per inch",
+    "isActive": true
   },
   {
     "code": "F10",
-    "name": "kelvin per hour"
+    "name": "kelvin per hour",
+    "isActive": true
   },
   {
     "code": "F11",
-    "name": "kelvin per minute"
+    "name": "kelvin per minute",
+    "isActive": true
   },
   {
     "code": "F12",
-    "name": "kelvin per second"
+    "name": "kelvin per second",
+    "isActive": true
   },
   {
     "code": "F13",
-    "name": "slug"
+    "name": "slug",
+    "isActive": true
   },
   {
     "code": "F14",
-    "name": "gram per kelvin"
+    "name": "gram per kelvin",
+    "isActive": true
   },
   {
     "code": "F17",
-    "name": "pound-force per foot"
+    "name": "pound-force per foot",
+    "isActive": true
   },
   {
     "code": "F18",
-    "name": "kilogram square centimetre"
+    "name": "kilogram square centimetre",
+    "isActive": true
   },
   {
     "code": "F19",
-    "name": "kilogram square millimetre"
+    "name": "kilogram square millimetre",
+    "isActive": true
   },
   {
     "code": "F23",
-    "name": "gram per cubic decimetre"
+    "name": "gram per cubic decimetre",
+    "isActive": true
   },
   {
     "code": "F26",
-    "name": "gram per day"
+    "name": "gram per day",
+    "isActive": true
   },
   {
     "code": "F27",
-    "name": "gram per hour"
+    "name": "gram per hour",
+    "isActive": true
   },
   {
     "code": "F29",
-    "name": "gram per second"
+    "name": "gram per second",
+    "isActive": true
   },
   {
     "code": "F31",
-    "name": "kilogram per minute"
+    "name": "kilogram per minute",
+    "isActive": true
   },
   {
     "code": "F33",
-    "name": "milligram per minute"
+    "name": "milligram per minute",
+    "isActive": true
   },
   {
     "code": "F35",
-    "name": "gram per day kelvin"
+    "name": "gram per day kelvin",
+    "isActive": true
   },
   {
     "code": "F36",
-    "name": "gram per hour kelvin"
+    "name": "gram per hour kelvin",
+    "isActive": true
   },
   {
     "code": "F38",
-    "name": "gram per second kelvin"
+    "name": "gram per second kelvin",
+    "isActive": true
   },
   {
     "code": "F39",
-    "name": "kilogram per day kelvin"
+    "name": "kilogram per day kelvin",
+    "isActive": true
   },
   {
     "code": "F40",
-    "name": "kilogram per hour kelvin"
+    "name": "kilogram per hour kelvin",
+    "isActive": true
   },
   {
     "code": "F41",
-    "name": "kilogram per minute kelvin"
+    "name": "kilogram per minute kelvin",
+    "isActive": true
   },
   {
     "code": "F42",
-    "name": "kilogram per second kelvin"
+    "name": "kilogram per second kelvin",
+    "isActive": true
   },
   {
     "code": "F43",
-    "name": "milligram per day kelvin"
+    "name": "milligram per day kelvin",
+    "isActive": true
   },
   {
     "code": "F44",
-    "name": "milligram per hour kelvin"
+    "name": "milligram per hour kelvin",
+    "isActive": true
   },
   {
     "code": "F46",
-    "name": "milligram per second kelvin"
+    "name": "milligram per second kelvin",
+    "isActive": true
   },
   {
     "code": "F48",
-    "name": "pound-force per inch"
+    "name": "pound-force per inch",
+    "isActive": true
   },
   {
     "code": "F50",
-    "name": "micrometre per kelvin"
+    "name": "micrometre per kelvin",
+    "isActive": true
   },
   {
     "code": "F53",
-    "name": "millimetre per kelvin"
+    "name": "millimetre per kelvin",
+    "isActive": true
   },
   {
     "code": "F54",
-    "name": "milliohm per metre"
+    "name": "milliohm per metre",
+    "isActive": true
   },
   {
     "code": "F55",
-    "name": "ohm per mile"
+    "name": "ohm per mile",
+    "isActive": true
   },
   {
     "code": "F56",
-    "name": "ohm per kilometre"
+    "name": "ohm per kilometre",
+    "isActive": true
   },
   {
     "code": "F59",
-    "name": "milliampere per bar"
+    "name": "milliampere per bar",
+    "isActive": true
   },
   {
     "code": "F61",
-    "name": "kelvin per bar"
+    "name": "kelvin per bar",
+    "isActive": true
   },
   {
     "code": "F62",
-    "name": "gram per day bar"
+    "name": "gram per day bar",
+    "isActive": true
   },
   {
     "code": "F63",
-    "name": "gram per hour bar"
+    "name": "gram per hour bar",
+    "isActive": true
   },
   {
     "code": "F64",
-    "name": "gram per minute bar"
+    "name": "gram per minute bar",
+    "isActive": true
   },
   {
     "code": "F65",
-    "name": "gram per second bar"
+    "name": "gram per second bar",
+    "isActive": true
   },
   {
     "code": "F66",
-    "name": "kilogram per day bar"
+    "name": "kilogram per day bar",
+    "isActive": true
   },
   {
     "code": "F67",
-    "name": "kilogram per hour bar"
+    "name": "kilogram per hour bar",
+    "isActive": true
   },
   {
     "code": "F69",
-    "name": "kilogram per second bar"
+    "name": "kilogram per second bar",
+    "isActive": true
   },
   {
     "code": "F70",
-    "name": "milligram per day bar"
+    "name": "milligram per day bar",
+    "isActive": true
   },
   {
     "code": "F71",
-    "name": "milligram per hour bar"
+    "name": "milligram per hour bar",
+    "isActive": true
   },
   {
     "code": "F72",
-    "name": "milligram per minute bar"
+    "name": "milligram per minute bar",
+    "isActive": true
   },
   {
     "code": "F74",
-    "name": "gram per bar"
+    "name": "gram per bar",
+    "isActive": true
   },
   {
     "code": "F75",
-    "name": "milligram per bar"
+    "name": "milligram per bar",
+    "isActive": true
   },
   {
     "code": "F76",
-    "name": "milliampere per millimetre"
+    "name": "milliampere per millimetre",
+    "isActive": true
   },
   {
     "code": "F77",
-    "name": "pascal second per kelvin"
+    "name": "pascal second per kelvin",
+    "isActive": true
   },
   {
     "code": "F78",
-    "name": "inch of water"
+    "name": "inch of water",
+    "isActive": true
   },
   {
     "code": "F79",
-    "name": "inch of mercury"
+    "name": "inch of mercury",
+    "isActive": true
   },
   {
     "code": "F80",
-    "name": "water horse power"
+    "name": "water horse power",
+    "isActive": true
   },
   {
     "code": "F82",
-    "name": "hektopascal per kelvin"
+    "name": "hektopascal per kelvin",
+    "isActive": true
   },
   {
     "code": "F83",
-    "name": "kilopascal per kelvin"
+    "name": "kilopascal per kelvin",
+    "isActive": true
   },
   {
     "code": "F84",
-    "name": "millibar per kelvin"
+    "name": "millibar per kelvin",
+    "isActive": true
   },
   {
     "code": "F85",
-    "name": "megapascal per kelvin"
+    "name": "megapascal per kelvin",
+    "isActive": true
   },
   {
     "code": "F86",
-    "name": "poise per kelvin"
+    "name": "poise per kelvin",
+    "isActive": true
   },
   {
     "code": "F89",
-    "name": "newton metre per degree"
+    "name": "newton metre per degree",
+    "isActive": true
   },
   {
     "code": "F9",
-    "name": "fibre per cubic centimetre of air"
+    "name": "fibre per cubic centimetre of air",
+    "isActive": true
   },
   {
     "code": "F90",
-    "name": "newton metre per ampere"
+    "name": "newton metre per ampere",
+    "isActive": true
   },
   {
     "code": "F91",
-    "name": "bar litre per second"
+    "name": "bar litre per second",
+    "isActive": true
   },
   {
     "code": "F92",
-    "name": "bar cubic metre per second"
+    "name": "bar cubic metre per second",
+    "isActive": true
   },
   {
     "code": "F94",
-    "name": "hektopascal cubic metre per second"
+    "name": "hektopascal cubic metre per second",
+    "isActive": true
   },
   {
     "code": "F95",
-    "name": "millibar litre per second"
+    "name": "millibar litre per second",
+    "isActive": true
   },
   {
     "code": "F97",
-    "name": "megapascal litre per second"
+    "name": "megapascal litre per second",
+    "isActive": true
   },
   {
     "code": "F99",
-    "name": "pascal litre per second"
+    "name": "pascal litre per second",
+    "isActive": true
   },
   {
     "code": "FAH",
-    "name": "degree Fahrenheit"
+    "name": "degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "FAR",
-    "name": "farad"
+    "name": "farad",
+    "isActive": true
   },
   {
     "code": "FB",
-    "name": "field"
+    "name": "field",
+    "isActive": true
   },
   {
     "code": "FBM",
-    "name": "fibre metre"
+    "name": "fibre metre",
+    "isActive": true
   },
   {
     "code": "FC",
-    "name": "thousand cubic foot"
+    "name": "thousand cubic foot",
+    "isActive": true
   },
   {
     "code": "FD",
-    "name": "million particle per cubic foot"
+    "name": "million particle per cubic foot",
+    "isActive": true
   },
   {
     "code": "FE",
-    "name": "track foot"
+    "name": "track foot",
+    "isActive": true
   },
   {
     "code": "FF",
-    "name": "hundred cubic metre"
+    "name": "hundred cubic metre",
+    "isActive": true
   },
   {
     "code": "FG",
-    "name": "transdermal patch"
+    "name": "transdermal patch",
+    "isActive": true
   },
   {
     "code": "FH",
-    "name": "micromole"
+    "name": "micromole",
+    "isActive": true
   },
   {
     "code": "FJD",
-    "name": "Fiji Dollar"
+    "name": "Fiji Dollar",
+    "isActive": true
   },
   {
     "code": "FKP",
-    "name": "Falkland Islands (Malvinas) Pound"
+    "name": "Falkland Islands (Malvinas) Pound",
+    "isActive": true
   },
   {
     "code": "FL",
-    "name": "flake ton"
+    "name": "flake ton",
+    "isActive": true
   },
   {
     "code": "FM",
-    "name": "million cubic foot"
+    "name": "million cubic foot",
+    "isActive": true
   },
   {
     "code": "FOT",
-    "name": "Foot (0.3048 m)"
+    "name": "Foot (0.3048 m)",
+    "isActive": true
   },
   {
     "code": "FR",
-    "name": "foot per minute"
+    "name": "foot per minute",
+    "isActive": true
   },
   {
     "code": "FTK",
-    "name": "Square foot"
+    "name": "Square foot",
+    "isActive": true
   },
   {
     "code": "FTQ",
-    "name": "Cubic foot"
+    "name": "Cubic foot",
+    "isActive": true
   },
   {
     "code": "G01",
-    "name": "pascal cubic metre per second"
+    "name": "pascal cubic metre per second",
+    "isActive": true
   },
   {
     "code": "G05",
-    "name": "metre per bar"
+    "name": "metre per bar",
+    "isActive": true
   },
   {
     "code": "G06",
-    "name": "millimetre per bar"
+    "name": "millimetre per bar",
+    "isActive": true
   },
   {
     "code": "G08",
-    "name": "square inch per second"
+    "name": "square inch per second",
+    "isActive": true
   },
   {
     "code": "G09",
-    "name": "square metre per second kelvin"
+    "name": "square metre per second kelvin",
+    "isActive": true
   },
   {
     "code": "G10",
-    "name": "stokes per kelvin"
+    "name": "stokes per kelvin",
+    "isActive": true
   },
   {
     "code": "G11",
-    "name": "gram per cubic centimetre bar"
+    "name": "gram per cubic centimetre bar",
+    "isActive": true
   },
   {
     "code": "G12",
-    "name": "gram per cubic decimetre bar"
+    "name": "gram per cubic decimetre bar",
+    "isActive": true
   },
   {
     "code": "G16",
-    "name": "kilogram per cubic centimetre bar"
+    "name": "kilogram per cubic centimetre bar",
+    "isActive": true
   },
   {
     "code": "G17",
-    "name": "kilogram per litre bar"
+    "name": "kilogram per litre bar",
+    "isActive": true
   },
   {
     "code": "G18",
-    "name": "kilogram per cubic metre bar"
+    "name": "kilogram per cubic metre bar",
+    "isActive": true
   },
   {
     "code": "G19",
-    "name": "newton metre per kilogram"
+    "name": "newton metre per kilogram",
+    "isActive": true
   },
   {
     "code": "G2",
-    "name": "US gallon per minute"
+    "name": "US gallon per minute",
+    "isActive": true
   },
   {
     "code": "G3",
-    "name": "Imperial gallon per minute"
+    "name": "Imperial gallon per minute",
+    "isActive": true
   },
   {
     "code": "G20",
-    "name": "pound-force foot per pound"
+    "name": "pound-force foot per pound",
+    "isActive": true
   },
   {
     "code": "G21",
-    "name": "cup [unit of volume]"
+    "name": "cup [unit of volume]",
+    "isActive": true
   },
   {
     "code": "G23",
-    "name": "peck"
+    "name": "peck",
+    "isActive": true
   },
   {
     "code": "G24",
-    "name": "tablespoon (US)"
+    "name": "tablespoon (US)",
+    "isActive": true
   },
   {
     "code": "G25",
-    "name": "teaspoon (US)"
+    "name": "teaspoon (US)",
+    "isActive": true
   },
   {
     "code": "G26",
-    "name": "stere"
+    "name": "stere",
+    "isActive": true
   },
   {
     "code": "G27",
-    "name": "cubic centimetre per kelvin"
+    "name": "cubic centimetre per kelvin",
+    "isActive": true
   },
   {
     "code": "G28",
-    "name": "litre per kelvin"
+    "name": "litre per kelvin",
+    "isActive": true
   },
   {
     "code": "G30",
-    "name": "millilitre per kelvin"
+    "name": "millilitre per kelvin",
+    "isActive": true
   },
   {
     "code": "G31",
-    "name": "kilogram per cubic centimetre"
+    "name": "kilogram per cubic centimetre",
+    "isActive": true
   },
   {
     "code": "G32",
-    "name": "ounce (avoirdupois) per cubic yard"
+    "name": "ounce (avoirdupois) per cubic yard",
+    "isActive": true
   },
   {
     "code": "G33",
-    "name": "gram per cubic centimetre kelvin"
+    "name": "gram per cubic centimetre kelvin",
+    "isActive": true
   },
   {
     "code": "G34",
-    "name": "gram per cubic decimetre kelvin"
+    "name": "gram per cubic decimetre kelvin",
+    "isActive": true
   },
   {
     "code": "G35",
-    "name": "gram per litre kelvin"
+    "name": "gram per litre kelvin",
+    "isActive": true
   },
   {
     "code": "G37",
-    "name": "gram per millilitre kelvin"
+    "name": "gram per millilitre kelvin",
+    "isActive": true
   },
   {
     "code": "G38",
-    "name": "kilogram per cubic centimetre kelvin"
+    "name": "kilogram per cubic centimetre kelvin",
+    "isActive": true
   },
   {
     "code": "G39",
-    "name": "kilogram per litre kelvin"
+    "name": "kilogram per litre kelvin",
+    "isActive": true
   },
   {
     "code": "G41",
-    "name": "square metre per second bar"
+    "name": "square metre per second bar",
+    "isActive": true
   },
   {
     "code": "G42",
-    "name": "microsiemens per centimetre"
+    "name": "microsiemens per centimetre",
+    "isActive": true
   },
   {
     "code": "G43",
-    "name": "microsiemens per metre"
+    "name": "microsiemens per metre",
+    "isActive": true
   },
   {
     "code": "G44",
-    "name": "nanosiemens per centimetre"
+    "name": "nanosiemens per centimetre",
+    "isActive": true
   },
   {
     "code": "G46",
-    "name": "stokes per bar"
+    "name": "stokes per bar",
+    "isActive": true
   },
   {
     "code": "G47",
-    "name": "cubic centimetre per day"
+    "name": "cubic centimetre per day",
+    "isActive": true
   },
   {
     "code": "G48",
-    "name": "cubic centimetre per hour"
+    "name": "cubic centimetre per hour",
+    "isActive": true
   },
   {
     "code": "G49",
-    "name": "cubic centimetre per minute"
+    "name": "cubic centimetre per minute",
+    "isActive": true
   },
   {
     "code": "G51",
-    "name": "litre per second"
+    "name": "litre per second",
+    "isActive": true
   },
   {
     "code": "G52",
-    "name": "cubic metre per day"
+    "name": "cubic metre per day",
+    "isActive": true
   },
   {
     "code": "G54",
-    "name": "millilitre per day"
+    "name": "millilitre per day",
+    "isActive": true
   },
   {
     "code": "G55",
-    "name": "millilitre per hour"
+    "name": "millilitre per hour",
+    "isActive": true
   },
   {
     "code": "G56",
-    "name": "cubic inch per hour"
+    "name": "cubic inch per hour",
+    "isActive": true
   },
   {
     "code": "G57",
-    "name": "cubic inch per minute"
+    "name": "cubic inch per minute",
+    "isActive": true
   },
   {
     "code": "G58",
-    "name": "cubic inch per second"
+    "name": "cubic inch per second",
+    "isActive": true
   },
   {
     "code": "G59",
-    "name": "milliampere per litre minute"
+    "name": "milliampere per litre minute",
+    "isActive": true
   },
   {
     "code": "G60",
-    "name": "volt per bar"
+    "name": "volt per bar",
+    "isActive": true
   },
   {
     "code": "G61",
-    "name": "cubic centimetre per day kelvin"
+    "name": "cubic centimetre per day kelvin",
+    "isActive": true
   },
   {
     "code": "G62",
-    "name": "cubic centimetre per hour kelvin"
+    "name": "cubic centimetre per hour kelvin",
+    "isActive": true
   },
   {
     "code": "G63",
-    "name": "cubic centimetre per minute kelvin"
+    "name": "cubic centimetre per minute kelvin",
+    "isActive": true
   },
   {
     "code": "G64",
-    "name": "cubic centimetre per second kelvin"
+    "name": "cubic centimetre per second kelvin",
+    "isActive": true
   },
   {
     "code": "G65",
-    "name": "litre per day kelvin"
+    "name": "litre per day kelvin",
+    "isActive": true
   },
   {
     "code": "G66",
-    "name": "litre per hour kelvin"
+    "name": "litre per hour kelvin",
+    "isActive": true
   },
   {
     "code": "G67",
-    "name": "litre per minute kelvin"
+    "name": "litre per minute kelvin",
+    "isActive": true
   },
   {
     "code": "G68",
-    "name": "litre per second kelvin"
+    "name": "litre per second kelvin",
+    "isActive": true
   },
   {
     "code": "G69",
-    "name": "cubic metre per day kelvin"
+    "name": "cubic metre per day kelvin",
+    "isActive": true
   },
   {
     "code": "G7",
-    "name": "microfiche sheet"
+    "name": "microfiche sheet",
+    "isActive": true
   },
   {
     "code": "G70",
-    "name": "cubic metre per hour kelvin"
+    "name": "cubic metre per hour kelvin",
+    "isActive": true
   },
   {
     "code": "G71",
-    "name": "cubic metre per minute kelvin"
+    "name": "cubic metre per minute kelvin",
+    "isActive": true
   },
   {
     "code": "G72",
-    "name": "cubic metre per second kelvin"
+    "name": "cubic metre per second kelvin",
+    "isActive": true
   },
   {
     "code": "G73",
-    "name": "millilitre per day kelvin"
+    "name": "millilitre per day kelvin",
+    "isActive": true
   },
   {
     "code": "G74",
-    "name": "millilitre per hour kelvin"
+    "name": "millilitre per hour kelvin",
+    "isActive": true
   },
   {
     "code": "G75",
-    "name": "millilitre per minute kelvin"
+    "name": "millilitre per minute kelvin",
+    "isActive": true
   },
   {
     "code": "G76",
-    "name": "millilitre per second kelvin"
+    "name": "millilitre per second kelvin",
+    "isActive": true
   },
   {
     "code": "G77",
-    "name": "millimetre to the fourth power"
+    "name": "millimetre to the fourth power",
+    "isActive": true
   },
   {
     "code": "G78",
-    "name": "cubic centimetre per day bar"
+    "name": "cubic centimetre per day bar",
+    "isActive": true
   },
   {
     "code": "G79",
-    "name": "cubic centimetre per hour bar"
+    "name": "cubic centimetre per hour bar",
+    "isActive": true
   },
   {
     "code": "G80",
-    "name": "cubic centimetre per minute bar"
+    "name": "cubic centimetre per minute bar",
+    "isActive": true
   },
   {
     "code": "G81",
-    "name": "cubic centimetre per second bar"
+    "name": "cubic centimetre per second bar",
+    "isActive": true
   },
   {
     "code": "G82",
-    "name": "litre per day bar"
+    "name": "litre per day bar",
+    "isActive": true
   },
   {
     "code": "G83",
-    "name": "litre per hour bar"
+    "name": "litre per hour bar",
+    "isActive": true
   },
   {
     "code": "G84",
-    "name": "litre per minute bar"
+    "name": "litre per minute bar",
+    "isActive": true
   },
   {
     "code": "G85",
-    "name": "litre per second bar"
+    "name": "litre per second bar",
+    "isActive": true
   },
   {
     "code": "G86",
-    "name": "cubic metre per day bar"
+    "name": "cubic metre per day bar",
+    "isActive": true
   },
   {
     "code": "G87",
-    "name": "cubic metre per hour bar"
+    "name": "cubic metre per hour bar",
+    "isActive": true
   },
   {
     "code": "G88",
-    "name": "cubic metre per minute bar"
+    "name": "cubic metre per minute bar",
+    "isActive": true
   },
   {
     "code": "G89",
-    "name": "cubic metre per second bar"
+    "name": "cubic metre per second bar",
+    "isActive": true
   },
   {
     "code": "G90",
-    "name": "millilitre per day bar"
+    "name": "millilitre per day bar",
+    "isActive": true
   },
   {
     "code": "G91",
-    "name": "millilitre per hour bar"
+    "name": "millilitre per hour bar",
+    "isActive": true
   },
   {
     "code": "G92",
-    "name": "millilitre per minute bar"
+    "name": "millilitre per minute bar",
+    "isActive": true
   },
   {
     "code": "G93",
-    "name": "millilitre per second bar"
+    "name": "millilitre per second bar",
+    "isActive": true
   },
   {
     "code": "G94",
-    "name": "cubic centimetre per bar"
+    "name": "cubic centimetre per bar",
+    "isActive": true
   },
   {
     "code": "G95",
-    "name": "litre per bar"
+    "name": "litre per bar",
+    "isActive": true
   },
   {
     "code": "G96",
-    "name": "cubic metre per bar"
+    "name": "cubic metre per bar",
+    "isActive": true
   },
   {
     "code": "G97",
-    "name": "millilitre per bar"
+    "name": "millilitre per bar",
+    "isActive": true
   },
   {
     "code": "G98",
-    "name": "microhenry per kiloohm"
+    "name": "microhenry per kiloohm",
+    "isActive": true
   },
   {
     "code": "G99",
-    "name": "microhenry per ohm"
+    "name": "microhenry per ohm",
+    "isActive": true
   },
   {
     "code": "GB",
-    "name": "gallon (US) per day"
+    "name": "gallon (US) per day",
+    "isActive": true
   },
   {
     "code": "GBP",
-    "name": "United Kingdom Pound"
+    "name": "United Kingdom Pound",
+    "isActive": true
   },
   {
     "code": "GBQ",
-    "name": "Gigabecquerel"
+    "name": "Gigabecquerel",
+    "isActive": true
   },
   {
     "code": "GC",
-    "name": "gram per 100 gram"
+    "name": "gram per 100 gram",
+    "isActive": true
   },
   {
     "code": "GD",
-    "name": "gross barrel"
+    "name": "gross barrel",
+    "isActive": true
   },
   {
     "code": "GDW",
-    "name": "gram, dry weight"
+    "name": "gram, dry weight",
+    "isActive": true
   },
   {
     "code": "GE",
-    "name": "pound per gallon (US)"
+    "name": "pound per gallon (US)",
+    "isActive": true
   },
   {
     "code": "GEL",
-    "name": "Georgia Lari"
+    "name": "Georgia Lari",
+    "isActive": true
   },
   {
     "code": "GF",
-    "name": "gram per metre (gram per 100 centimetres)"
+    "name": "gram per metre (gram per 100 centimetres)",
+    "isActive": true
   },
   {
     "code": "GFI",
-    "name": "gram of fissile isotope"
+    "name": "gram of fissile isotope",
+    "isActive": true
   },
   {
     "code": "GGP",
-    "name": "Guernsey Pound"
+    "name": "Guernsey Pound",
+    "isActive": true
   },
   {
     "code": "GGR",
-    "name": "Great gross (12 gross)"
+    "name": "Great gross (12 gross)",
+    "isActive": true
   },
   {
     "code": "GH",
-    "name": "half gallon (US)"
+    "name": "half gallon (US)",
+    "isActive": true
   },
   {
     "code": "GHS",
-    "name": "Ghana Cedi"
+    "name": "Ghana Cedi",
+    "isActive": true
   },
   {
     "code": "GIA",
-    "name": "Gill (11,8294 cm3)"
+    "name": "Gill (11,8294 cm3)",
+    "isActive": true
   },
   {
     "code": "GIC",
-    "name": "gram, including container"
+    "name": "gram, including container",
+    "isActive": true
   },
   {
     "code": "GII",
-    "name": "Gill (0,142065 dm3)"
+    "name": "Gill (0,142065 dm3)",
+    "isActive": true
   },
   {
     "code": "GK",
-    "name": "gram per kilogram"
+    "name": "gram per kilogram",
+    "isActive": true
   },
   {
     "code": "GLD",
-    "name": "Dry gallon (4,404884 dm3)"
+    "name": "Dry gallon (4,404884 dm3)",
+    "isActive": true
   },
   {
     "code": "GLI",
-    "name": "Gallon (4,546092 dm3)"
+    "name": "Gallon (4,546092 dm3)",
+    "isActive": true
   },
   {
     "code": "GM",
-    "name": "gram per square metre"
+    "name": "gram per square metre",
+    "isActive": true
   },
   {
     "code": "GMD",
-    "name": "Gambia Dalasi"
+    "name": "Gambia Dalasi",
+    "isActive": true
   },
   {
     "code": "GNF",
-    "name": "Guinea Franc"
+    "name": "Guinea Franc",
+    "isActive": true
   },
   {
     "code": "GO",
-    "name": "milligram per square metre"
+    "name": "milligram per square metre",
+    "isActive": true
   },
   {
     "code": "GP",
-    "name": "milligram per cubic metre"
+    "name": "milligram per cubic metre",
+    "isActive": true
   },
   {
     "code": "GQ",
-    "name": "microgram per cubic metre"
+    "name": "microgram per cubic metre",
+    "isActive": true
   },
   {
     "code": "GRN",
-    "name": "Grain GB,US (64,798910 mg)"
+    "name": "Grain GB,US (64,798910 mg)",
+    "isActive": true
   },
   {
     "code": "GRO",
-    "name": "Gross"
+    "name": "Gross",
+    "isActive": true
   },
   {
     "code": "GRT",
-    "name": "Gross (register) ton"
+    "name": "Gross (register) ton",
+    "isActive": true
   },
   {
     "code": "GTQ",
-    "name": "Guatemala Quetzal"
+    "name": "Guatemala Quetzal",
+    "isActive": true
   },
   {
     "code": "GV",
-    "name": "gigajoule"
+    "name": "gigajoule",
+    "isActive": true
   },
   {
     "code": "GW",
-    "name": "gallon per thousand cubic foot"
+    "name": "gallon per thousand cubic foot",
+    "isActive": true
   },
   {
     "code": "GWH",
-    "name": "Gigawatt-hour (1 million KW/h)"
+    "name": "Gigawatt-hour (1 million KW/h)",
+    "isActive": true
   },
   {
     "code": "GY",
-    "name": "gross yard"
+    "name": "gross yard",
+    "isActive": true
   },
   {
     "code": "GYD",
-    "name": "Guyana Dollar"
+    "name": "Guyana Dollar",
+    "isActive": true
   },
   {
     "code": "H03",
-    "name": "henry per kiloohm"
+    "name": "henry per kiloohm",
+    "isActive": true
   },
   {
     "code": "H04",
-    "name": "henry per ohm"
+    "name": "henry per ohm",
+    "isActive": true
   },
   {
     "code": "H05",
-    "name": "millihenry per kiloohm"
+    "name": "millihenry per kiloohm",
+    "isActive": true
   },
   {
     "code": "H06",
-    "name": "millihenry per ohm"
+    "name": "millihenry per ohm",
+    "isActive": true
   },
   {
     "code": "H08",
-    "name": "microbecquerel"
+    "name": "microbecquerel",
+    "isActive": true
   },
   {
     "code": "H09",
-    "name": "reciprocal year"
+    "name": "reciprocal year",
+    "isActive": true
   },
   {
     "code": "H1",
-    "name": "half page - electronic"
+    "name": "half page - electronic",
+    "isActive": true
   },
   {
     "code": "H11",
-    "name": "reciprocal month"
+    "name": "reciprocal month",
+    "isActive": true
   },
   {
     "code": "H12",
-    "name": "degree Celsius per hour"
+    "name": "degree Celsius per hour",
+    "isActive": true
   },
   {
     "code": "H14",
-    "name": "degree Celsius per second"
+    "name": "degree Celsius per second",
+    "isActive": true
   },
   {
     "code": "H16",
-    "name": "square decametre"
+    "name": "square decametre",
+    "isActive": true
   },
   {
     "code": "H18",
-    "name": "square hectometre"
+    "name": "square hectometre",
+    "isActive": true
   },
   {
     "code": "H19",
-    "name": "cubic hectometre"
+    "name": "cubic hectometre",
+    "isActive": true
   },
   {
     "code": "H2",
-    "name": "half litre"
+    "name": "half litre",
+    "isActive": true
   },
   {
     "code": "H21",
-    "name": "blank"
+    "name": "blank",
+    "isActive": true
   },
   {
     "code": "H22",
-    "name": "volt square inch per pound-force"
+    "name": "volt square inch per pound-force",
+    "isActive": true
   },
   {
     "code": "H23",
-    "name": "volt per inch"
+    "name": "volt per inch",
+    "isActive": true
   },
   {
     "code": "H24",
-    "name": "volt per microsecond"
+    "name": "volt per microsecond",
+    "isActive": true
   },
   {
     "code": "H26",
-    "name": "ohm per metre"
+    "name": "ohm per metre",
+    "isActive": true
   },
   {
     "code": "H29",
-    "name": "microgram per litre"
+    "name": "microgram per litre",
+    "isActive": true
   },
   {
     "code": "H30",
-    "name": "square micrometre"
+    "name": "square micrometre",
+    "isActive": true
   },
   {
     "code": "H31",
-    "name": "ampere per kilogram"
+    "name": "ampere per kilogram",
+    "isActive": true
   },
   {
     "code": "H32",
-    "name": "ampere squared second"
+    "name": "ampere squared second",
+    "isActive": true
   },
   {
     "code": "H34",
-    "name": "hertz metre"
+    "name": "hertz metre",
+    "isActive": true
   },
   {
     "code": "H35",
-    "name": "kelvin metre per watt"
+    "name": "kelvin metre per watt",
+    "isActive": true
   },
   {
     "code": "H36",
-    "name": "megaohm per kilometre"
+    "name": "megaohm per kilometre",
+    "isActive": true
   },
   {
     "code": "H37",
-    "name": "megaohm per metre"
+    "name": "megaohm per metre",
+    "isActive": true
   },
   {
     "code": "H40",
-    "name": "newton per ampere"
+    "name": "newton per ampere",
+    "isActive": true
   },
   {
     "code": "H41",
-    "name": "newton metre watt to the power minus 0,5"
+    "name": "newton metre watt to the power minus 0,5",
+    "isActive": true
   },
   {
     "code": "H42",
-    "name": "pascal per metre"
+    "name": "pascal per metre",
+    "isActive": true
   },
   {
     "code": "H43",
-    "name": "siemens per centimetre"
+    "name": "siemens per centimetre",
+    "isActive": true
   },
   {
     "code": "H44",
-    "name": "teraohm"
+    "name": "teraohm",
+    "isActive": true
   },
   {
     "code": "H45",
-    "name": "volt second per metre"
+    "name": "volt second per metre",
+    "isActive": true
   },
   {
     "code": "H46",
-    "name": "volt per second"
+    "name": "volt per second",
+    "isActive": true
   },
   {
     "code": "H47",
-    "name": "watt per cubic metre"
+    "name": "watt per cubic metre",
+    "isActive": true
   },
   {
     "code": "H48",
-    "name": "attofarad"
+    "name": "attofarad",
+    "isActive": true
   },
   {
     "code": "H49",
-    "name": "centimetre per hour"
+    "name": "centimetre per hour",
+    "isActive": true
   },
   {
     "code": "H50",
-    "name": "reciprocal cubic centimetre"
+    "name": "reciprocal cubic centimetre",
+    "isActive": true
   },
   {
     "code": "H51",
-    "name": "decibel per kilometre"
+    "name": "decibel per kilometre",
+    "isActive": true
   },
   {
     "code": "H52",
-    "name": "decibel per metre"
+    "name": "decibel per metre",
+    "isActive": true
   },
   {
     "code": "H53",
-    "name": "kilogram per bar"
+    "name": "kilogram per bar",
+    "isActive": true
   },
   {
     "code": "H54",
-    "name": "kilogram per cubic decimetre kelvin"
+    "name": "kilogram per cubic decimetre kelvin",
+    "isActive": true
   },
   {
     "code": "H56",
-    "name": "kilogram per square metre second"
+    "name": "kilogram per square metre second",
+    "isActive": true
   },
   {
     "code": "H57",
-    "name": "inch per two pi radiant"
+    "name": "inch per two pi radiant",
+    "isActive": true
   },
   {
     "code": "H58",
-    "name": "metre per volt second"
+    "name": "metre per volt second",
+    "isActive": true
   },
   {
     "code": "H60",
-    "name": "cubic metre per cubic metre"
+    "name": "cubic metre per cubic metre",
+    "isActive": true
   },
   {
     "code": "H62",
-    "name": "millivolt per minute"
+    "name": "millivolt per minute",
+    "isActive": true
   },
   {
     "code": "H63",
-    "name": "milligram per square centimetre"
+    "name": "milligram per square centimetre",
+    "isActive": true
   },
   {
     "code": "H65",
-    "name": "millilitre per cubic metre"
+    "name": "millilitre per cubic metre",
+    "isActive": true
   },
   {
     "code": "H68",
-    "name": "millimole per gram"
+    "name": "millimole per gram",
+    "isActive": true
   },
   {
     "code": "H69",
-    "name": "picopascal per kilometre"
+    "name": "picopascal per kilometre",
+    "isActive": true
   },
   {
     "code": "H70",
-    "name": "picosecond"
+    "name": "picosecond",
+    "isActive": true
   },
   {
     "code": "H71",
-    "name": "percent per month"
+    "name": "percent per month",
+    "isActive": true
   },
   {
     "code": "H74",
-    "name": "watt per metre"
+    "name": "watt per metre",
+    "isActive": true
   },
   {
     "code": "H76",
-    "name": "gram per millimetre"
+    "name": "gram per millimetre",
+    "isActive": true
   },
   {
     "code": "H77",
-    "name": "module width"
+    "name": "module width",
+    "isActive": true
   },
   {
     "code": "H78",
-    "name": "conventional centimetre of water"
+    "name": "conventional centimetre of water",
+    "isActive": true
   },
   {
     "code": "H79",
-    "name": "French gauge"
+    "name": "French gauge",
+    "isActive": true
   },
   {
     "code": "H80",
-    "name": "rack unit"
+    "name": "rack unit",
+    "isActive": true
   },
   {
     "code": "H81",
-    "name": "millimetre per minute"
+    "name": "millimetre per minute",
+    "isActive": true
   },
   {
     "code": "H83",
-    "name": "litre per kilogram"
+    "name": "litre per kilogram",
+    "isActive": true
   },
   {
     "code": "H84",
-    "name": "gram millimetre"
+    "name": "gram millimetre",
+    "isActive": true
   },
   {
     "code": "H85",
-    "name": "reciprocal week"
+    "name": "reciprocal week",
+    "isActive": true
   },
   {
     "code": "H87",
-    "name": "piece"
+    "name": "piece",
+    "isActive": true
   },
   {
     "code": "H88",
-    "name": "megaohm kilometre"
+    "name": "megaohm kilometre",
+    "isActive": true
   },
   {
     "code": "H90",
-    "name": "percent per degree"
+    "name": "percent per degree",
+    "isActive": true
   },
   {
     "code": "H92",
-    "name": "percent per one hundred thousand"
+    "name": "percent per one hundred thousand",
+    "isActive": true
   },
   {
     "code": "H93",
-    "name": "percent per hundred"
+    "name": "percent per hundred",
+    "isActive": true
   },
   {
     "code": "H94",
-    "name": "percent per thousand"
+    "name": "percent per thousand",
+    "isActive": true
   },
   {
     "code": "H95",
-    "name": "percent per volt"
+    "name": "percent per volt",
+    "isActive": true
   },
   {
     "code": "H96",
-    "name": "percent per bar"
+    "name": "percent per bar",
+    "isActive": true
   },
   {
     "code": "H98",
-    "name": "percent per inch"
+    "name": "percent per inch",
+    "isActive": true
   },
   {
     "code": "H99",
-    "name": "percent per metre"
+    "name": "percent per metre",
+    "isActive": true
   },
   {
     "code": "HA",
-    "name": "hank"
+    "name": "hank",
+    "isActive": true
   },
   {
     "code": "HAR",
-    "name": "Hectare"
+    "name": "Hectare",
+    "isActive": true
   },
   {
     "code": "HBA",
-    "name": "Hectobar"
+    "name": "Hectobar",
+    "isActive": true
   },
   {
     "code": "HBX",
-    "name": "hundred boxes"
+    "name": "hundred boxes",
+    "isActive": true
   },
   {
     "code": "HC",
-    "name": "hundred count"
+    "name": "hundred count",
+    "isActive": true
   },
   {
     "code": "HD",
-    "name": "half dozen"
+    "name": "half dozen",
+    "isActive": true
   },
   {
     "code": "HDW",
-    "name": "hundred kilogram, dry weight"
+    "name": "hundred kilogram, dry weight",
+    "isActive": true
   },
   {
     "code": "HE",
-    "name": "hundredth of a carat"
+    "name": "hundredth of a carat",
+    "isActive": true
   },
   {
     "code": "HEA",
-    "name": "head"
+    "name": "head",
+    "isActive": true
   },
   {
     "code": "HF",
-    "name": "hundred foot"
+    "name": "hundred foot",
+    "isActive": true
   },
   {
     "code": "HH",
-    "name": "hundred cubic foot"
+    "name": "hundred cubic foot",
+    "isActive": true
   },
   {
     "code": "HI",
-    "name": "hundred sheet"
+    "name": "hundred sheet",
+    "isActive": true
   },
   {
     "code": "HIU",
-    "name": "Hundred intenational units"
+    "name": "Hundred intenational units",
+    "isActive": true
   },
   {
     "code": "HJ",
-    "name": "metric horse power"
+    "name": "metric horse power",
+    "isActive": true
   },
   {
     "code": "HK",
-    "name": "hundred kilogram"
+    "name": "hundred kilogram",
+    "isActive": true
   },
   {
     "code": "HKD",
-    "name": "Hong Kong Dollar"
+    "name": "Hong Kong Dollar",
+    "isActive": true
   },
   {
     "code": "HKM",
-    "name": "hundred kilogram, net mass"
+    "name": "hundred kilogram, net mass",
+    "isActive": true
   },
   {
     "code": "HL",
-    "name": "hundred foot (linear)"
+    "name": "hundred foot (linear)",
+    "isActive": true
   },
   {
     "code": "HLT",
-    "name": "Hectolitre"
+    "name": "Hectolitre",
+    "isActive": true
   },
   {
     "code": "HM",
-    "name": "mile per hour"
+    "name": "mile per hour",
+    "isActive": true
   },
   {
     "code": "HMT",
-    "name": "Hectometre"
+    "name": "Hectometre",
+    "isActive": true
   },
   {
     "code": "HN",
-    "name": "conventional millimetre of mercury"
+    "name": "conventional millimetre of mercury",
+    "isActive": true
   },
   {
     "code": "HNL",
-    "name": "Honduras Lempira"
+    "name": "Honduras Lempira",
+    "isActive": true
   },
   {
     "code": "HO",
-    "name": "hundred troy ounce"
+    "name": "hundred troy ounce",
+    "isActive": true
   },
   {
     "code": "HPA",
-    "name": "Hectolitre of pure alcohol"
+    "name": "Hectolitre of pure alcohol",
+    "isActive": true
   },
   {
     "code": "HRK",
-    "name": "Croatia Kuna"
+    "name": "Croatia Kuna",
+    "isActive": true
   },
   {
     "code": "HS",
-    "name": "hundred square foot"
+    "name": "hundred square foot",
+    "isActive": true
   },
   {
     "code": "HT",
-    "name": "half hour"
+    "name": "half hour",
+    "isActive": true
   },
   {
     "code": "HTG",
-    "name": "Haiti Gourde"
+    "name": "Haiti Gourde",
+    "isActive": true
   },
   {
     "code": "HTZ",
-    "name": "Hertz"
+    "name": "Hertz",
+    "isActive": true
   },
   {
     "code": "HUF",
-    "name": "Hungary Forint"
+    "name": "Hungary Forint",
+    "isActive": true
   },
   {
     "code": "HUR",
-    "name": "Hour"
+    "name": "Hour",
+    "isActive": true
   },
   {
     "code": "HY",
-    "name": "hundred yard"
+    "name": "hundred yard",
+    "isActive": true
   },
   {
     "code": "IC",
-    "name": "count per inch"
+    "name": "count per inch",
+    "isActive": true
   },
   {
     "code": "IDR",
-    "name": "Indonesia Rupiah"
+    "name": "Indonesia Rupiah",
+    "isActive": true
   },
   {
     "code": "IE",
-    "name": "person"
+    "name": "person",
+    "isActive": true
   },
   {
     "code": "II",
-    "name": "column inch"
+    "name": "column inch",
+    "isActive": true
   },
   {
     "code": "IL",
-    "name": "inch per minute"
+    "name": "inch per minute",
+    "isActive": true
   },
   {
     "code": "ILS",
-    "name": "Israel Shekel"
+    "name": "Israel Shekel",
+    "isActive": true
   },
   {
     "code": "IM",
-    "name": "impression"
+    "name": "impression",
+    "isActive": true
   },
   {
     "code": "IMP",
-    "name": "Isle of Man Pound"
+    "name": "Isle of Man Pound",
+    "isActive": true
   },
   {
     "code": "INH",
-    "name": "Inch (2.54 mm)"
+    "name": "Inch (2.54 mm)",
+    "isActive": true
   },
   {
     "code": "INK",
-    "name": "Square inch"
+    "name": "Square inch",
+    "isActive": true
   },
   {
     "code": "INQ",
-    "name": "Cubic inch"
+    "name": "Cubic inch",
+    "isActive": true
   },
   {
     "code": "INR",
-    "name": "India Rupee"
+    "name": "India Rupee",
+    "isActive": true
   },
   {
     "code": "ISK",
-    "name": "Iceland Krona"
+    "name": "Iceland Krona",
+    "isActive": true
   },
   {
     "code": "IU",
-    "name": "inch per second"
+    "name": "inch per second",
+    "isActive": true
   },
   {
     "code": "IUG",
-    "name": "international unit per gram"
+    "name": "international unit per gram",
+    "isActive": true
   },
   {
     "code": "IV",
-    "name": "inch per second squared"
+    "name": "inch per second squared",
+    "isActive": true
   },
   {
     "code": "J12",
-    "name": "per mille per psi"
+    "name": "per mille per psi",
+    "isActive": true
   },
   {
     "code": "J13",
-    "name": "degree API"
+    "name": "degree API",
+    "isActive": true
   },
   {
     "code": "J14",
-    "name": "degree Baume (origin scale)"
+    "name": "degree Baume (origin scale)",
+    "isActive": true
   },
   {
     "code": "J15",
-    "name": "degree Baume (US heavy)"
+    "name": "degree Baume (US heavy)",
+    "isActive": true
   },
   {
     "code": "J16",
-    "name": "degree Baume (US light)"
+    "name": "degree Baume (US light)",
+    "isActive": true
   },
   {
     "code": "J18",
-    "name": "degree Brix"
+    "name": "degree Brix",
+    "isActive": true
   },
   {
     "code": "J19",
-    "name": "degree Fahrenheit hoursquarefoot/Britishthermalunit/hour"
+    "name": "degree Fahrenheit hoursquarefoot/Britishthermalunit/hour",
+    "isActive": true
   },
   {
     "code": "J2",
-    "name": "joule per kilogram"
+    "name": "joule per kilogram",
+    "isActive": true
   },
   {
     "code": "J20",
-    "name": "degree Fahrenheit per kelvin"
+    "name": "degree Fahrenheit per kelvin",
+    "isActive": true
   },
   {
     "code": "J21",
-    "name": "degree Fahrenheit per bar"
+    "name": "degree Fahrenheit per bar",
+    "isActive": true
   },
   {
     "code": "J22",
-    "name": "British thermalunit/hour square foot degree Fahrenheit"
+    "name": "British thermalunit/hour square foot degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J25",
-    "name": "degree Fahrenheit per second"
+    "name": "degree Fahrenheit per second",
+    "isActive": true
   },
   {
     "code": "J26",
-    "name": "reciprocal degree Fahrenheit"
+    "name": "reciprocal degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J28",
-    "name": "degree Rankine per hour"
+    "name": "degree Rankine per hour",
+    "isActive": true
   },
   {
     "code": "J29",
-    "name": "degree Rankine per minute"
+    "name": "degree Rankine per minute",
+    "isActive": true
   },
   {
     "code": "J30",
-    "name": "degree Rankine per second"
+    "name": "degree Rankine per second",
+    "isActive": true
   },
   {
     "code": "J31",
-    "name": "degree Twaddell"
+    "name": "degree Twaddell",
+    "isActive": true
   },
   {
     "code": "J32",
-    "name": "micropoise"
+    "name": "micropoise",
+    "isActive": true
   },
   {
     "code": "J33",
-    "name": "microgram per kilogram"
+    "name": "microgram per kilogram",
+    "isActive": true
   },
   {
     "code": "J34",
-    "name": "microgram per cubic metre kelvin"
+    "name": "microgram per cubic metre kelvin",
+    "isActive": true
   },
   {
     "code": "J35",
-    "name": "microgram per cubic metre bar"
+    "name": "microgram per cubic metre bar",
+    "isActive": true
   },
   {
     "code": "J36",
-    "name": "microlitre per litre"
+    "name": "microlitre per litre",
+    "isActive": true
   },
   {
     "code": "J38",
-    "name": "baud"
+    "name": "baud",
+    "isActive": true
   },
   {
     "code": "J39",
-    "name": "British thermal unit (mean)"
+    "name": "British thermal unit (mean)",
+    "isActive": true
   },
   {
     "code": "J40",
-    "name": "British thermalunit foot/hour squarefoot degree Fahrenheit"
+    "name": "British thermalunit foot/hour squarefoot degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J41",
-    "name": "British thermalunit inch/hour squarefoot degree Fahrenheit"
+    "name": "British thermalunit inch/hour squarefoot degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J42",
-    "name": "British thermalunit inch/second squarefoot degree Fahrenheit"
+    "name": "British thermalunit inch/second squarefoot degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J43",
-    "name": "British thermal unit per pound degree Fahrenheit"
+    "name": "British thermal unit per pound degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J44",
-    "name": "British thermal unit (international table) /minute"
+    "name": "British thermal unit (international table) /minute",
+    "isActive": true
   },
   {
     "code": "J45",
-    "name": "British thermal unit (international table) /second"
+    "name": "British thermal unit (international table) /second",
+    "isActive": true
   },
   {
     "code": "J46",
-    "name": "British thermalunit foot/hour squarefoot degree Fahrenheit"
+    "name": "British thermalunit foot/hour squarefoot degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J47",
-    "name": "British thermal unit (thermochemical) per hour"
+    "name": "British thermal unit (thermochemical) per hour",
+    "isActive": true
   },
   {
     "code": "J48",
-    "name": "British thermalunit inch/hour squarefoot degree Fahrenheit"
+    "name": "British thermalunit inch/hour squarefoot degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J49",
-    "name": "British thermalunit inch/second squarefoot degree Fahrenheit"
+    "name": "British thermalunit inch/second squarefoot degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "J51",
-    "name": "British thermal unit (thermochemical) per minute"
+    "name": "British thermal unit (thermochemical) per minute",
+    "isActive": true
   },
   {
     "code": "J53",
-    "name": "coulomb square metre per kilogram"
+    "name": "coulomb square metre per kilogram",
+    "isActive": true
   },
   {
     "code": "J54",
-    "name": "megabaud"
+    "name": "megabaud",
+    "isActive": true
   },
   {
     "code": "J55",
-    "name": "watt second"
+    "name": "watt second",
+    "isActive": true
   },
   {
     "code": "J56",
-    "name": "bar per bar"
+    "name": "bar per bar",
+    "isActive": true
   },
   {
     "code": "J57",
-    "name": "barrel (UK petroleum)"
+    "name": "barrel (UK petroleum)",
+    "isActive": true
   },
   {
     "code": "J58",
-    "name": "barrel (UK petroleum) per minute"
+    "name": "barrel (UK petroleum) per minute",
+    "isActive": true
   },
   {
     "code": "J60",
-    "name": "barrel (UK petroleum) per hour"
+    "name": "barrel (UK petroleum) per hour",
+    "isActive": true
   },
   {
     "code": "J61",
-    "name": "barrel (UK petroleum) per second"
+    "name": "barrel (UK petroleum) per second",
+    "isActive": true
   },
   {
     "code": "J63",
-    "name": "barrel (US petroleum) per second"
+    "name": "barrel (US petroleum) per second",
+    "isActive": true
   },
   {
     "code": "J64",
-    "name": "bushel (UK) per day"
+    "name": "bushel (UK) per day",
+    "isActive": true
   },
   {
     "code": "J65",
-    "name": "bushel (UK) per hour"
+    "name": "bushel (UK) per hour",
+    "isActive": true
   },
   {
     "code": "J66",
-    "name": "bushel (UK) per minute"
+    "name": "bushel (UK) per minute",
+    "isActive": true
   },
   {
     "code": "J67",
-    "name": "bushel (UK) per second"
+    "name": "bushel (UK) per second",
+    "isActive": true
   },
   {
     "code": "J69",
-    "name": "bushel (US dry) per hour"
+    "name": "bushel (US dry) per hour",
+    "isActive": true
   },
   {
     "code": "J71",
-    "name": "bushel (US dry) per second"
+    "name": "bushel (US dry) per second",
+    "isActive": true
   },
   {
     "code": "J72",
-    "name": "centinewton metre"
+    "name": "centinewton metre",
+    "isActive": true
   },
   {
     "code": "J73",
-    "name": "centipoise per kelvin"
+    "name": "centipoise per kelvin",
+    "isActive": true
   },
   {
     "code": "J74",
-    "name": "centipoise per bar"
+    "name": "centipoise per bar",
+    "isActive": true
   },
   {
     "code": "J75",
-    "name": "calorie (mean)"
+    "name": "calorie (mean)",
+    "isActive": true
   },
   {
     "code": "J76",
-    "name": "calorie (international table) /gram degree Celsius"
+    "name": "calorie (international table) /gram degree Celsius",
+    "isActive": true
   },
   {
     "code": "J79",
-    "name": "calorie (thermochemical) per gram degree Celsius"
+    "name": "calorie (thermochemical) per gram degree Celsius",
+    "isActive": true
   },
   {
     "code": "J81",
-    "name": "calorie (thermochemical) per minute"
+    "name": "calorie (thermochemical) per minute",
+    "isActive": true
   },
   {
     "code": "J82",
-    "name": "calorie (thermochemical) per second"
+    "name": "calorie (thermochemical) per second",
+    "isActive": true
   },
   {
     "code": "J83",
-    "name": "clo"
+    "name": "clo",
+    "isActive": true
   },
   {
     "code": "J84",
-    "name": "centimetre per second kelvin"
+    "name": "centimetre per second kelvin",
+    "isActive": true
   },
   {
     "code": "J85",
-    "name": "centimetre per second bar"
+    "name": "centimetre per second bar",
+    "isActive": true
   },
   {
     "code": "J89",
-    "name": "centimetre of mercury"
+    "name": "centimetre of mercury",
+    "isActive": true
   },
   {
     "code": "J90",
-    "name": "cubic decimetre per day"
+    "name": "cubic decimetre per day",
+    "isActive": true
   },
   {
     "code": "J92",
-    "name": "cubic decimetre per minute"
+    "name": "cubic decimetre per minute",
+    "isActive": true
   },
   {
     "code": "J93",
-    "name": "cubic decimetre per second"
+    "name": "cubic decimetre per second",
+    "isActive": true
   },
   {
     "code": "J94",
-    "name": "dyne centimetre"
+    "name": "dyne centimetre",
+    "isActive": true
   },
   {
     "code": "J95",
-    "name": "ounce (UK fluid) per day"
+    "name": "ounce (UK fluid) per day",
+    "isActive": true
   },
   {
     "code": "J98",
-    "name": "ounce (UK fluid) per second"
+    "name": "ounce (UK fluid) per second",
+    "isActive": true
   },
   {
     "code": "JB",
-    "name": "jumbo"
+    "name": "jumbo",
+    "isActive": true
   },
   {
     "code": "JEP",
-    "name": "Jersey Pound"
+    "name": "Jersey Pound",
+    "isActive": true
   },
   {
     "code": "JK",
-    "name": "megajoule per kilogram"
+    "name": "megajoule per kilogram",
+    "isActive": true
   },
   {
     "code": "JM",
-    "name": "megajoule per cubic metre"
+    "name": "megajoule per cubic metre",
+    "isActive": true
   },
   {
     "code": "JNT",
-    "name": "pipeline joint"
+    "name": "pipeline joint",
+    "isActive": true
   },
   {
     "code": "JO",
-    "name": "joint"
+    "name": "joint",
+    "isActive": true
   },
   {
     "code": "JOD",
-    "name": "Jordan Dinar"
+    "name": "Jordan Dinar",
+    "isActive": true
   },
   {
     "code": "JPS",
-    "name": "hundred metre"
+    "name": "hundred metre",
+    "isActive": true
   },
   {
     "code": "JR",
-    "name": "jar"
+    "name": "jar",
+    "isActive": true
   },
   {
     "code": "JWL",
-    "name": "number of jewels"
+    "name": "number of jewels",
+    "isActive": true
   },
   {
     "code": "K1",
-    "name": "kilowatt demand"
+    "name": "kilowatt demand",
+    "isActive": true
   },
   {
     "code": "K10",
-    "name": "ounce (US fluid) per hour"
+    "name": "ounce (US fluid) per hour",
+    "isActive": true
   },
   {
     "code": "K11",
-    "name": "ounce (US fluid) per minute"
+    "name": "ounce (US fluid) per minute",
+    "isActive": true
   },
   {
     "code": "K13",
-    "name": "foot per degree Fahrenheit"
+    "name": "foot per degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "K14",
-    "name": "foot per hour"
+    "name": "foot per hour",
+    "isActive": true
   },
   {
     "code": "K15",
-    "name": "foot pound-force per hour"
+    "name": "foot pound-force per hour",
+    "isActive": true
   },
   {
     "code": "K16",
-    "name": "foot pound-force per minute"
+    "name": "foot pound-force per minute",
+    "isActive": true
   },
   {
     "code": "K17",
-    "name": "foot per psi"
+    "name": "foot per psi",
+    "isActive": true
   },
   {
     "code": "K19",
-    "name": "foot per second psi"
+    "name": "foot per second psi",
+    "isActive": true
   },
   {
     "code": "K2",
-    "name": "kilovolt ampere reactive demand"
+    "name": "kilovolt ampere reactive demand",
+    "isActive": true
   },
   {
     "code": "K20",
-    "name": "reciprocal cubic foot"
+    "name": "reciprocal cubic foot",
+    "isActive": true
   },
   {
     "code": "K21",
-    "name": "cubic foot per degree Fahrenheit"
+    "name": "cubic foot per degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "K22",
-    "name": "cubic foot per day"
+    "name": "cubic foot per day",
+    "isActive": true
   },
   {
     "code": "K23",
-    "name": "cubic foot per psi"
+    "name": "cubic foot per psi",
+    "isActive": true
   },
   {
     "code": "K25",
-    "name": "foot of mercury"
+    "name": "foot of mercury",
+    "isActive": true
   },
   {
     "code": "K26",
-    "name": "gallon (UK) per day"
+    "name": "gallon (UK) per day",
+    "isActive": true
   },
   {
     "code": "K27",
-    "name": "gallon (UK) per hour"
+    "name": "gallon (UK) per hour",
+    "isActive": true
   },
   {
     "code": "K28",
-    "name": "gallon (UK) per second"
+    "name": "gallon (UK) per second",
+    "isActive": true
   },
   {
     "code": "K3",
-    "name": "kilovolt ampere reactive hour"
+    "name": "kilovolt ampere reactive hour",
+    "isActive": true
   },
   {
     "code": "K31",
-    "name": "gram-force per square centimetre"
+    "name": "gram-force per square centimetre",
+    "isActive": true
   },
   {
     "code": "K32",
-    "name": "gill (UK) per day"
+    "name": "gill (UK) per day",
+    "isActive": true
   },
   {
     "code": "K33",
-    "name": "gill (UK) per hour"
+    "name": "gill (UK) per hour",
+    "isActive": true
   },
   {
     "code": "K35",
-    "name": "gill (UK) per second"
+    "name": "gill (UK) per second",
+    "isActive": true
   },
   {
     "code": "K37",
-    "name": "gill (US) per hour"
+    "name": "gill (US) per hour",
+    "isActive": true
   },
   {
     "code": "K38",
-    "name": "gill (US) per minute"
+    "name": "gill (US) per minute",
+    "isActive": true
   },
   {
     "code": "K39",
-    "name": "gill (US) per second"
+    "name": "gill (US) per second",
+    "isActive": true
   },
   {
     "code": "K41",
-    "name": "grain per gallon (US)"
+    "name": "grain per gallon (US)",
+    "isActive": true
   },
   {
     "code": "K42",
-    "name": "horsepower (boiler)"
+    "name": "horsepower (boiler)",
+    "isActive": true
   },
   {
     "code": "K43",
-    "name": "horsepower (electric)"
+    "name": "horsepower (electric)",
+    "isActive": true
   },
   {
     "code": "K46",
-    "name": "inch per psi"
+    "name": "inch per psi",
+    "isActive": true
   },
   {
     "code": "K48",
-    "name": "inch per second psi"
+    "name": "inch per second psi",
+    "isActive": true
   },
   {
     "code": "K49",
-    "name": "reciprocal cubic inch"
+    "name": "reciprocal cubic inch",
+    "isActive": true
   },
   {
     "code": "K5",
-    "name": "kilovolt ampere (reactive)"
+    "name": "kilovolt ampere (reactive)",
+    "isActive": true
   },
   {
     "code": "K50",
-    "name": "kilobaud"
+    "name": "kilobaud",
+    "isActive": true
   },
   {
     "code": "K51",
-    "name": "kilocalorie (mean)"
+    "name": "kilocalorie (mean)",
+    "isActive": true
   },
   {
     "code": "K52",
-    "name": "kilocalorie (IT) per hour metre degree Celsius"
+    "name": "kilocalorie (IT) per hour metre degree Celsius",
+    "isActive": true
   },
   {
     "code": "K53",
-    "name": "kilocalorie (thermochemical)"
+    "name": "kilocalorie (thermochemical)",
+    "isActive": true
   },
   {
     "code": "K54",
-    "name": "kilocalorie (thermochemical) per minute"
+    "name": "kilocalorie (thermochemical) per minute",
+    "isActive": true
   },
   {
     "code": "K55",
-    "name": "kilocalorie (thermochemical) per second"
+    "name": "kilocalorie (thermochemical) per second",
+    "isActive": true
   },
   {
     "code": "K58",
-    "name": "kilomole per hour"
+    "name": "kilomole per hour",
+    "isActive": true
   },
   {
     "code": "K59",
-    "name": "kilomole per cubic metre kelvin"
+    "name": "kilomole per cubic metre kelvin",
+    "isActive": true
   },
   {
     "code": "K6",
-    "name": "kilolitre"
+    "name": "kilolitre",
+    "isActive": true
   },
   {
     "code": "K60",
-    "name": "kilomole per cubic metre bar"
+    "name": "kilomole per cubic metre bar",
+    "isActive": true
   },
   {
     "code": "K61",
-    "name": "kilomole per minute"
+    "name": "kilomole per minute",
+    "isActive": true
   },
   {
     "code": "K62",
-    "name": "litre per litre"
+    "name": "litre per litre",
+    "isActive": true
   },
   {
     "code": "K63",
-    "name": "reciprocal litre"
+    "name": "reciprocal litre",
+    "isActive": true
   },
   {
     "code": "K64",
-    "name": "pound (avoirdupois) per degree Fahrenheit"
+    "name": "pound (avoirdupois) per degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "K65",
-    "name": "pound (avoirdupois) square foot"
+    "name": "pound (avoirdupois) square foot",
+    "isActive": true
   },
   {
     "code": "K67",
-    "name": "pound per foot hour"
+    "name": "pound per foot hour",
+    "isActive": true
   },
   {
     "code": "K68",
-    "name": "pound per foot second"
+    "name": "pound per foot second",
+    "isActive": true
   },
   {
     "code": "K70",
-    "name": "pound (avoirdupois) per cubic foot psi"
+    "name": "pound (avoirdupois) per cubic foot psi",
+    "isActive": true
   },
   {
     "code": "K71",
-    "name": "pound (avoirdupois) per gallon (UK)"
+    "name": "pound (avoirdupois) per gallon (UK)",
+    "isActive": true
   },
   {
     "code": "K73",
-    "name": "pound (avoirdupois) per hour degree Fahrenheit"
+    "name": "pound (avoirdupois) per hour degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "K74",
-    "name": "pound (avoirdupois) per hour psi"
+    "name": "pound (avoirdupois) per hour psi",
+    "isActive": true
   },
   {
     "code": "K75",
-    "name": "pound/avoirdupois per cubic inch degree Fahrenheit"
+    "name": "pound/avoirdupois per cubic inch degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "K76",
-    "name": "pound (avoirdupois) per cubic inch psi"
+    "name": "pound (avoirdupois) per cubic inch psi",
+    "isActive": true
   },
   {
     "code": "K77",
-    "name": "pound (avoirdupois) per psi"
+    "name": "pound (avoirdupois) per psi",
+    "isActive": true
   },
   {
     "code": "K78",
-    "name": "pound (avoirdupois) per minute"
+    "name": "pound (avoirdupois) per minute",
+    "isActive": true
   },
   {
     "code": "K79",
-    "name": "pound (avoirdupois) per minute degree Fahrenheit"
+    "name": "pound (avoirdupois) per minute degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "K80",
-    "name": "pound (avoirdupois) per minute psi"
+    "name": "pound (avoirdupois) per minute psi",
+    "isActive": true
   },
   {
     "code": "K81",
-    "name": "pound (avoirdupois) per second"
+    "name": "pound (avoirdupois) per second",
+    "isActive": true
   },
   {
     "code": "K83",
-    "name": "pound (avoirdupois) per second psi"
+    "name": "pound (avoirdupois) per second psi",
+    "isActive": true
   },
   {
     "code": "K84",
-    "name": "pound per cubic yard"
+    "name": "pound per cubic yard",
+    "isActive": true
   },
   {
     "code": "K85",
-    "name": "pound-force per square foot"
+    "name": "pound-force per square foot",
+    "isActive": true
   },
   {
     "code": "K86",
-    "name": "pound-force per square inch degree Fahrenheit"
+    "name": "pound-force per square inch degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "K87",
-    "name": "psi cubic inch per second"
+    "name": "psi cubic inch per second",
+    "isActive": true
   },
   {
     "code": "K88",
-    "name": "psi litre per second"
+    "name": "psi litre per second",
+    "isActive": true
   },
   {
     "code": "K89",
-    "name": "psi cubic metre per second"
+    "name": "psi cubic metre per second",
+    "isActive": true
   },
   {
     "code": "K90",
-    "name": "psi cubic yard per second"
+    "name": "psi cubic yard per second",
+    "isActive": true
   },
   {
     "code": "K92",
-    "name": "pound-force second per square inch"
+    "name": "pound-force second per square inch",
+    "isActive": true
   },
   {
     "code": "K93",
-    "name": "reciprocal psi"
+    "name": "reciprocal psi",
+    "isActive": true
   },
   {
     "code": "K95",
-    "name": "quart (UK liquid) per hour"
+    "name": "quart (UK liquid) per hour",
+    "isActive": true
   },
   {
     "code": "K97",
-    "name": "quart (UK liquid) per second"
+    "name": "quart (UK liquid) per second",
+    "isActive": true
   },
   {
     "code": "K98",
-    "name": "quart (US liquid) per day"
+    "name": "quart (US liquid) per day",
+    "isActive": true
   },
   {
     "code": "KA",
-    "name": "cake"
+    "name": "cake",
+    "isActive": true
   },
   {
     "code": "KAT",
-    "name": "katal"
+    "name": "katal",
+    "isActive": true
   },
   {
     "code": "KB",
-    "name": "kilocharacter"
+    "name": "kilocharacter",
+    "isActive": true
   },
   {
     "code": "KBA",
-    "name": "Kilobar"
+    "name": "Kilobar",
+    "isActive": true
   },
   {
     "code": "KCC",
-    "name": "kilogram of choline chloride"
+    "name": "kilogram of choline chloride",
+    "isActive": true
   },
   {
     "code": "KD",
-    "name": "kilogram decimal"
+    "name": "kilogram decimal",
+    "isActive": true
   },
   {
     "code": "KDW",
-    "name": "kilogram drained net weight"
+    "name": "kilogram drained net weight",
+    "isActive": true
   },
   {
     "code": "KEL",
-    "name": "Kelvin"
+    "name": "Kelvin",
+    "isActive": true
   },
   {
     "code": "KES",
-    "name": "Kenya Shilling"
+    "name": "Kenya Shilling",
+    "isActive": true
   },
   {
     "code": "KF",
-    "name": "kilopacket"
+    "name": "kilopacket",
+    "isActive": true
   },
   {
     "code": "KGM",
-    "name": "Kilogram"
+    "name": "Kilogram",
+    "isActive": true
   },
   {
     "code": "KGS",
-    "name": "Kilogram Per Second"
+    "name": "Kilogram Per Second",
+    "isActive": true
   },
   {
     "code": "KHR",
-    "name": "Cambodia Riel"
+    "name": "Cambodia Riel",
+    "isActive": true
   },
   {
     "code": "KI",
-    "name": "kilogram per millimetre width"
+    "name": "kilogram per millimetre width",
+    "isActive": true
   },
   {
     "code": "KIC",
-    "name": "kilogram, including container"
+    "name": "kilogram, including container",
+    "isActive": true
   },
   {
     "code": "KIP",
-    "name": "kilogram, including inner packaging"
+    "name": "kilogram, including inner packaging",
+    "isActive": true
   },
   {
     "code": "KJO",
-    "name": "Kilojoule"
+    "name": "Kilojoule",
+    "isActive": true
   },
   {
     "code": "KL",
-    "name": "kilogram per metre"
+    "name": "kilogram per metre",
+    "isActive": true
   },
   {
     "code": "KLK",
-    "name": "lactic dry material percentage"
+    "name": "lactic dry material percentage",
+    "isActive": true
   },
   {
     "code": "KMA",
-    "name": "kilogram of methylamine"
+    "name": "kilogram of methylamine",
+    "isActive": true
   },
   {
     "code": "KMF",
-    "name": "Comorian Franc"
+    "name": "Comorian Franc",
+    "isActive": true
   },
   {
     "code": "KMK",
-    "name": "Square kilometre"
+    "name": "Square kilometre",
+    "isActive": true
   },
   {
     "code": "KMQ",
-    "name": "Kilogram per cubic meter"
+    "name": "Kilogram per cubic meter",
+    "isActive": true
   },
   {
     "code": "KNI",
-    "name": "Kilogram of nitrogen"
+    "name": "Kilogram of nitrogen",
+    "isActive": true
   },
   {
     "code": "KNM",
-    "name": "kilonewton per square metre"
+    "name": "kilonewton per square metre",
+    "isActive": true
   },
   {
     "code": "KNS",
-    "name": "Kilogram of named substance"
+    "name": "Kilogram of named substance",
+    "isActive": true
   },
   {
     "code": "KNT",
-    "name": "Knot (1 nautical mile per hour)"
+    "name": "Knot (1 nautical mile per hour)",
+    "isActive": true
   },
   {
     "code": "KO",
-    "name": "milliequivalence caustic potash per gram of product"
+    "name": "milliequivalence caustic potash per gram of product",
+    "isActive": true
   },
   {
     "code": "KPA",
-    "name": "kilopascal"
+    "name": "kilopascal",
+    "isActive": true
   },
   {
     "code": "KPH",
-    "name": "Kilogram of potassium hydroxide (caustic potash)"
+    "name": "Kilogram of potassium hydroxide (caustic potash)",
+    "isActive": true
   },
   {
     "code": "KPP",
-    "name": "Kilogram of phosphorus pentoxide (phosphoric anhydride)"
+    "name": "Kilogram of phosphorus pentoxide (phosphoric anhydride)",
+    "isActive": true
   },
   {
     "code": "KPW",
-    "name": "Korea (North) Won"
+    "name": "Korea (North) Won",
+    "isActive": true
   },
   {
     "code": "KR",
-    "name": "kiloroentgen"
+    "name": "kiloroentgen",
+    "isActive": true
   },
   {
     "code": "KRW",
-    "name": "Korea (South) Won"
+    "name": "Korea (South) Won",
+    "isActive": true
   },
   {
     "code": "KS",
-    "name": "thousand pound per square inch"
+    "name": "thousand pound per square inch",
+    "isActive": true
   },
   {
     "code": "KSD",
-    "name": "Kilogram of substance 90 per cent dry"
+    "name": "Kilogram of substance 90 per cent dry",
+    "isActive": true
   },
   {
     "code": "KSH",
-    "name": "Kilogram of sodium hydroxide (caustic soda)"
+    "name": "Kilogram of sodium hydroxide (caustic soda)",
+    "isActive": true
   },
   {
     "code": "KTM",
-    "name": "kilometre"
+    "name": "kilometre",
+    "isActive": true
   },
   {
     "code": "KTN",
-    "name": "Kilotonne"
+    "name": "Kilotonne",
+    "isActive": true
   },
   {
     "code": "KUR",
-    "name": "Kilogram of uranium"
+    "name": "Kilogram of uranium",
+    "isActive": true
   },
   {
     "code": "KVA",
-    "name": "Kilovolt - ampere"
+    "name": "Kilovolt - ampere",
+    "isActive": true
   },
   {
     "code": "KVT",
-    "name": "kilovolt"
+    "name": "kilovolt",
+    "isActive": true
   },
   {
     "code": "KW",
-    "name": "kilogram per millimetre"
+    "name": "kilogram per millimetre",
+    "isActive": true
   },
   {
     "code": "KWD",
-    "name": "Kuwait Dinar"
+    "name": "Kuwait Dinar",
+    "isActive": true
   },
   {
     "code": "KWN",
-    "name": "Kilowatt hour per normalized cubic metre"
+    "name": "Kilowatt hour per normalized cubic metre",
+    "isActive": true
   },
   {
     "code": "KWS",
-    "name": "Kilowatt hour per standard cubic metre"
+    "name": "Kilowatt hour per standard cubic metre",
+    "isActive": true
   },
   {
     "code": "KWT",
-    "name": "Kilowatt"
+    "name": "Kilowatt",
+    "isActive": true
   },
   {
     "code": "KX",
-    "name": "millilitre per kilogram"
+    "name": "millilitre per kilogram",
+    "isActive": true
   },
   {
     "code": "KYD",
-    "name": "Cayman Islands Dollar"
+    "name": "Cayman Islands Dollar",
+    "isActive": true
   },
   {
     "code": "KZT",
-    "name": "Kazakhstan Tenge"
+    "name": "Kazakhstan Tenge",
+    "isActive": true
   },
   {
     "code": "L13",
-    "name": "metre per second bar"
+    "name": "metre per second bar",
+    "isActive": true
   },
   {
     "code": "L14",
-    "name": "square metre hour degree Celsius per kilocalorie"
+    "name": "square metre hour degree Celsius per kilocalorie",
+    "isActive": true
   },
   {
     "code": "L15",
-    "name": "millipascal second per kelvin"
+    "name": "millipascal second per kelvin",
+    "isActive": true
   },
   {
     "code": "L16",
-    "name": "millipascal second per bar"
+    "name": "millipascal second per bar",
+    "isActive": true
   },
   {
     "code": "L17",
-    "name": "milligram per cubic metre kelvin"
+    "name": "milligram per cubic metre kelvin",
+    "isActive": true
   },
   {
     "code": "L18",
-    "name": "milligram per cubic metre bar"
+    "name": "milligram per cubic metre bar",
+    "isActive": true
   },
   {
     "code": "L19",
-    "name": "millilitre per litre"
+    "name": "millilitre per litre",
+    "isActive": true
   },
   {
     "code": "L2",
-    "name": "litre per minute"
+    "name": "litre per minute",
+    "isActive": true
   },
   {
     "code": "L23",
-    "name": "mole per hour"
+    "name": "mole per hour",
+    "isActive": true
   },
   {
     "code": "L25",
-    "name": "mole per kilogram bar"
+    "name": "mole per kilogram bar",
+    "isActive": true
   },
   {
     "code": "L26",
-    "name": "mole per litre kelvin"
+    "name": "mole per litre kelvin",
+    "isActive": true
   },
   {
     "code": "L27",
-    "name": "mole per litre bar"
+    "name": "mole per litre bar",
+    "isActive": true
   },
   {
     "code": "L31",
-    "name": "milliroentgen aequivalent men"
+    "name": "milliroentgen aequivalent men",
+    "isActive": true
   },
   {
     "code": "L32",
-    "name": "nanogram per kilogram"
+    "name": "nanogram per kilogram",
+    "isActive": true
   },
   {
     "code": "L33",
-    "name": "ounce (avoirdupois) per day"
+    "name": "ounce (avoirdupois) per day",
+    "isActive": true
   },
   {
     "code": "L34",
-    "name": "ounce (avoirdupois) per hour"
+    "name": "ounce (avoirdupois) per hour",
+    "isActive": true
   },
   {
     "code": "L35",
-    "name": "ounce (avoirdupois) per minute"
+    "name": "ounce (avoirdupois) per minute",
+    "isActive": true
   },
   {
     "code": "L36",
-    "name": "ounce (avoirdupois) per second"
+    "name": "ounce (avoirdupois) per second",
+    "isActive": true
   },
   {
     "code": "L37",
-    "name": "ounce (avoirdupois) per gallon (UK)"
+    "name": "ounce (avoirdupois) per gallon (UK)",
+    "isActive": true
   },
   {
     "code": "L39",
-    "name": "ounce (avoirdupois) per cubic inch"
+    "name": "ounce (avoirdupois) per cubic inch",
+    "isActive": true
   },
   {
     "code": "L43",
-    "name": "peck (UK)"
+    "name": "peck (UK)",
+    "isActive": true
   },
   {
     "code": "L45",
-    "name": "peck (UK) per hour"
+    "name": "peck (UK) per hour",
+    "isActive": true
   },
   {
     "code": "L46",
-    "name": "peck (UK) per minute"
+    "name": "peck (UK) per minute",
+    "isActive": true
   },
   {
     "code": "L47",
-    "name": "peck (UK) per second"
+    "name": "peck (UK) per second",
+    "isActive": true
   },
   {
     "code": "L51",
-    "name": "peck (US dry) per second"
+    "name": "peck (US dry) per second",
+    "isActive": true
   },
   {
     "code": "L52",
-    "name": "psi per psi"
+    "name": "psi per psi",
+    "isActive": true
   },
   {
     "code": "L53",
-    "name": "pint (UK) per day"
+    "name": "pint (UK) per day",
+    "isActive": true
   },
   {
     "code": "L54",
-    "name": "pint (UK) per hour"
+    "name": "pint (UK) per hour",
+    "isActive": true
   },
   {
     "code": "L55",
-    "name": "pint (UK) per minute"
+    "name": "pint (UK) per minute",
+    "isActive": true
   },
   {
     "code": "L58",
-    "name": "pint (US liquid) per hour"
+    "name": "pint (US liquid) per hour",
+    "isActive": true
   },
   {
     "code": "L60",
-    "name": "pint (US liquid) per second"
+    "name": "pint (US liquid) per second",
+    "isActive": true
   },
   {
     "code": "L61",
-    "name": "pint (US dry)"
+    "name": "pint (US dry)",
+    "isActive": true
   },
   {
     "code": "L63",
-    "name": "slug per day"
+    "name": "slug per day",
+    "isActive": true
   },
   {
     "code": "L64",
-    "name": "slug per foot second"
+    "name": "slug per foot second",
+    "isActive": true
   },
   {
     "code": "L65",
-    "name": "slug per cubic foot"
+    "name": "slug per cubic foot",
+    "isActive": true
   },
   {
     "code": "L66",
-    "name": "slug per hour"
+    "name": "slug per hour",
+    "isActive": true
   },
   {
     "code": "L69",
-    "name": "tonne per kelvin"
+    "name": "tonne per kelvin",
+    "isActive": true
   },
   {
     "code": "L72",
-    "name": "tonne per day kelvin"
+    "name": "tonne per day kelvin",
+    "isActive": true
   },
   {
     "code": "L73",
-    "name": "tonne per day bar"
+    "name": "tonne per day bar",
+    "isActive": true
   },
   {
     "code": "L74",
-    "name": "tonne per hour kelvin"
+    "name": "tonne per hour kelvin",
+    "isActive": true
   },
   {
     "code": "L78",
-    "name": "tonne per minute"
+    "name": "tonne per minute",
+    "isActive": true
   },
   {
     "code": "L81",
-    "name": "tonne per second"
+    "name": "tonne per second",
+    "isActive": true
   },
   {
     "code": "L82",
-    "name": "tonne per second kelvin"
+    "name": "tonne per second kelvin",
+    "isActive": true
   },
   {
     "code": "L83",
-    "name": "tonne per second bar"
+    "name": "tonne per second bar",
+    "isActive": true
   },
   {
     "code": "L84",
-    "name": "ton (UK shipping)"
+    "name": "ton (UK shipping)",
+    "isActive": true
   },
   {
     "code": "L85",
-    "name": "ton long per day"
+    "name": "ton long per day",
+    "isActive": true
   },
   {
     "code": "L87",
-    "name": "ton short per degree Fahrenheit"
+    "name": "ton short per degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "L88",
-    "name": "ton short per day"
+    "name": "ton short per day",
+    "isActive": true
   },
   {
     "code": "L89",
-    "name": "ton short per hour degree Fahrenheit"
+    "name": "ton short per hour degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "L92",
-    "name": "ton (UK long) per cubic yard"
+    "name": "ton (UK long) per cubic yard",
+    "isActive": true
   },
   {
     "code": "L94",
-    "name": "ton-force (US short)"
+    "name": "ton-force (US short)",
+    "isActive": true
   },
   {
     "code": "L95",
-    "name": "common year"
+    "name": "common year",
+    "isActive": true
   },
   {
     "code": "L96",
-    "name": "sidereal year"
+    "name": "sidereal year",
+    "isActive": true
   },
   {
     "code": "L99",
-    "name": "yard per psi"
+    "name": "yard per psi",
+    "isActive": true
   },
   {
     "code": "LA",
-    "name": "pound per cubic inch"
+    "name": "pound per cubic inch",
+    "isActive": true
   },
   {
     "code": "LAC",
-    "name": "lactose excess percentage"
+    "name": "lactose excess percentage",
+    "isActive": true
   },
   {
     "code": "LAK",
-    "name": "Laos Kip"
+    "name": "Laos Kip",
+    "isActive": true
   },
   {
     "code": "LBP",
-    "name": "Lebanon Pound"
+    "name": "Lebanon Pound",
+    "isActive": true
   },
   {
     "code": "LBR",
-    "name": "Pound GB,US (0,45359237 kg)"
+    "name": "Pound GB,US (0,45359237 kg)",
+    "isActive": true
   },
   {
     "code": "LC",
-    "name": "linear centimetre"
+    "name": "linear centimetre",
+    "isActive": true
   },
   {
     "code": "LD",
-    "name": "litre per day"
+    "name": "litre per day",
+    "isActive": true
   },
   {
     "code": "LEF",
-    "name": "leaf"
+    "name": "leaf",
+    "isActive": true
   },
   {
     "code": "LF",
-    "name": "linear foot"
+    "name": "linear foot",
+    "isActive": true
   },
   {
     "code": "LH",
-    "name": "labour hour"
+    "name": "labour hour",
+    "isActive": true
   },
   {
     "code": "LJ",
-    "name": "large spray"
+    "name": "large spray",
+    "isActive": true
   },
   {
     "code": "LK",
-    "name": "link"
+    "name": "link",
+    "isActive": true
   },
   {
     "code": "LKR",
-    "name": "Sri Lanka Rupee"
+    "name": "Sri Lanka Rupee",
+    "isActive": true
   },
   {
     "code": "LM",
-    "name": "linear metre"
+    "name": "linear metre",
+    "isActive": true
   },
   {
     "code": "LN",
-    "name": "length"
+    "name": "length",
+    "isActive": true
   },
   {
     "code": "LO",
-    "name": "lot [unit of procurement]"
+    "name": "lot [unit of procurement]",
+    "isActive": true
   },
   {
     "code": "LPA",
-    "name": "Litre of pure alcohol"
+    "name": "Litre of pure alcohol",
+    "isActive": true
   },
   {
     "code": "LS",
-    "name": "lump sum"
+    "name": "lump sum",
+    "isActive": true
   },
   {
     "code": "LSL",
-    "name": "Lesotho Loti"
+    "name": "Lesotho Loti",
+    "isActive": true
   },
   {
     "code": "LUB",
-    "name": "metric ton, lubricating oil"
+    "name": "metric ton, lubricating oil",
+    "isActive": true
   },
   {
     "code": "LUM",
-    "name": "Lumen"
+    "name": "Lumen",
+    "isActive": true
   },
   {
     "code": "LX",
-    "name": "linear yard per pound"
+    "name": "linear yard per pound",
+    "isActive": true
   },
   {
     "code": "LY",
-    "name": "linear yard"
+    "name": "linear yard",
+    "isActive": true
   },
   {
     "code": "LYD",
-    "name": "Libya Dinar"
+    "name": "Libya Dinar",
+    "isActive": true
   },
   {
     "code": "M0",
-    "name": "magnetic tape"
+    "name": "magnetic tape",
+    "isActive": true
   },
   {
     "code": "M1",
-    "name": "milligram per litre"
+    "name": "milligram per litre",
+    "isActive": true
   },
   {
     "code": "M11",
-    "name": "cubic yard per degree Fahrenheit"
+    "name": "cubic yard per degree Fahrenheit",
+    "isActive": true
   },
   {
     "code": "M13",
-    "name": "cubic yard per hour"
+    "name": "cubic yard per hour",
+    "isActive": true
   },
   {
     "code": "M15",
-    "name": "cubic yard per minute"
+    "name": "cubic yard per minute",
+    "isActive": true
   },
   {
     "code": "M16",
-    "name": "cubic yard per second"
+    "name": "cubic yard per second",
+    "isActive": true
   },
   {
     "code": "M17",
-    "name": "kilohertz metre"
+    "name": "kilohertz metre",
+    "isActive": true
   },
   {
     "code": "M19",
-    "name": "Beaufort"
+    "name": "Beaufort",
+    "isActive": true
   },
   {
     "code": "M21",
-    "name": "reciprocal kilovolt - ampere hour"
+    "name": "reciprocal kilovolt - ampere hour",
+    "isActive": true
   },
   {
     "code": "M22",
-    "name": "millilitre per square centimetre minute"
+    "name": "millilitre per square centimetre minute",
+    "isActive": true
   },
   {
     "code": "M23",
-    "name": "newton per centimetre"
+    "name": "newton per centimetre",
+    "isActive": true
   },
   {
     "code": "M25",
-    "name": "percent per degree Celsius"
+    "name": "percent per degree Celsius",
+    "isActive": true
   },
   {
     "code": "M26",
-    "name": "gigaohm per metre"
+    "name": "gigaohm per metre",
+    "isActive": true
   },
   {
     "code": "M30",
-    "name": "reciprocal volt - ampere second"
+    "name": "reciprocal volt - ampere second",
+    "isActive": true
   },
   {
     "code": "M32",
-    "name": "pascal second per litre"
+    "name": "pascal second per litre",
+    "isActive": true
   },
   {
     "code": "M33",
-    "name": "millimole per litre"
+    "name": "millimole per litre",
+    "isActive": true
   },
   {
     "code": "M34",
-    "name": "newton metre per square metre"
+    "name": "newton metre per square metre",
+    "isActive": true
   },
   {
     "code": "M35",
-    "name": "millivolt - ampere"
+    "name": "millivolt - ampere",
+    "isActive": true
   },
   {
     "code": "M39",
-    "name": "centimetre per second squared"
+    "name": "centimetre per second squared",
+    "isActive": true
   },
   {
     "code": "M4",
-    "name": "monetary value"
+    "name": "monetary value",
+    "isActive": true
   },
   {
     "code": "M40",
-    "name": "yard per second squared"
+    "name": "yard per second squared",
+    "isActive": true
   },
   {
     "code": "M44",
-    "name": "revolution"
+    "name": "revolution",
+    "isActive": true
   },
   {
     "code": "M46",
-    "name": "revolution per minute"
+    "name": "revolution per minute",
+    "isActive": true
   },
   {
     "code": "M49",
-    "name": "chain (based on U.S. survey foot)"
+    "name": "chain (based on U.S. survey foot)",
+    "isActive": true
   },
   {
     "code": "M5",
-    "name": "microcurie"
+    "name": "microcurie",
+    "isActive": true
   },
   {
     "code": "M50",
-    "name": "furlong"
+    "name": "furlong",
+    "isActive": true
   },
   {
     "code": "M51",
-    "name": "foot (U.S. survey)"
+    "name": "foot (U.S. survey)",
+    "isActive": true
   },
   {
     "code": "M52",
-    "name": "mile (based on U.S. survey foot)"
+    "name": "mile (based on U.S. survey foot)",
+    "isActive": true
   },
   {
     "code": "M55",
-    "name": "metre per radiant"
+    "name": "metre per radiant",
+    "isActive": true
   },
   {
     "code": "M57",
-    "name": "mile per minute"
+    "name": "mile per minute",
+    "isActive": true
   },
   {
     "code": "M58",
-    "name": "mile per second"
+    "name": "mile per second",
+    "isActive": true
   },
   {
     "code": "M59",
-    "name": "metre per second pascal"
+    "name": "metre per second pascal",
+    "isActive": true
   },
   {
     "code": "M60",
-    "name": "metre per hour"
+    "name": "metre per hour",
+    "isActive": true
   },
   {
     "code": "M61",
-    "name": "inch per year"
+    "name": "inch per year",
+    "isActive": true
   },
   {
     "code": "M62",
-    "name": "kilometre per second"
+    "name": "kilometre per second",
+    "isActive": true
   },
   {
     "code": "M63",
-    "name": "inch per minute"
+    "name": "inch per minute",
+    "isActive": true
   },
   {
     "code": "M64",
-    "name": "yard per second"
+    "name": "yard per second",
+    "isActive": true
   },
   {
     "code": "M65",
-    "name": "yard per minute"
+    "name": "yard per minute",
+    "isActive": true
   },
   {
     "code": "M66",
-    "name": "yard per hour"
+    "name": "yard per hour",
+    "isActive": true
   },
   {
     "code": "M7",
-    "name": "micro-inch"
+    "name": "micro-inch",
+    "isActive": true
   },
   {
     "code": "M70",
-    "name": "ton, register"
+    "name": "ton, register",
+    "isActive": true
   },
   {
     "code": "M71",
-    "name": "cubic metre per pascal"
+    "name": "cubic metre per pascal",
+    "isActive": true
   },
   {
     "code": "M73",
-    "name": "kilogram per cubic metre pascal"
+    "name": "kilogram per cubic metre pascal",
+    "isActive": true
   },
   {
     "code": "M74",
-    "name": "kilogram per pascal"
+    "name": "kilogram per pascal",
+    "isActive": true
   },
   {
     "code": "M76",
-    "name": "poundal"
+    "name": "poundal",
+    "isActive": true
   },
   {
     "code": "M78",
-    "name": "pond"
+    "name": "pond",
+    "isActive": true
   },
   {
     "code": "M81",
-    "name": "square centimetre per second"
+    "name": "square centimetre per second",
+    "isActive": true
   },
   {
     "code": "M82",
-    "name": "square metre per second pascal"
+    "name": "square metre per second pascal",
+    "isActive": true
   },
   {
     "code": "M83",
-    "name": "denier"
+    "name": "denier",
+    "isActive": true
   },
   {
     "code": "M84",
-    "name": "pound per yard"
+    "name": "pound per yard",
+    "isActive": true
   },
   {
     "code": "M87",
-    "name": "kilogram per second pascal"
+    "name": "kilogram per second pascal",
+    "isActive": true
   },
   {
     "code": "M89",
-    "name": "tonne per year"
+    "name": "tonne per year",
+    "isActive": true
   },
   {
     "code": "M90",
-    "name": "kilopound per hour"
+    "name": "kilopound per hour",
+    "isActive": true
   },
   {
     "code": "M95",
-    "name": "poundal foot"
+    "name": "poundal foot",
+    "isActive": true
   },
   {
     "code": "M97",
-    "name": "dyne metre"
+    "name": "dyne metre",
+    "isActive": true
   },
   {
     "code": "MA",
-    "name": "machine per unit"
+    "name": "machine per unit",
+    "isActive": true
   },
   {
     "code": "MAD",
-    "name": "Morocco Dirham"
+    "name": "Morocco Dirham",
+    "isActive": true
   },
   {
     "code": "MAH",
-    "name": "megavolt ampere reactive hour"
+    "name": "megavolt ampere reactive hour",
+    "isActive": true
   },
   {
     "code": "MAL",
-    "name": "Megalitre"
+    "name": "Megalitre",
+    "isActive": true
   },
   {
     "code": "MAR",
-    "name": "megavolt ampere reactive"
+    "name": "megavolt ampere reactive",
+    "isActive": true
   },
   {
     "code": "MAW",
-    "name": "Megawatt"
+    "name": "Megawatt",
+    "isActive": true
   },
   {
     "code": "MBE",
-    "name": "thousand standard brick equivalent"
+    "name": "thousand standard brick equivalent",
+    "isActive": true
   },
   {
     "code": "MBF",
-    "name": "thousand board foot"
+    "name": "thousand board foot",
+    "isActive": true
   },
   {
     "code": "MDL",
-    "name": "Moldova Leu"
+    "name": "Moldova Leu",
+    "isActive": true
   },
   {
     "code": "MF",
-    "name": "milligram per square foot per side"
+    "name": "milligram per square foot per side",
+    "isActive": true
   },
   {
     "code": "MGA",
-    "name": "Madagascar Ariary"
+    "name": "Madagascar Ariary",
+    "isActive": true
   },
   {
     "code": "MGM",
-    "name": "Milligram"
+    "name": "Milligram",
+    "isActive": true
   },
   {
     "code": "MID",
-    "name": "Thousand"
+    "name": "Thousand",
+    "isActive": true
   },
   {
     "code": "MIL",
-    "name": "thousand"
+    "name": "thousand",
+    "isActive": true
   },
   {
     "code": "MIN",
-    "name": "Minute"
+    "name": "Minute",
+    "isActive": true
   },
   {
     "code": "MKD",
-    "name": "Macedonia Denar"
+    "name": "Macedonia Denar",
+    "isActive": true
   },
   {
     "code": "MLD",
-    "name": "Billion US"
+    "name": "Billion US",
+    "isActive": true
   },
   {
     "code": "MMK",
-    "name": "Square millimetre"
+    "name": "Square millimetre",
+    "isActive": true
   },
   {
     "code": "MMT",
-    "name": "Millimetre"
+    "name": "Millimetre",
+    "isActive": true
   },
   {
     "code": "MNT",
-    "name": "Mongolia Tughrik"
+    "name": "Mongolia Tughrik",
+    "isActive": true
   },
   {
     "code": "MOP",
-    "name": "Macau Pataca"
+    "name": "Macau Pataca",
+    "isActive": true
   },
   {
     "code": "MPA",
-    "name": "megapascal"
+    "name": "megapascal",
+    "isActive": true
   },
   {
     "code": "MQ",
-    "name": "thousand metre"
+    "name": "thousand metre",
+    "isActive": true
   },
   {
     "code": "MQH",
-    "name": "cubic metre per hour"
+    "name": "cubic metre per hour",
+    "isActive": true
   },
   {
     "code": "MQS",
-    "name": "cubic metre per second"
+    "name": "cubic metre per second",
+    "isActive": true
   },
   {
     "code": "MT",
-    "name": "mat"
+    "name": "mat",
+    "isActive": true
   },
   {
     "code": "MTK",
-    "name": "Square metre"
+    "name": "Square metre",
+    "isActive": true
   },
   {
     "code": "MUR",
-    "name": "Mauritius Rupee"
+    "name": "Mauritius Rupee",
+    "isActive": true
   },
   {
     "code": "MWK",
-    "name": "Malawi Kwacha"
+    "name": "Malawi Kwacha",
+    "isActive": true
   },
   {
     "code": "MXN",
-    "name": "Mexico Peso"
+    "name": "Mexico Peso",
+    "isActive": true
   },
   {
     "code": "MYR",
-    "name": "Malaysia Ringgit"
+    "name": "Malaysia Ringgit",
+    "isActive": true
   },
   {
     "code": "N10",
-    "name": "pound foot per second"
+    "name": "pound foot per second",
+    "isActive": true
   },
   {
     "code": "N11",
-    "name": "pound inch per second"
+    "name": "pound inch per second",
+    "isActive": true
   },
   {
     "code": "N17",
-    "name": "inch of mercury (60 derajat F)"
+    "name": "inch of mercury (60 derajat F)",
+    "isActive": true
   },
   {
     "code": "N18",
-    "name": "inch of water (39.2 derajat F)"
+    "name": "inch of water (39.2 derajat F)",
+    "isActive": true
   },
   {
     "code": "N19",
-    "name": "inch of water (60 derajat F)"
+    "name": "inch of water (60 derajat F)",
+    "isActive": true
   },
   {
     "code": "N2",
-    "name": "number of lines"
+    "name": "number of lines",
+    "isActive": true
   },
   {
     "code": "N20",
-    "name": "kip per square inch"
+    "name": "kip per square inch",
+    "isActive": true
   },
   {
     "code": "N21",
-    "name": "poundal per square foot"
+    "name": "poundal per square foot",
+    "isActive": true
   },
   {
     "code": "N22",
-    "name": "ounce (avoirdupois) per square inch"
+    "name": "ounce (avoirdupois) per square inch",
+    "isActive": true
   },
   {
     "code": "N23",
-    "name": "conventional metre of water"
+    "name": "conventional metre of water",
+    "isActive": true
   },
   {
     "code": "N24",
-    "name": "gram per square millimetre"
+    "name": "gram per square millimetre",
+    "isActive": true
   },
   {
     "code": "N25",
-    "name": "pound per square yard"
+    "name": "pound per square yard",
+    "isActive": true
   },
   {
     "code": "N27",
-    "name": "foot to the fourth power"
+    "name": "foot to the fourth power",
+    "isActive": true
   },
   {
     "code": "N28",
-    "name": "cubic decimetre per kilogram"
+    "name": "cubic decimetre per kilogram",
+    "isActive": true
   },
   {
     "code": "N3",
-    "name": "print point"
+    "name": "print point",
+    "isActive": true
   },
   {
     "code": "N30",
-    "name": "cubic inch per pound"
+    "name": "cubic inch per pound",
+    "isActive": true
   },
   {
     "code": "N31",
-    "name": "kilonewton per metre"
+    "name": "kilonewton per metre",
+    "isActive": true
   },
   {
     "code": "N32",
-    "name": "poundal per inch"
+    "name": "poundal per inch",
+    "isActive": true
   },
   {
     "code": "N33",
-    "name": "pound-force per yard"
+    "name": "pound-force per yard",
+    "isActive": true
   },
   {
     "code": "N36",
-    "name": "newton second per square metre"
+    "name": "newton second per square metre",
+    "isActive": true
   },
   {
     "code": "N37",
-    "name": "kilogram per metre second"
+    "name": "kilogram per metre second",
+    "isActive": true
   },
   {
     "code": "N39",
-    "name": "kilogram per metre day"
+    "name": "kilogram per metre day",
+    "isActive": true
   },
   {
     "code": "N40",
-    "name": "kilogram per metre hour"
+    "name": "kilogram per metre hour",
+    "isActive": true
   },
   {
     "code": "N42",
-    "name": "poundal second per square inch"
+    "name": "poundal second per square inch",
+    "isActive": true
   },
   {
     "code": "N44",
-    "name": "pound per foot day"
+    "name": "pound per foot day",
+    "isActive": true
   },
   {
     "code": "N46",
-    "name": "foot poundal"
+    "name": "foot poundal",
+    "isActive": true
   },
   {
     "code": "N49",
-    "name": "watt per square inch"
+    "name": "watt per square inch",
+    "isActive": true
   },
   {
     "code": "N66",
-    "name": "British thermal unit (39 derajat F)"
+    "name": "British thermal unit (39 derajat F)",
+    "isActive": true
   },
   {
     "code": "N68",
-    "name": "British thermal unit (60 derajat F)"
+    "name": "British thermal unit (60 derajat F)",
+    "isActive": true
   },
   {
     "code": "N69",
-    "name": "calorie (20 derajat C)"
+    "name": "calorie (20 derajat C)",
+    "isActive": true
   },
   {
     "code": "N71",
-    "name": "therm (EC)"
+    "name": "therm (EC)",
+    "isActive": true
   },
   {
     "code": "N73",
-    "name": "British thermal unit (thermochemical) per pound"
+    "name": "British thermal unit (thermochemical) per pound",
+    "isActive": true
   },
   {
     "code": "N79",
-    "name": "kelvin per pascal"
+    "name": "kelvin per pascal",
+    "isActive": true
   },
   {
     "code": "N81",
-    "name": "kilowatt per metre kelvin"
+    "name": "kilowatt per metre kelvin",
+    "isActive": true
   },
   {
     "code": "N82",
-    "name": "kilowatt per metre degree Celsius"
+    "name": "kilowatt per metre degree Celsius",
+    "isActive": true
   },
   {
     "code": "N83",
-    "name": "metre per degree Celsius metre"
+    "name": "metre per degree Celsius metre",
+    "isActive": true
   },
   {
     "code": "N90",
-    "name": "kilofarad"
+    "name": "kilofarad",
+    "isActive": true
   },
   {
     "code": "N92",
-    "name": "picosiemens"
+    "name": "picosiemens",
+    "isActive": true
   },
   {
     "code": "N97",
-    "name": "gilbert"
+    "name": "gilbert",
+    "isActive": true
   },
   {
     "code": "N98",
-    "name": "volt per pascal"
+    "name": "volt per pascal",
+    "isActive": true
   },
   {
     "code": "N99",
-    "name": "picovolt"
+    "name": "picovolt",
+    "isActive": true
   },
   {
     "code": "NA",
-    "name": "milligram per kilogram"
+    "name": "milligram per kilogram",
+    "isActive": true
   },
   {
     "code": "NAD",
-    "name": "Namibia Dollar"
+    "name": "Namibia Dollar",
+    "isActive": true
   },
   {
     "code": "NAR",
-    "name": "Number of articles"
+    "name": "Number of articles",
+    "isActive": true
   },
   {
     "code": "NB",
-    "name": "barge"
+    "name": "barge",
+    "isActive": true
   },
   {
     "code": "NBB",
-    "name": "Number bobbins"
+    "name": "Number bobbins",
+    "isActive": true
   },
   {
     "code": "NCL",
-    "name": "number of cells"
+    "name": "number of cells",
+    "isActive": true
   },
   {
     "code": "NE",
-    "name": "net litre"
+    "name": "net litre",
+    "isActive": true
   },
   {
     "code": "NEW",
-    "name": "Newton"
+    "name": "Newton",
+    "isActive": true
   },
   {
     "code": "NG",
-    "name": "net gallon (us)"
+    "name": "net gallon (us)",
+    "isActive": true
   },
   {
     "code": "NGN",
-    "name": "Nigeria Naira"
+    "name": "Nigeria Naira",
+    "isActive": true
   },
   {
     "code": "NH",
-    "name": "message hour"
+    "name": "message hour",
+    "isActive": true
   },
   {
     "code": "NI",
-    "name": "net imperial gallon"
+    "name": "net imperial gallon",
+    "isActive": true
   },
   {
     "code": "NIL",
-    "name": "nil"
+    "name": "nil",
+    "isActive": true
   },
   {
     "code": "NIO",
-    "name": "Nicaragua Cordoba"
+    "name": "Nicaragua Cordoba",
+    "isActive": true
   },
   {
     "code": "NJ",
-    "name": "number of screens"
+    "name": "number of screens",
+    "isActive": true
   },
   {
     "code": "NMB",
-    "name": "Number"
+    "name": "Number",
+    "isActive": true
   },
   {
     "code": "NMI",
-    "name": "Nautical mile (1852 m)"
+    "name": "Nautical mile (1852 m)",
+    "isActive": true
   },
   {
     "code": "NMP",
-    "name": "Number of packs"
+    "name": "Number of packs",
+    "isActive": true
   },
   {
     "code": "NOK",
-    "name": "Norway Krone"
+    "name": "Norway Krone",
+    "isActive": true
   },
   {
     "code": "NPL",
-    "name": "Number of parcels"
+    "name": "Number of parcels",
+    "isActive": true
   },
   {
     "code": "NPR",
-    "name": "number of pairs"
+    "name": "number of pairs",
+    "isActive": true
   },
   {
     "code": "NPT",
-    "name": "Number of parts"
+    "name": "Number of parts",
+    "isActive": true
   },
   {
     "code": "NQ",
-    "name": "mho"
+    "name": "mho",
+    "isActive": true
   },
   {
     "code": "NR",
-    "name": "micromho"
+    "name": "micromho",
+    "isActive": true
   },
   {
     "code": "NRL",
-    "name": "Number of rolls"
+    "name": "Number of rolls",
+    "isActive": true
   },
   {
     "code": "NT",
-    "name": "net ton"
+    "name": "net ton",
+    "isActive": true
   },
   {
     "code": "NTT",
-    "name": "Net (register) ton"
+    "name": "Net (register) ton",
+    "isActive": true
   },
   {
     "code": "NU",
-    "name": "newton metre"
+    "name": "newton metre",
+    "isActive": true
   },
   {
     "code": "NV",
-    "name": "vehicle"
+    "name": "vehicle",
+    "isActive": true
   },
   {
     "code": "NX",
-    "name": "part per thousand"
+    "name": "part per thousand",
+    "isActive": true
   },
   {
     "code": "NY",
-    "name": "pound per air dry metric ton"
+    "name": "pound per air dry metric ton",
+    "isActive": true
   },
   {
     "code": "NZD",
-    "name": "New Zealand Dollar"
+    "name": "New Zealand Dollar",
+    "isActive": true
   },
   {
     "code": "OA",
-    "name": "panel"
+    "name": "panel",
+    "isActive": true
   },
   {
     "code": "ODE",
-    "name": "ozone depletion equivalent"
+    "name": "ozone depletion equivalent",
+    "isActive": true
   },
   {
     "code": "ODG",
-    "name": "ODS Grams"
+    "name": "ODS Grams",
+    "isActive": true
   },
   {
     "code": "ODK",
-    "name": "ODS Kilograms"
+    "name": "ODS Kilograms",
+    "isActive": true
   },
   {
     "code": "ODM",
-    "name": "ODS Milligrams"
+    "name": "ODS Milligrams",
+    "isActive": true
   },
   {
     "code": "OHM",
-    "name": "Ohm"
+    "name": "Ohm",
+    "isActive": true
   },
   {
     "code": "ON",
-    "name": "ounce per square yard"
+    "name": "ounce per square yard",
+    "isActive": true
   },
   {
     "code": "ONZ",
-    "name": "Ounce GB,US (28,349523 g)"
+    "name": "Ounce GB,US (28,349523 g)",
+    "isActive": true
   },
   {
     "code": "OP",
-    "name": "two pack"
+    "name": "two pack",
+    "isActive": true
   },
   {
     "code": "OPM",
-    "name": "oscillations per minute"
+    "name": "oscillations per minute",
+    "isActive": true
   },
   {
     "code": "OT",
-    "name": "overtime hour"
+    "name": "overtime hour",
+    "isActive": true
   },
   {
     "code": "OZ",
-    "name": "ounce av"
+    "name": "ounce av",
+    "isActive": true
   },
   {
     "code": "OZA",
-    "name": "Fluid ounce (29,5735 cm3)"
+    "name": "Fluid ounce (29,5735 cm3)",
+    "isActive": true
   },
   {
     "code": "OZI",
-    "name": "Fluid ounce (29,5735 cm3)"
+    "name": "Fluid ounce (29,5735 cm3)",
+    "isActive": true
   },
   {
     "code": "P0",
-    "name": "page - electronic"
+    "name": "page - electronic",
+    "isActive": true
   },
   {
     "code": "P1",
-    "name": "percent"
+    "name": "percent",
+    "isActive": true
   },
   {
     "code": "P10",
-    "name": "coulomb per metre"
+    "name": "coulomb per metre",
+    "isActive": true
   },
   {
     "code": "P11",
-    "name": "kiloweber"
+    "name": "kiloweber",
+    "isActive": true
   },
   {
     "code": "P13",
-    "name": "kilotesla"
+    "name": "kilotesla",
+    "isActive": true
   },
   {
     "code": "P15",
-    "name": "joule per minute"
+    "name": "joule per minute",
+    "isActive": true
   },
   {
     "code": "P16",
-    "name": "joule per hour"
+    "name": "joule per hour",
+    "isActive": true
   },
   {
     "code": "P17",
-    "name": "joule per day"
+    "name": "joule per day",
+    "isActive": true
   },
   {
     "code": "P18",
-    "name": "kilojoule per second"
+    "name": "kilojoule per second",
+    "isActive": true
   },
   {
     "code": "P19",
-    "name": "kilojoule per minute"
+    "name": "kilojoule per minute",
+    "isActive": true
   },
   {
     "code": "P2",
-    "name": "pound per foot"
+    "name": "pound per foot",
+    "isActive": true
   },
   {
     "code": "P20",
-    "name": "kilojoule per hour"
+    "name": "kilojoule per hour",
+    "isActive": true
   },
   {
     "code": "P21",
-    "name": "kilojoule per day"
+    "name": "kilojoule per day",
+    "isActive": true
   },
   {
     "code": "P22",
-    "name": "nanoohm"
+    "name": "nanoohm",
+    "isActive": true
   },
   {
     "code": "P24",
-    "name": "kilohenry"
+    "name": "kilohenry",
+    "isActive": true
   },
   {
     "code": "P25",
-    "name": "lumen per square foot"
+    "name": "lumen per square foot",
+    "isActive": true
   },
   {
     "code": "P26",
-    "name": "phot"
+    "name": "phot",
+    "isActive": true
   },
   {
     "code": "P27",
-    "name": "footcandle"
+    "name": "footcandle",
+    "isActive": true
   },
   {
     "code": "P28",
-    "name": "candela per square inch"
+    "name": "candela per square inch",
+    "isActive": true
   },
   {
     "code": "P29",
-    "name": "footlambert"
+    "name": "footlambert",
+    "isActive": true
   },
   {
     "code": "P3",
-    "name": "three pack"
+    "name": "three pack",
+    "isActive": true
   },
   {
     "code": "P32",
-    "name": "candela per square foot"
+    "name": "candela per square foot",
+    "isActive": true
   },
   {
     "code": "P33",
-    "name": "kilocandela"
+    "name": "kilocandela",
+    "isActive": true
   },
   {
     "code": "P34",
-    "name": "milliscandela"
+    "name": "milliscandela",
+    "isActive": true
   },
   {
     "code": "P39",
-    "name": "calorie (thermochemical) per square centimetre"
+    "name": "calorie (thermochemical) per square centimetre",
+    "isActive": true
   },
   {
     "code": "P4",
-    "name": "four pack"
+    "name": "four pack",
+    "isActive": true
   },
   {
     "code": "P40",
-    "name": "langley"
+    "name": "langley",
+    "isActive": true
   },
   {
     "code": "P42",
-    "name": "pascal squared second"
+    "name": "pascal squared second",
+    "isActive": true
   },
   {
     "code": "P43",
-    "name": "bel per metre"
+    "name": "bel per metre",
+    "isActive": true
   },
   {
     "code": "P44",
-    "name": "pound mole"
+    "name": "pound mole",
+    "isActive": true
   },
   {
     "code": "P45",
-    "name": "pound mole per second"
+    "name": "pound mole per second",
+    "isActive": true
   },
   {
     "code": "P46",
-    "name": "pound mole per minute"
+    "name": "pound mole per minute",
+    "isActive": true
   },
   {
     "code": "P49",
-    "name": "newton square metre per ampere"
+    "name": "newton square metre per ampere",
+    "isActive": true
   },
   {
     "code": "P50",
-    "name": "weber metre"
+    "name": "weber metre",
+    "isActive": true
   },
   {
     "code": "P53",
-    "name": "unit pole"
+    "name": "unit pole",
+    "isActive": true
   },
   {
     "code": "P54",
-    "name": "milligray per second"
+    "name": "milligray per second",
+    "isActive": true
   },
   {
     "code": "P55",
-    "name": "microgray per second"
+    "name": "microgray per second",
+    "isActive": true
   },
   {
     "code": "P56",
-    "name": "nanogray per second"
+    "name": "nanogray per second",
+    "isActive": true
   },
   {
     "code": "P59",
-    "name": "microgray per minute"
+    "name": "microgray per minute",
+    "isActive": true
   },
   {
     "code": "P6",
-    "name": "six pack"
+    "name": "six pack",
+    "isActive": true
   },
   {
     "code": "P60",
-    "name": "nanogray per minute"
+    "name": "nanogray per minute",
+    "isActive": true
   },
   {
     "code": "P61",
-    "name": "gray per hour"
+    "name": "gray per hour",
+    "isActive": true
   },
   {
     "code": "P62",
-    "name": "milligray per hour"
+    "name": "milligray per hour",
+    "isActive": true
   },
   {
     "code": "P64",
-    "name": "nanogray per hour"
+    "name": "nanogray per hour",
+    "isActive": true
   },
   {
     "code": "P65",
-    "name": "sievert per second"
+    "name": "sievert per second",
+    "isActive": true
   },
   {
     "code": "P66",
-    "name": "millisievert per second"
+    "name": "millisievert per second",
+    "isActive": true
   },
   {
     "code": "P67",
-    "name": "microsievert per second"
+    "name": "microsievert per second",
+    "isActive": true
   },
   {
     "code": "P69",
-    "name": "rem per second"
+    "name": "rem per second",
+    "isActive": true
   },
   {
     "code": "P7",
-    "name": "seven pack"
+    "name": "seven pack",
+    "isActive": true
   },
   {
     "code": "P70",
-    "name": "sievert per hour"
+    "name": "sievert per hour",
+    "isActive": true
   },
   {
     "code": "P71",
-    "name": "millisievert per hour"
+    "name": "millisievert per hour",
+    "isActive": true
   },
   {
     "code": "P72",
-    "name": "microsievert per hour"
+    "name": "microsievert per hour",
+    "isActive": true
   },
   {
     "code": "P75",
-    "name": "millisievert per minute"
+    "name": "millisievert per minute",
+    "isActive": true
   },
   {
     "code": "P78",
-    "name": "reciprocal square inch"
+    "name": "reciprocal square inch",
+    "isActive": true
   },
   {
     "code": "P79",
-    "name": "pascal square metre per kilogram"
+    "name": "pascal square metre per kilogram",
+    "isActive": true
   },
   {
     "code": "P8",
-    "name": "eight pack"
+    "name": "eight pack",
+    "isActive": true
   },
   {
     "code": "P81",
-    "name": "kilopascal per metre"
+    "name": "kilopascal per metre",
+    "isActive": true
   },
   {
     "code": "P83",
-    "name": "standard atmosphere per metre"
+    "name": "standard atmosphere per metre",
+    "isActive": true
   },
   {
     "code": "P85",
-    "name": "torr per metre"
+    "name": "torr per metre",
+    "isActive": true
   },
   {
     "code": "P86",
-    "name": "psi per inch"
+    "name": "psi per inch",
+    "isActive": true
   },
   {
     "code": "P87",
-    "name": "cubic metre per second square metre"
+    "name": "cubic metre per second square metre",
+    "isActive": true
   },
   {
     "code": "P88",
-    "name": "rhe"
+    "name": "rhe",
+    "isActive": true
   },
   {
     "code": "P89",
-    "name": "pound-force foot per inch"
+    "name": "pound-force foot per inch",
+    "isActive": true
   },
   {
     "code": "P9",
-    "name": "nine pack"
+    "name": "nine pack",
+    "isActive": true
   },
   {
     "code": "P90",
-    "name": "pound-force inch per inch"
+    "name": "pound-force inch per inch",
+    "isActive": true
   },
   {
     "code": "P91",
-    "name": "perm (0 °C)"
+    "name": "perm (0 °C)",
+    "isActive": true
   },
   {
     "code": "P93",
-    "name": "byte per second"
+    "name": "byte per second",
+    "isActive": true
   },
   {
     "code": "P94",
-    "name": "kilobyte per second"
+    "name": "kilobyte per second",
+    "isActive": true
   },
   {
     "code": "P97",
-    "name": "reciprocal radian"
+    "name": "reciprocal radian",
+    "isActive": true
   },
   {
     "code": "P98",
-    "name": "pascal to the power sum of stoichiometric numbers"
+    "name": "pascal to the power sum of stoichiometric numbers",
+    "isActive": true
   },
   {
     "code": "PA",
-    "name": "packet"
+    "name": "packet",
+    "isActive": true
   },
   {
     "code": "PAL",
-    "name": "Pascal"
+    "name": "Pascal",
+    "isActive": true
   },
   {
     "code": "PB",
-    "name": "pair inch"
+    "name": "pair inch",
+    "isActive": true
   },
   {
     "code": "PCE",
-    "name": "Piece"
+    "name": "Piece",
+    "isActive": true
   },
   {
     "code": "PD",
-    "name": "pad"
+    "name": "pad",
+    "isActive": true
   },
   {
     "code": "PE",
-    "name": "pound equivalent"
+    "name": "pound equivalent",
+    "isActive": true
   },
   {
     "code": "PEN",
-    "name": "Peru Sol"
+    "name": "Peru Sol",
+    "isActive": true
   },
   {
     "code": "PFL",
-    "name": "proof litre"
+    "name": "proof litre",
+    "isActive": true
   },
   {
     "code": "PG",
-    "name": "plate"
+    "name": "plate",
+    "isActive": true
   },
   {
     "code": "PGK",
-    "name": "Papua New Guinea Kina"
+    "name": "Papua New Guinea Kina",
+    "isActive": true
   },
   {
     "code": "PHP",
-    "name": "Philippines Piso"
+    "name": "Philippines Piso",
+    "isActive": true
   },
   {
     "code": "PI",
-    "name": "pitch"
+    "name": "pitch",
+    "isActive": true
   },
   {
     "code": "PK",
-    "name": "pack"
+    "name": "pack",
+    "isActive": true
   },
   {
     "code": "PLA",
-    "name": "degree Plato"
+    "name": "degree Plato",
+    "isActive": true
   },
   {
     "code": "PM",
-    "name": "pound percentage"
+    "name": "pound percentage",
+    "isActive": true
   },
   {
     "code": "PO",
-    "name": "pound per inch of length"
+    "name": "pound per inch of length",
+    "isActive": true
   },
   {
     "code": "PS",
-    "name": "pound-force per square inch"
+    "name": "pound-force per square inch",
+    "isActive": true
   },
   {
     "code": "PT",
-    "name": "pint (US)"
+    "name": "pint (US)",
+    "isActive": true
   },
   {
     "code": "PU",
-    "name": "tray / tray pack"
+    "name": "tray / tray pack",
+    "isActive": true
   },
   {
     "code": "PV",
-    "name": "half pint (US)"
+    "name": "half pint (US)",
+    "isActive": true
   },
   {
     "code": "PY",
-    "name": "peck dry (US)"
+    "name": "peck dry (US)",
+    "isActive": true
   },
   {
     "code": "PYG",
-    "name": "Paraguay Guarani"
+    "name": "Paraguay Guarani",
+    "isActive": true
   },
   {
     "code": "Q10",
-    "name": "joule per tesla"
+    "name": "joule per tesla",
+    "isActive": true
   },
   {
     "code": "Q12",
-    "name": "octet"
+    "name": "octet",
+    "isActive": true
   },
   {
     "code": "Q13",
-    "name": "octet per second"
+    "name": "octet per second",
+    "isActive": true
   },
   {
     "code": "Q16",
-    "name": "natural unit of information"
+    "name": "natural unit of information",
+    "isActive": true
   },
   {
     "code": "Q17",
-    "name": "shannon per second"
+    "name": "shannon per second",
+    "isActive": true
   },
   {
     "code": "Q19",
-    "name": "natural unit of information per second"
+    "name": "natural unit of information per second",
+    "isActive": true
   },
   {
     "code": "Q22",
-    "name": "second per radian cubic metre"
+    "name": "second per radian cubic metre",
+    "isActive": true
   },
   {
     "code": "Q23",
-    "name": "weber to the power minus one"
+    "name": "weber to the power minus one",
+    "isActive": true
   },
   {
     "code": "Q27",
-    "name": "newton metre per metre"
+    "name": "newton metre per metre",
+    "isActive": true
   },
   {
     "code": "Q29",
-    "name": "microgram per hectogram"
+    "name": "microgram per hectogram",
+    "isActive": true
   },
   {
     "code": "Q3",
-    "name": "meal"
+    "name": "meal",
+    "isActive": true
   },
   {
     "code": "Q30",
-    "name": "pH (potential of Hydrogen)"
+    "name": "pH (potential of Hydrogen)",
+    "isActive": true
   },
   {
     "code": "Q31",
-    "name": "kilojoule per gram"
+    "name": "kilojoule per gram",
+    "isActive": true
   },
   {
     "code": "Q35",
-    "name": "megawatts per minute"
+    "name": "megawatts per minute",
+    "isActive": true
   },
   {
     "code": "Q36",
-    "name": "square metre per cubic metre"
+    "name": "square metre per cubic metre",
+    "isActive": true
   },
   {
     "code": "Q37",
-    "name": "Standard cubic metre per day"
+    "name": "Standard cubic metre per day",
+    "isActive": true
   },
   {
     "code": "Q38",
-    "name": "Standard cubic metre per hour"
+    "name": "Standard cubic metre per hour",
+    "isActive": true
   },
   {
     "code": "Q39",
-    "name": "Normalized cubic metre per day"
+    "name": "Normalized cubic metre per day",
+    "isActive": true
   },
   {
     "code": "Q40",
-    "name": "Normalized cubic metre per hour"
+    "name": "Normalized cubic metre per hour",
+    "isActive": true
   },
   {
     "code": "Q42",
-    "name": "Joule per standard cubic metre"
+    "name": "Joule per standard cubic metre",
+    "isActive": true
   },
   {
     "code": "QAN",
-    "name": "Quarter (of a year)"
+    "name": "Quarter (of a year)",
+    "isActive": true
   },
   {
     "code": "QD",
-    "name": "quarter dozen"
+    "name": "quarter dozen",
+    "isActive": true
   },
   {
     "code": "QH",
-    "name": "quarter hour"
+    "name": "quarter hour",
+    "isActive": true
   },
   {
     "code": "QK",
-    "name": "quarter kilogram"
+    "name": "quarter kilogram",
+    "isActive": true
   },
   {
     "code": "QR",
-    "name": "quire"
+    "name": "quire",
+    "isActive": true
   },
   {
     "code": "QT",
-    "name": "quart (US)"
+    "name": "quart (US)",
+    "isActive": true
   },
   {
     "code": "QTD",
-    "name": "Dry quart (1,101221 dm3)"
+    "name": "Dry quart (1,101221 dm3)",
+    "isActive": true
   },
   {
     "code": "QTI",
-    "name": "Quart (1,136523 dm3)"
+    "name": "Quart (1,136523 dm3)",
+    "isActive": true
   },
   {
     "code": "QTL",
-    "name": "Liquid quart (0,946353 dm3)"
+    "name": "Liquid quart (0,946353 dm3)",
+    "isActive": true
   },
   {
     "code": "R1",
-    "name": "pica"
+    "name": "pica",
+    "isActive": true
   },
   {
     "code": "R4",
-    "name": "calorie"
+    "name": "calorie",
+    "isActive": true
   },
   {
     "code": "R9",
-    "name": "thousand cubic metre"
+    "name": "thousand cubic metre",
+    "isActive": true
   },
   {
     "code": "RG",
-    "name": "ring"
+    "name": "ring",
+    "isActive": true
   },
   {
     "code": "RH",
-    "name": "running or operating hour"
+    "name": "running or operating hour",
+    "isActive": true
   },
   {
     "code": "RK",
-    "name": "roll metric measure"
+    "name": "roll metric measure",
+    "isActive": true
   },
   {
     "code": "RL",
-    "name": "reel"
+    "name": "reel",
+    "isActive": true
   },
   {
     "code": "RM",
-    "name": "ream"
+    "name": "ream",
+    "isActive": true
   },
   {
     "code": "RO",
-    "name": "roll"
+    "name": "roll",
+    "isActive": true
   },
   {
     "code": "ROM",
-    "name": "room"
+    "name": "room",
+    "isActive": true
   },
   {
     "code": "RON",
-    "name": "Romania Leu"
+    "name": "Romania Leu",
+    "isActive": true
   },
   {
     "code": "RP",
-    "name": "pound per ream"
+    "name": "pound per ream",
+    "isActive": true
   },
   {
     "code": "RPM",
-    "name": "Revolution per minute"
+    "name": "Revolution per minute",
+    "isActive": true
   },
   {
     "code": "RPS",
-    "name": "Revolution per second"
+    "name": "Revolution per second",
+    "isActive": true
   },
   {
     "code": "RS",
-    "name": "reset"
+    "name": "reset",
+    "isActive": true
   },
   {
     "code": "RT",
-    "name": "revenue ton mile"
+    "name": "revenue ton mile",
+    "isActive": true
   },
   {
     "code": "RUB",
-    "name": "Russia Ruble"
+    "name": "Russia Ruble",
+    "isActive": true
   },
   {
     "code": "RWF",
-    "name": "Rwanda Franc"
+    "name": "Rwanda Franc",
+    "isActive": true
   },
   {
     "code": "S3",
-    "name": "square foot per second"
+    "name": "square foot per second",
+    "isActive": true
   },
   {
     "code": "S4",
-    "name": "square metre per second"
+    "name": "square metre per second",
+    "isActive": true
   },
   {
     "code": "S6",
-    "name": "session"
+    "name": "session",
+    "isActive": true
   },
   {
     "code": "S7",
-    "name": "storage unit"
+    "name": "storage unit",
+    "isActive": true
   },
   {
     "code": "S8",
-    "name": "standard advertising unit"
+    "name": "standard advertising unit",
+    "isActive": true
   },
   {
     "code": "SA",
-    "name": "sack"
+    "name": "sack",
+    "isActive": true
   },
   {
     "code": "SAN",
-    "name": "Half year (six Months)"
+    "name": "Half year (six Months)",
+    "isActive": true
   },
   {
     "code": "SBD",
-    "name": "Solomon Islands Dollar"
+    "name": "Solomon Islands Dollar",
+    "isActive": true
   },
   {
     "code": "SCO",
-    "name": "Score"
+    "name": "Score",
+    "isActive": true
   },
   {
     "code": "SCR",
-    "name": "Scruple GP,US (1,295982 g)"
+    "name": "Scruple GP,US (1,295982 g)",
+    "isActive": true
   },
   {
     "code": "SD",
-    "name": "solid pound"
+    "name": "solid pound",
+    "isActive": true
   },
   {
     "code": "SDG",
-    "name": "Sudan Pound"
+    "name": "Sudan Pound",
+    "isActive": true
   },
   {
     "code": "SE",
-    "name": "section"
+    "name": "section",
+    "isActive": true
   },
   {
     "code": "SEC",
-    "name": "Second"
+    "name": "Second",
+    "isActive": true
   },
   {
     "code": "SEK",
-    "name": "Sweden Krona"
+    "name": "Sweden Krona",
+    "isActive": true
   },
   {
     "code": "SET",
-    "name": "Set"
+    "name": "Set",
+    "isActive": true
   },
   {
     "code": "SG",
-    "name": "segment"
+    "name": "segment",
+    "isActive": true
   },
   {
     "code": "SGD",
-    "name": "Singapore Dollar"
+    "name": "Singapore Dollar",
+    "isActive": true
   },
   {
     "code": "SHP",
-    "name": "Saint Helena Pound"
+    "name": "Saint Helena Pound",
+    "isActive": true
   },
   {
     "code": "SHT",
-    "name": "Shipping ton"
+    "name": "Shipping ton",
+    "isActive": true
   },
   {
     "code": "SIE",
-    "name": "Siemens"
+    "name": "Siemens",
+    "isActive": true
   },
   {
     "code": "SK",
-    "name": "split tank truck"
+    "name": "split tank truck",
+    "isActive": true
   },
   {
     "code": "SL",
-    "name": "slipsheet"
+    "name": "slipsheet",
+    "isActive": true
   },
   {
     "code": "SLL",
-    "name": "Sierra Leone Leone"
+    "name": "Sierra Leone Leone",
+    "isActive": true
   },
   {
     "code": "SM3",
-    "name": "Standard cubic metre"
+    "name": "Standard cubic metre",
+    "isActive": true
   },
   {
     "code": "SMI",
-    "name": "Statute mile (1609.344 m)"
+    "name": "Statute mile (1609.344 m)",
+    "isActive": true
   },
   {
     "code": "SN",
-    "name": "square rod"
+    "name": "square rod",
+    "isActive": true
   },
   {
     "code": "SOS",
-    "name": "Somalia Shilling"
+    "name": "Somalia Shilling",
+    "isActive": true
   },
   {
     "code": "SPL",
-    "name": "Seborga Luigino"
+    "name": "Seborga Luigino",
+    "isActive": true
   },
   {
     "code": "SQ",
-    "name": "square"
+    "name": "square",
+    "isActive": true
   },
   {
     "code": "SQR",
-    "name": "square, roofing"
+    "name": "square, roofing",
+    "isActive": true
   },
   {
     "code": "SRD",
-    "name": "Suriname Dollar"
+    "name": "Suriname Dollar",
+    "isActive": true
   },
   {
     "code": "SS",
-    "name": "sheet metric measure"
+    "name": "sheet metric measure",
+    "isActive": true
   },
   {
     "code": "ST",
-    "name": "sheet"
+    "name": "sheet",
+    "isActive": true
   },
   {
     "code": "STC",
-    "name": "stick"
+    "name": "stick",
+    "isActive": true
   },
   {
     "code": "STI",
-    "name": "Stone GB (6,350293 kg)"
+    "name": "Stone GB (6,350293 kg)",
+    "isActive": true
   },
   {
     "code": "STK",
-    "name": "stick, cigarette"
+    "name": "stick, cigarette",
+    "isActive": true
   },
   {
     "code": "STL",
-    "name": "standard litre"
+    "name": "standard litre",
+    "isActive": true
   },
   {
     "code": "STN",
-    "name": "Short ton GB, US (0,90718474 t)"
+    "name": "Short ton GB, US (0,90718474 t)",
+    "isActive": true
   },
   {
     "code": "STW",
-    "name": "straw"
+    "name": "straw",
+    "isActive": true
   },
   {
     "code": "SW",
-    "name": "skein"
+    "name": "skein",
+    "isActive": true
   },
   {
     "code": "SX",
-    "name": "shipment"
+    "name": "shipment",
+    "isActive": true
   },
   {
     "code": "SZL",
-    "name": "Swaziland Lilangeni"
+    "name": "Swaziland Lilangeni",
+    "isActive": true
   },
   {
     "code": "T0",
-    "name": "telecommunication line in service"
+    "name": "telecommunication line in service",
+    "isActive": true
   },
   {
     "code": "T1",
-    "name": "thousand pound gross"
+    "name": "thousand pound gross",
+    "isActive": true
   },
   {
     "code": "T3",
-    "name": "thousand piece"
+    "name": "thousand piece",
+    "isActive": true
   },
   {
     "code": "T5",
-    "name": "thousand casing"
+    "name": "thousand casing",
+    "isActive": true
   },
   {
     "code": "T6",
-    "name": "thousand gallon (US)"
+    "name": "thousand gallon (US)",
+    "isActive": true
   },
   {
     "code": "T7",
-    "name": "thousand impression"
+    "name": "thousand impression",
+    "isActive": true
   },
   {
     "code": "T8",
-    "name": "thousand linear inch"
+    "name": "thousand linear inch",
+    "isActive": true
   },
   {
     "code": "TA",
-    "name": "tenth cubic foot"
+    "name": "tenth cubic foot",
+    "isActive": true
   },
   {
     "code": "TAH",
-    "name": "Thousand ampere-hour"
+    "name": "Thousand ampere-hour",
+    "isActive": true
   },
   {
     "code": "TAN",
-    "name": "total acid number"
+    "name": "total acid number",
+    "isActive": true
   },
   {
     "code": "TC",
-    "name": "truckload"
+    "name": "truckload",
+    "isActive": true
   },
   {
     "code": "TE",
-    "name": "tote"
+    "name": "tote",
+    "isActive": true
   },
   {
     "code": "TF",
-    "name": "ten square yard"
+    "name": "ten square yard",
+    "isActive": true
   },
   {
     "code": "THB",
-    "name": "Thailand Baht"
+    "name": "Thailand Baht",
+    "isActive": true
   },
   {
     "code": "TI",
-    "name": "thousand square inch"
+    "name": "thousand square inch",
+    "isActive": true
   },
   {
     "code": "TIP",
-    "name": "metric ton, including inner packaging"
+    "name": "metric ton, including inner packaging",
+    "isActive": true
   },
   {
     "code": "TJ",
-    "name": "thousand square centimetre"
+    "name": "thousand square centimetre",
+    "isActive": true
   },
   {
     "code": "TK",
-    "name": "tank, rectangular"
+    "name": "tank, rectangular",
+    "isActive": true
   },
   {
     "code": "TL",
-    "name": "thousand foot (linear)"
+    "name": "thousand foot (linear)",
+    "isActive": true
   },
   {
     "code": "TMS",
-    "name": "kilogram of imported meat, less offal"
+    "name": "kilogram of imported meat, less offal",
+    "isActive": true
   },
   {
     "code": "TMT",
-    "name": "Turkmenistan Manat"
+    "name": "Turkmenistan Manat",
+    "isActive": true
   },
   {
     "code": "TN",
-    "name": "tin"
+    "name": "tin",
+    "isActive": true
   },
   {
     "code": "TND",
-    "name": "Tunisia Dinar"
+    "name": "Tunisia Dinar",
+    "isActive": true
   },
   {
     "code": "TOP",
-    "name": "Tonga Pa'anga"
+    "name": "Tonga Pa'anga",
+    "isActive": true
   },
   {
     "code": "TPI",
-    "name": "teeth per inch"
+    "name": "teeth per inch",
+    "isActive": true
   },
   {
     "code": "TPR",
-    "name": "Ten pairs"
+    "name": "Ten pairs",
+    "isActive": true
   },
   {
     "code": "TQ",
-    "name": "thousand foot"
+    "name": "thousand foot",
+    "isActive": true
   },
   {
     "code": "TQD",
-    "name": "thousand cubic metres per day"
+    "name": "thousand cubic metres per day",
+    "isActive": true
   },
   {
     "code": "TR",
-    "name": "ten square foot"
+    "name": "ten square foot",
+    "isActive": true
   },
   {
     "code": "TRL",
-    "name": "Trillion Eur"
+    "name": "Trillion Eur",
+    "isActive": true
   },
   {
     "code": "TRY",
-    "name": "Turkey Lira"
+    "name": "Turkey Lira",
+    "isActive": true
   },
   {
     "code": "TS",
-    "name": "thousand square foot"
+    "name": "thousand square foot",
+    "isActive": true
   },
   {
     "code": "TSH",
-    "name": "Ton of steam per hour"
+    "name": "Ton of steam per hour",
+    "isActive": true
   },
   {
     "code": "TST",
-    "name": "ten set"
+    "name": "ten set",
+    "isActive": true
   },
   {
     "code": "TT",
-    "name": "thousand linear metre"
+    "name": "thousand linear metre",
+    "isActive": true
   },
   {
     "code": "TTD",
-    "name": "Trinidad and Tobago Dollar"
+    "name": "Trinidad and Tobago Dollar",
+    "isActive": true
   },
   {
     "code": "TTS",
-    "name": "ten thousand sticks"
+    "name": "ten thousand sticks",
+    "isActive": true
   },
   {
     "code": "TU",
-    "name": "tube"
+    "name": "tube",
+    "isActive": true
   },
   {
     "code": "TV",
-    "name": "thousand kilogram"
+    "name": "thousand kilogram",
+    "isActive": true
   },
   {
     "code": "TVD",
-    "name": "Tuvalu Dollar"
+    "name": "Tuvalu Dollar",
+    "isActive": true
   },
   {
     "code": "TWD",
-    "name": "Taiwan New Dollar"
+    "name": "Taiwan New Dollar",
+    "isActive": true
   },
   {
     "code": "TY",
-    "name": "tank, cylindrical"
+    "name": "tank, cylindrical",
+    "isActive": true
   },
   {
     "code": "TZS",
-    "name": "Tanzania Shilling"
+    "name": "Tanzania Shilling",
+    "isActive": true
   },
   {
     "code": "U1",
-    "name": "treatment"
+    "name": "treatment",
+    "isActive": true
   },
   {
     "code": "U2",
-    "name": "tablet"
+    "name": "tablet",
+    "isActive": true
   },
   {
     "code": "UA",
-    "name": "torr"
+    "name": "torr",
+    "isActive": true
   },
   {
     "code": "UAH",
-    "name": "Ukraine Hryvnia"
+    "name": "Ukraine Hryvnia",
+    "isActive": true
   },
   {
     "code": "UB",
-    "name": "telecommunication line in service average"
+    "name": "telecommunication line in service average",
+    "isActive": true
   },
   {
     "code": "UC",
-    "name": "telecommunication port"
+    "name": "telecommunication port",
+    "isActive": true
   },
   {
     "code": "UD",
-    "name": "tenth minute"
+    "name": "tenth minute",
+    "isActive": true
   },
   {
     "code": "UE",
-    "name": "tenth hour"
+    "name": "tenth hour",
+    "isActive": true
   },
   {
     "code": "UF",
-    "name": "usage per telecommunication line average"
+    "name": "usage per telecommunication line average",
+    "isActive": true
   },
   {
     "code": "UGX",
-    "name": "Uganda Shilling"
+    "name": "Uganda Shilling",
+    "isActive": true
   },
   {
     "code": "UH",
-    "name": "ten thousand yard"
+    "name": "ten thousand yard",
+    "isActive": true
   },
   {
     "code": "UM",
-    "name": "million unit"
+    "name": "million unit",
+    "isActive": true
   },
   {
     "code": "USD",
-    "name": "United States Dollar"
+    "name": "United States Dollar",
+    "isActive": true
   },
   {
     "code": "UYU",
-    "name": "Uruguay Peso"
+    "name": "Uruguay Peso",
+    "isActive": true
   },
   {
     "code": "UZS",
-    "name": "Uzbekistan Som"
+    "name": "Uzbekistan Som",
+    "isActive": true
   },
   {
     "code": "VA",
-    "name": "volt - ampere per kilogram"
+    "name": "volt - ampere per kilogram",
+    "isActive": true
   },
   {
     "code": "VEF",
-    "name": "Venezuela Bolivar"
+    "name": "Venezuela Bolivar",
+    "isActive": true
   },
   {
     "code": "VI",
-    "name": "vial"
+    "name": "vial",
+    "isActive": true
   },
   {
     "code": "VLT",
-    "name": "Volt"
+    "name": "Volt",
+    "isActive": true
   },
   {
     "code": "VND",
-    "name": "Viet Nam Dong"
+    "name": "Viet Nam Dong",
+    "isActive": true
   },
   {
     "code": "VP",
-    "name": "percent volume"
+    "name": "percent volume",
+    "isActive": true
   },
   {
     "code": "VQ",
-    "name": "bulk"
+    "name": "bulk",
+    "isActive": true
   },
   {
     "code": "VS",
-    "name": "visit"
+    "name": "visit",
+    "isActive": true
   },
   {
     "code": "VUV",
-    "name": "Vanuatu Vatu"
+    "name": "Vanuatu Vatu",
+    "isActive": true
   },
   {
     "code": "W2",
-    "name": "wet kilo"
+    "name": "wet kilo",
+    "isActive": true
   },
   {
     "code": "W4",
-    "name": "two week"
+    "name": "two week",
+    "isActive": true
   },
   {
     "code": "WCD",
-    "name": "Cord (3,63 m3)"
+    "name": "Cord (3,63 m3)",
+    "isActive": true
   },
   {
     "code": "WE",
-    "name": "wet ton"
+    "name": "wet ton",
+    "isActive": true
   },
   {
     "code": "WEE",
-    "name": "Week"
+    "name": "Week",
+    "isActive": true
   },
   {
     "code": "WG",
-    "name": "wine gallon"
+    "name": "wine gallon",
+    "isActive": true
   },
   {
     "code": "WHR",
-    "name": "Watt-hour"
+    "name": "Watt-hour",
+    "isActive": true
   },
   {
     "code": "WI",
-    "name": "weight per square inch"
+    "name": "weight per square inch",
+    "isActive": true
   },
   {
     "code": "WM",
-    "name": "working month"
+    "name": "working month",
+    "isActive": true
   },
   {
     "code": "WSD",
-    "name": "Standard"
+    "name": "Standard",
+    "isActive": true
   },
   {
     "code": "WST",
-    "name": "Samoa Tala"
+    "name": "Samoa Tala",
+    "isActive": true
   },
   {
     "code": "WW",
-    "name": "millilitre of water"
+    "name": "millilitre of water",
+    "isActive": true
   },
   {
     "code": "X1",
-    "name": "Gunters chain"
+    "name": "Gunters chain",
+    "isActive": true
   },
   {
     "code": "XAF",
-    "name": "Communauté Financière Africaine (BEAC) CFA Franc"
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc",
+    "isActive": true
   },
   {
     "code": "XCD",
-    "name": "East Caribbean Dollar"
+    "name": "East Caribbean Dollar",
+    "isActive": true
   },
   {
     "code": "XOF",
-    "name": "Communauté Financière Africaine (BCEAO) Franc"
+    "name": "Communauté Financière Africaine (BCEAO) Franc",
+    "isActive": true
   },
   {
     "code": "XPF",
-    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+    "name": "Comptoirs Français du Pacifique (CFP) Franc",
+    "isActive": true
   },
   {
     "code": "YDK",
-    "name": "Square yard"
+    "name": "Square yard",
+    "isActive": true
   },
   {
     "code": "YER",
-    "name": "Yemen Rial"
+    "name": "Yemen Rial",
+    "isActive": true
   },
   {
     "code": "YL",
-    "name": "hundred linear yard"
+    "name": "hundred linear yard",
+    "isActive": true
   },
   {
     "code": "YRD",
-    "name": "Yard (0.9144 m)"
+    "name": "Yard (0.9144 m)",
+    "isActive": true
   },
   {
     "code": "Z1",
-    "name": "lift van"
+    "name": "lift van",
+    "isActive": true
   },
   {
     "code": "Z11",
-    "name": "hanging container"
+    "name": "hanging container",
+    "isActive": true
   },
   {
     "code": "Z2",
-    "name": "chest"
+    "name": "chest",
+    "isActive": true
   },
   {
     "code": "Z3",
-    "name": "cask"
+    "name": "cask",
+    "isActive": true
   },
   {
     "code": "Z4",
-    "name": "hogshead"
+    "name": "hogshead",
+    "isActive": true
   },
   {
     "code": "Z6",
-    "name": "conference point"
+    "name": "conference point",
+    "isActive": true
   },
   {
     "code": "Z8",
-    "name": "newspage agate line"
+    "name": "newspage agate line",
+    "isActive": true
   },
   {
     "code": "ZAR",
-    "name": "South Africa Rand"
+    "name": "South Africa Rand",
+    "isActive": true
   },
   {
     "code": "ZMW",
-    "name": "Zambia Kwacha"
+    "name": "Zambia Kwacha",
+    "isActive": true
   },
   {
     "code": "ZWD",
-    "name": "Zimbabwe Dollar"
+    "name": "Zimbabwe Dollar",
+    "isActive": true
   },
   {
     "code": "ZZ",
-    "name": "mutually defined"
+    "name": "mutually defined",
+    "isActive": true
   }
 ]

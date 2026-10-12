@@ -2,156 +2,187 @@
   {
     "documentCode": "25",
     "code": "1",
-    "name": "PENYERAHAN BKP"
+    "name": "PENYERAHAN BKP",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "2",
-    "name": "PENYERAHAN JKP"
+    "name": "PENYERAHAN JKP",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "3",
-    "name": "RETUR"
+    "name": "RETUR",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "4",
-    "name": "NON PENYERAHAN"
+    "name": "NON PENYERAHAN",
+    "isActive": true
   },
   {
     "documentCode": "25",
     "code": "5",
-    "name": "LAINNYA"
+    "name": "LAINNYA",
+    "isActive": true
   },
   {
     "documentCode": "261",
     "code": "1",
-    "name": "DIPERBAIKI"
+    "name": "DIPERBAIKI",
+    "isActive": true
   },
   {
     "documentCode": "261",
     "code": "2",
-    "name": "DISUBKONTRAKKAN"
+    "name": "DISUBKONTRAKKAN",
+    "isActive": true
   },
   {
     "documentCode": "261",
     "code": "3",
-    "name": "DIPINJAMKAN"
+    "name": "DIPINJAMKAN",
+    "isActive": true
   },
   {
     "documentCode": "261",
     "code": "4",
-    "name": "BARANG RETURN"
+    "name": "BARANG RETURN",
+    "isActive": true
   },
   {
     "documentCode": "261",
     "code": "5",
-    "name": "LAINNYA"
+    "name": "LAINNYA",
+    "isActive": true
   },
   {
     "documentCode": "27",
     "code": "1",
-    "name": "PENYERAHAN BKP"
+    "name": "PENYERAHAN BKP",
+    "isActive": true
   },
   {
     "documentCode": "27",
     "code": "2",
-    "name": "PENYERAHAN JKP"
+    "name": "PENYERAHAN JKP",
+    "isActive": true
   },
   {
     "documentCode": "27",
     "code": "3",
-    "name": "RETUR"
+    "name": "RETUR",
+    "isActive": true
   },
   {
     "documentCode": "27",
     "code": "4",
-    "name": "NON PENYERAHAN"
+    "name": "NON PENYERAHAN",
+    "isActive": true
   },
   {
     "documentCode": "27",
     "code": "5",
-    "name": "LAINNYA"
+    "name": "LAINNYA",
+    "isActive": true
   },
   {
     "documentCode": "40",
     "code": "1",
-    "name": "PENYERAHAN BKP"
+    "name": "PENYERAHAN BKP",
+    "isActive": true
   },
   {
     "documentCode": "40",
     "code": "2",
-    "name": "PENYERAHAN JKP"
+    "name": "PENYERAHAN JKP",
+    "isActive": true
   },
   {
     "documentCode": "40",
     "code": "3",
-    "name": "RETUR"
+    "name": "RETUR",
+    "isActive": true
   },
   {
     "documentCode": "40",
     "code": "4",
-    "name": "NON PENYERAHAN"
+    "name": "NON PENYERAHAN",
+    "isActive": true
   },
   {
     "documentCode": "40",
     "code": "5",
-    "name": "LAINNYA"
+    "name": "LAINNYA",
+    "isActive": true
   },
   {
     "documentCode": "41",
     "code": "1",
-    "name": "PENYERAHAN BKP"
+    "name": "PENYERAHAN BKP",
+    "isActive": true
   },
   {
     "documentCode": "41",
     "code": "2",
-    "name": "PENYERAHAN JKP"
+    "name": "PENYERAHAN JKP",
+    "isActive": true
   },
   {
     "documentCode": "41",
     "code": "3",
-    "name": "RETUR"
+    "name": "RETUR",
+    "isActive": true
   },
   {
     "documentCode": "41",
     "code": "4",
-    "name": "NON PENYERAHAN"
+    "name": "NON PENYERAHAN",
+    "isActive": true
   },
   {
     "documentCode": "41",
     "code": "5",
-    "name": "LAINNYA"
+    "name": "LAINNYA",
+    "isActive": true
   },
   {
     "documentCode": "512",
     "code": "1",
-    "name": "PENYERAHAN BKP"
+    "name": "PENYERAHAN BKP",
+    "isActive": true
   },
   {
     "documentCode": "512",
     "code": "4",
-    "name": "NON PENYERAHAN"
+    "name": "NON PENYERAHAN",
+    "isActive": true
   },
   {
     "documentCode": "513",
     "code": "1",
-    "name": "PENYERAHAN BKP"
+    "name": "PENYERAHAN BKP",
+    "isActive": true
   },
   {
     "documentCode": "513",
     "code": "4",
-    "name": "NON PENYERAHAN"
+    "name": "NON PENYERAHAN",
+    "isActive": true
   },
   {
     "documentCode": "522",
     "code": "1",
-    "name": "PENYERAHAN BKP"
+    "name": "PENYERAHAN BKP",
+    "isActive": true
   },
   {
     "documentCode": "522",
     "code": "4",
-    "name": "NON PENYERAHAN"
+    "name": "NON PENYERAHAN",
+    "isActive": true
   }
 ]

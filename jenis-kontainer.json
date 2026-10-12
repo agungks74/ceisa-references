@@ -1,14 +1,17 @@
 [
   {
     "code": "4",
-    "name": "EMPTY"
+    "name": "EMPTY",
+    "isActive": true
   },
   {
     "code": "8",
-    "name": "FCL"
+    "name": "FCL",
+    "isActive": true
   },
   {
     "code": "7",
-    "name": "LCL"
+    "name": "LCL",
+    "isActive": true
   }
 ]

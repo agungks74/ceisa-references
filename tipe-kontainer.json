@@ -1,38 +1,47 @@
 [
   {
     "code": "1",
-    "name": "General / Dry Cargo"
+    "name": "General / Dry Cargo",
+    "isActive": true
   },
   {
     "code": "2",
-    "name": "Tunne Type"
+    "name": "Tunne Type",
+    "isActive": true
   },
   {
     "code": "3",
-    "name": "Open Top Steel"
+    "name": "Open Top Steel",
+    "isActive": true
   },
   {
     "code": "4",
-    "name": "Flat Rack"
+    "name": "Flat Rack",
+    "isActive": true
   },
   {
     "code": "5",
-    "name": "Reefer/Refregete"
+    "name": "Reefer/Refregete",
+    "isActive": true
   },
   {
     "code": "6",
-    "name": "Barge Container"
+    "name": "Barge Container",
+    "isActive": true
   },
   {
     "code": "7",
-    "name": "Bulk Container"
+    "name": "Bulk Container",
+    "isActive": true
   },
   {
     "code": "8",
-    "name": "Isotank"
+    "name": "Isotank",
+    "isActive": true
   },
   {
     "code": "99",
-    "name": "Lain-lain"
+    "name": "Lain-lain",
+    "isActive": true
   }
 ]

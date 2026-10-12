@@ -1,1530 +1,1912 @@
 [
   {
     "code": "1A",
-    "name": "Drum, steel"
+    "name": "Drum, steel",
+    "isActive": true
   },
   {
     "code": "1B",
-    "name": "Drum, aluminium"
+    "name": "Drum, aluminium",
+    "isActive": true
   },
   {
     "code": "1D",
-    "name": "Drum, plywood"
+    "name": "Drum, plywood",
+    "isActive": true
   },
   {
     "code": "1F",
-    "name": "Container, flexible"
+    "name": "Container, flexible",
+    "isActive": true
   },
   {
     "code": "1G",
-    "name": "Drum, fibre"
+    "name": "Drum, fibre",
+    "isActive": true
   },
   {
     "code": "1W",
-    "name": "Drum, wooden"
+    "name": "Drum, wooden",
+    "isActive": true
   },
   {
     "code": "2C",
-    "name": "Barrel, wooden"
+    "name": "Barrel, wooden",
+    "isActive": true
   },
   {
     "code": "3A",
-    "name": "Jerrican, steel"
+    "name": "Jerrican, steel",
+    "isActive": true
   },
   {
     "code": "3H",
-    "name": "Jerrican, plastic"
+    "name": "Jerrican, plastic",
+    "isActive": true
   },
   {
     "code": "43",
-    "name": "Bag, super bulk"
+    "name": "Bag, super bulk",
+    "isActive": true
   },
   {
     "code": "44",
-    "name": "Bag, polybag"
+    "name": "Bag, polybag",
+    "isActive": true
   },
   {
     "code": "4A",
-    "name": "Box, steel"
+    "name": "Box, steel",
+    "isActive": true
   },
   {
     "code": "4B",
-    "name": "Box, aluminium"
+    "name": "Box, aluminium",
+    "isActive": true
   },
   {
     "code": "4C",
-    "name": "Box, natural wood"
+    "name": "Box, natural wood",
+    "isActive": true
   },
   {
     "code": "4D",
-    "name": "Box, plywood"
+    "name": "Box, plywood",
+    "isActive": true
   },
   {
     "code": "4F",
-    "name": "Box, reconstituted wood"
+    "name": "Box, reconstituted wood",
+    "isActive": true
   },
   {
     "code": "4G",
-    "name": "Box, fibreboard"
+    "name": "Box, fibreboard",
+    "isActive": true
   },
   {
     "code": "4H",
-    "name": "Box, plastic"
+    "name": "Box, plastic",
+    "isActive": true
   },
   {
     "code": "5H",
-    "name": "Bag, woven plastic"
+    "name": "Bag, woven plastic",
+    "isActive": true
   },
   {
     "code": "5L",
-    "name": "Bag, textile"
+    "name": "Bag, textile",
+    "isActive": true
   },
   {
     "code": "5M",
-    "name": "Bag, paper"
+    "name": "Bag, paper",
+    "isActive": true
   },
   {
     "code": "6H",
-    "name": "Composite packaging, plastic receptacle"
+    "name": "Composite packaging, plastic receptacle",
+    "isActive": true
   },
   {
     "code": "6P",
-    "name": "Composite packaging, glass receptacle"
+    "name": "Composite packaging, glass receptacle",
+    "isActive": true
   },
   {
     "code": "7A",
-    "name": "Case, car"
+    "name": "Case, car",
+    "isActive": true
   },
   {
     "code": "7B",
-    "name": "Case, wooden"
+    "name": "Case, wooden",
+    "isActive": true
   },
   {
     "code": "8A",
-    "name": "Pallet, wooden"
+    "name": "Pallet, wooden",
+    "isActive": true
   },
   {
     "code": "8B",
-    "name": "Crate, wooden"
+    "name": "Crate, wooden",
+    "isActive": true
   },
   {
     "code": "8C",
-    "name": "Bundle, wooden"
+    "name": "Bundle, wooden",
+    "isActive": true
   },
   {
     "code": "AA",
-    "name": "Intermediate bulk container, rigid plastic"
+    "name": "Intermediate bulk container, rigid plastic",
+    "isActive": true
   },
   {
     "code": "AB",
-    "name": "Receptacle, fibre"
+    "name": "Receptacle, fibre",
+    "isActive": true
   },
   {
     "code": "AC",
-    "name": "Receptacle, paper"
+    "name": "Receptacle, paper",
+    "isActive": true
   },
   {
     "code": "AD",
-    "name": "Receptacle, wooden"
+    "name": "Receptacle, wooden",
+    "isActive": true
   },
   {
     "code": "AE",
-    "name": "Aerosol"
+    "name": "Aerosol",
+    "isActive": true
   },
   {
     "code": "AF",
-    "name": "Pallet, modular, collars 80cms * 60cms"
+    "name": "Pallet, modular, collars 80cms * 60cms",
+    "isActive": true
   },
   {
     "code": "AG",
-    "name": "Pallet, shrinkwrapped"
+    "name": "Pallet, shrinkwrapped",
+    "isActive": true
   },
   {
     "code": "AH",
-    "name": "Pallet, 100cms * 110cms"
+    "name": "Pallet, 100cms * 110cms",
+    "isActive": true
   },
   {
     "code": "AI",
-    "name": "Clamshell"
+    "name": "Clamshell",
+    "isActive": true
   },
   {
     "code": "AJ",
-    "name": "Cone"
+    "name": "Cone",
+    "isActive": true
   },
   {
     "code": "AL",
-    "name": "Ball"
+    "name": "Ball",
+    "isActive": true
   },
   {
     "code": "AM",
-    "name": "Ampoule, non protected"
+    "name": "Ampoule, non protected",
+    "isActive": true
   },
   {
     "code": "AP",
-    "name": "Ampoule, protected"
+    "name": "Ampoule, protected",
+    "isActive": true
   },
   {
     "code": "AT",
-    "name": "Atomizer"
+    "name": "Atomizer",
+    "isActive": true
   },
   {
     "code": "AV",
-    "name": "Capsule"
+    "name": "Capsule",
+    "isActive": true
   },
   {
     "code": "B4",
-    "name": "Belt"
+    "name": "Belt",
+    "isActive": true
   },
   {
     "code": "BA",
-    "name": "Barrel"
+    "name": "Barrel",
+    "isActive": true
   },
   {
     "code": "BB",
-    "name": "Bobbin"
+    "name": "Bobbin",
+    "isActive": true
   },
   {
     "code": "BC",
-    "name": "Bottlecrate, bottlerack"
+    "name": "Bottlecrate, bottlerack",
+    "isActive": true
   },
   {
     "code": "BD",
-    "name": "Board"
+    "name": "Board",
+    "isActive": true
   },
   {
     "code": "BE",
-    "name": "Bundle"
+    "name": "Bundle",
+    "isActive": true
   },
   {
     "code": "BF",
-    "name": "Balloon, non-protected"
+    "name": "Balloon, non-protected",
+    "isActive": true
   },
   {
     "code": "BG",
-    "name": "Bag"
+    "name": "Bag",
+    "isActive": true
   },
   {
     "code": "BH",
-    "name": "Bunch"
+    "name": "Bunch",
+    "isActive": true
   },
   {
     "code": "BI",
-    "name": "Bin"
+    "name": "Bin",
+    "isActive": true
   },
   {
     "code": "BJ",
-    "name": "Bucket"
+    "name": "Bucket",
+    "isActive": true
   },
   {
     "code": "BK",
-    "name": "Basket"
+    "name": "Basket",
+    "isActive": true
   },
   {
     "code": "BL",
-    "name": "Bale, compressed"
+    "name": "Bale, compressed",
+    "isActive": true
   },
   {
     "code": "BM",
-    "name": "Basin"
+    "name": "Basin",
+    "isActive": true
   },
   {
     "code": "BN",
-    "name": "Bale, non -compressed"
+    "name": "Bale, non -compressed",
+    "isActive": true
   },
   {
     "code": "BO",
-    "name": "Bottle, non-protected, cylindrical"
+    "name": "Bottle, non-protected, cylindrical",
+    "isActive": true
   },
   {
     "code": "BP",
-    "name": "Balloon, protected"
+    "name": "Balloon, protected",
+    "isActive": true
   },
   {
     "code": "BQ",
-    "name": "Bottle, protected cylindrical"
+    "name": "Bottle, protected cylindrical",
+    "isActive": true
   },
   {
     "code": "BR",
-    "name": "Bar"
+    "name": "Bar",
+    "isActive": true
   },
   {
     "code": "BS",
-    "name": "Bottle, non-protected, bulbous"
+    "name": "Bottle, non-protected, bulbous",
+    "isActive": true
   },
   {
     "code": "BT",
-    "name": "Bolt"
+    "name": "Bolt",
+    "isActive": true
   },
   {
     "code": "BU",
-    "name": "Butt"
+    "name": "Butt",
+    "isActive": true
   },
   {
     "code": "BV",
-    "name": "Bottle, protected bulbous"
+    "name": "Bottle, protected bulbous",
+    "isActive": true
   },
   {
     "code": "BW",
-    "name": "Box, for liquids"
+    "name": "Box, for liquids",
+    "isActive": true
   },
   {
     "code": "BX",
-    "name": "Box"
+    "name": "Box",
+    "isActive": true
   },
   {
     "code": "BY",
-    "name": "Board, in bundle/bunch/truss"
+    "name": "Board, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "BZ",
-    "name": "Bars, in bundle/bunch/truss"
+    "name": "Bars, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "CA",
-    "name": "Can, rectangular"
+    "name": "Can, rectangular",
+    "isActive": true
   },
   {
     "code": "CB",
-    "name": "Beer crate"
+    "name": "Beer crate",
+    "isActive": true
   },
   {
     "code": "CC",
-    "name": "Churn"
+    "name": "Churn",
+    "isActive": true
   },
   {
     "code": "CD",
-    "name": "Can, with handle and spout"
+    "name": "Can, with handle and spout",
+    "isActive": true
   },
   {
     "code": "CE",
-    "name": "Creel"
+    "name": "Creel",
+    "isActive": true
   },
   {
     "code": "CF",
-    "name": "Coffer"
+    "name": "Coffer",
+    "isActive": true
   },
   {
     "code": "CG",
-    "name": "Cage"
+    "name": "Cage",
+    "isActive": true
   },
   {
     "code": "CH",
-    "name": "Chest"
+    "name": "Chest",
+    "isActive": true
   },
   {
     "code": "CI",
-    "name": "Canister"
+    "name": "Canister",
+    "isActive": true
   },
   {
     "code": "CJ",
-    "name": "Coffin"
+    "name": "Coffin",
+    "isActive": true
   },
   {
     "code": "CK",
-    "name": "Cask"
+    "name": "Cask",
+    "isActive": true
   },
   {
     "code": "CL",
-    "name": "Coil"
+    "name": "Coil",
+    "isActive": true
   },
   {
     "code": "CM",
-    "name": "Card"
+    "name": "Card",
+    "isActive": true
   },
   {
     "code": "CN",
-    "name": "Cont,not otherwise specfied as transport equipment"
+    "name": "Cont,not otherwise specfied as transport equipment",
+    "isActive": true
   },
   {
     "code": "CO",
-    "name": "Carboy, non-protected"
+    "name": "Carboy, non-protected",
+    "isActive": true
   },
   {
     "code": "CP",
-    "name": "Carboy, protected"
+    "name": "Carboy, protected",
+    "isActive": true
   },
   {
     "code": "CQ",
-    "name": "Cartridge"
+    "name": "Cartridge",
+    "isActive": true
   },
   {
     "code": "CR",
-    "name": "Crate"
+    "name": "Crate",
+    "isActive": true
   },
   {
     "code": "CS",
-    "name": "Case"
+    "name": "Case",
+    "isActive": true
   },
   {
     "code": "CT",
-    "name": "Carton"
+    "name": "Carton",
+    "isActive": true
   },
   {
     "code": "CU",
-    "name": "Cup"
+    "name": "Cup",
+    "isActive": true
   },
   {
     "code": "CV",
-    "name": "Cover"
+    "name": "Cover",
+    "isActive": true
   },
   {
     "code": "CW",
-    "name": "Cage, roll"
+    "name": "Cage, roll",
+    "isActive": true
   },
   {
     "code": "CX",
-    "name": "Can, cylindical"
+    "name": "Can, cylindical",
+    "isActive": true
   },
   {
     "code": "CY",
-    "name": "Cylinder"
+    "name": "Cylinder",
+    "isActive": true
   },
   {
     "code": "CZ",
-    "name": "Canvas"
+    "name": "Canvas",
+    "isActive": true
   },
   {
     "code": "DA",
-    "name": "Crate, multiple layer, plastic"
+    "name": "Crate, multiple layer, plastic",
+    "isActive": true
   },
   {
     "code": "DB",
-    "name": "Crate, multiple layer, wooden"
+    "name": "Crate, multiple layer, wooden",
+    "isActive": true
   },
   {
     "code": "DC",
-    "name": "Crate, multiple layer, cardboard"
+    "name": "Crate, multiple layer, cardboard",
+    "isActive": true
   },
   {
     "code": "DG",
-    "name": "Cage, Commonwealth Handling Equipment Pool (CHEP)"
+    "name": "Cage, Commonwealth Handling Equipment Pool (CHEP)",
+    "isActive": true
   },
   {
     "code": "DH",
-    "name": "Box,Commnwealth Hndling Equipmnt Pool/CHEP,Eurobox"
+    "name": "Box,Commnwealth Hndling Equipmnt Pool/CHEP,Eurobox",
+    "isActive": true
   },
   {
     "code": "DI",
-    "name": "Drum, iron"
+    "name": "Drum, iron",
+    "isActive": true
   },
   {
     "code": "DJ",
-    "name": "Demijohn, non-protected"
+    "name": "Demijohn, non-protected",
+    "isActive": true
   },
   {
     "code": "DK",
-    "name": "Crate, bulk, cardboard"
+    "name": "Crate, bulk, cardboard",
+    "isActive": true
   },
   {
     "code": "DL",
-    "name": "Crate, bulk, plastic"
+    "name": "Crate, bulk, plastic",
+    "isActive": true
   },
   {
     "code": "DM",
-    "name": "Crate, bulk, wooden"
+    "name": "Crate, bulk, wooden",
+    "isActive": true
   },
   {
     "code": "DN",
-    "name": "Dispenser"
+    "name": "Dispenser",
+    "isActive": true
   },
   {
     "code": "DP",
-    "name": "Demijohn, protected"
+    "name": "Demijohn, protected",
+    "isActive": true
   },
   {
     "code": "DR",
-    "name": "Drum"
+    "name": "Drum",
+    "isActive": true
   },
   {
     "code": "DS",
-    "name": "Tray, one layer no cover, plastic"
+    "name": "Tray, one layer no cover, plastic",
+    "isActive": true
   },
   {
     "code": "DT",
-    "name": "Tray, one layer no cover, wooden"
+    "name": "Tray, one layer no cover, wooden",
+    "isActive": true
   },
   {
     "code": "DU",
-    "name": "Tray, one layer no cover, polystyrene"
+    "name": "Tray, one layer no cover, polystyrene",
+    "isActive": true
   },
   {
     "code": "DV",
-    "name": "Tray, one layer no cover, cardboard"
+    "name": "Tray, one layer no cover, cardboard",
+    "isActive": true
   },
   {
     "code": "DW",
-    "name": "Tray, two layers no cover, plastic tray"
+    "name": "Tray, two layers no cover, plastic tray",
+    "isActive": true
   },
   {
     "code": "DX",
-    "name": "Tray, two layers no cover, wooden"
+    "name": "Tray, two layers no cover, wooden",
+    "isActive": true
   },
   {
     "code": "DY",
-    "name": "Tray, two layers no cover, cardboard"
+    "name": "Tray, two layers no cover, cardboard",
+    "isActive": true
   },
   {
     "code": "EC",
-    "name": "Bag, plastic"
+    "name": "Bag, plastic",
+    "isActive": true
   },
   {
     "code": "ED",
-    "name": "Case, with pallet base"
+    "name": "Case, with pallet base",
+    "isActive": true
   },
   {
     "code": "EE",
-    "name": "Case, with pallet base, wooden"
+    "name": "Case, with pallet base, wooden",
+    "isActive": true
   },
   {
     "code": "EF",
-    "name": "Case, with pallet base, cardboard"
+    "name": "Case, with pallet base, cardboard",
+    "isActive": true
   },
   {
     "code": "EG",
-    "name": "Case, with pallet base, plastic"
+    "name": "Case, with pallet base, plastic",
+    "isActive": true
   },
   {
     "code": "EH",
-    "name": "Case, with pallet base, metal"
+    "name": "Case, with pallet base, metal",
+    "isActive": true
   },
   {
     "code": "EI",
-    "name": "Case, isothermic"
+    "name": "Case, isothermic",
+    "isActive": true
   },
   {
     "code": "EN",
-    "name": "Envelope"
+    "name": "Envelope",
+    "isActive": true
   },
   {
     "code": "FB",
-    "name": "Flexibag"
+    "name": "Flexibag",
+    "isActive": true
   },
   {
     "code": "FC",
-    "name": "Fruit crate"
+    "name": "Fruit crate",
+    "isActive": true
   },
   {
     "code": "FD",
-    "name": "Framed crate"
+    "name": "Framed crate",
+    "isActive": true
   },
   {
     "code": "FE",
-    "name": "Flexitank"
+    "name": "Flexitank",
+    "isActive": true
   },
   {
     "code": "FI",
-    "name": "Firkin"
+    "name": "Firkin",
+    "isActive": true
   },
   {
     "code": "FL",
-    "name": "Flask"
+    "name": "Flask",
+    "isActive": true
   },
   {
     "code": "FO",
-    "name": "Footlocker"
+    "name": "Footlocker",
+    "isActive": true
   },
   {
     "code": "FP",
-    "name": "Filmpack"
+    "name": "Filmpack",
+    "isActive": true
   },
   {
     "code": "FR",
-    "name": "Frame"
+    "name": "Frame",
+    "isActive": true
   },
   {
     "code": "FT",
-    "name": "Foodtainer"
+    "name": "Foodtainer",
+    "isActive": true
   },
   {
     "code": "FW",
-    "name": "Cart, flatbed"
+    "name": "Cart, flatbed",
+    "isActive": true
   },
   {
     "code": "FX",
-    "name": "Bag, flexible container"
+    "name": "Bag, flexible container",
+    "isActive": true
   },
   {
     "code": "GB",
-    "name": "Gas bottle"
+    "name": "Gas bottle",
+    "isActive": true
   },
   {
     "code": "GI",
-    "name": "Girder"
+    "name": "Girder",
+    "isActive": true
   },
   {
     "code": "GL",
-    "name": "Container, gallon"
+    "name": "Container, gallon",
+    "isActive": true
   },
   {
     "code": "GR",
-    "name": "Receptacle, glass"
+    "name": "Receptacle, glass",
+    "isActive": true
   },
   {
     "code": "GU",
-    "name": "Tray, containing horizontally stacked flat items"
+    "name": "Tray, containing horizontally stacked flat items",
+    "isActive": true
   },
   {
     "code": "GY",
-    "name": "Bag, gunny"
+    "name": "Bag, gunny",
+    "isActive": true
   },
   {
     "code": "GZ",
-    "name": "Girders, in bundle/bunch/truss"
+    "name": "Girders, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "HA",
-    "name": "Basket, with handle, plastic"
+    "name": "Basket, with handle, plastic",
+    "isActive": true
   },
   {
     "code": "HB",
-    "name": "Basket, with handle, wooden"
+    "name": "Basket, with handle, wooden",
+    "isActive": true
   },
   {
     "code": "HC",
-    "name": "Basket, with handle, cardboard"
+    "name": "Basket, with handle, cardboard",
+    "isActive": true
   },
   {
     "code": "HG",
-    "name": "Hogshead"
+    "name": "Hogshead",
+    "isActive": true
   },
   {
     "code": "HN",
-    "name": "Hanger"
+    "name": "Hanger",
+    "isActive": true
   },
   {
     "code": "HR",
-    "name": "Hamper"
+    "name": "Hamper",
+    "isActive": true
   },
   {
     "code": "HZ",
-    "name": "bukan kaleng kaleng"
+    "name": "bukan kaleng kaleng",
+    "isActive": true
   },
   {
     "code": "IA",
-    "name": "Package, display, wooden"
+    "name": "Package, display, wooden",
+    "isActive": true
   },
   {
     "code": "IB",
-    "name": "Package, display, cardboard"
+    "name": "Package, display, cardboard",
+    "isActive": true
   },
   {
     "code": "IC",
-    "name": "Package, display, plastic"
+    "name": "Package, display, plastic",
+    "isActive": true
   },
   {
     "code": "ID",
-    "name": "Package, display, metal"
+    "name": "Package, display, metal",
+    "isActive": true
   },
   {
     "code": "IE",
-    "name": "Package, show"
+    "name": "Package, show",
+    "isActive": true
   },
   {
     "code": "IF",
-    "name": "Package, flow"
+    "name": "Package, flow",
+    "isActive": true
   },
   {
     "code": "IG",
-    "name": "Package, paper wrapped"
+    "name": "Package, paper wrapped",
+    "isActive": true
   },
   {
     "code": "IH",
-    "name": "Drum, plastic"
+    "name": "Drum, plastic",
+    "isActive": true
   },
   {
     "code": "IK",
-    "name": "Package, cardboard, with bottle grip-holes"
+    "name": "Package, cardboard, with bottle grip-holes",
+    "isActive": true
   },
   {
     "code": "IL",
-    "name": "Tray, rigid, lidded stackable (CEN TS 14482:2002)"
+    "name": "Tray, rigid, lidded stackable (CEN TS 14482:2002)",
+    "isActive": true
   },
   {
     "code": "IN",
-    "name": "Ingot"
+    "name": "Ingot",
+    "isActive": true
   },
   {
     "code": "IZ",
-    "name": "ingots, in bundle/bunch/truss"
+    "name": "ingots, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "JB",
-    "name": "Bag, jumbo"
+    "name": "Bag, jumbo",
+    "isActive": true
   },
   {
     "code": "JC",
-    "name": "Jerrican, rectangular"
+    "name": "Jerrican, rectangular",
+    "isActive": true
   },
   {
     "code": "JG",
-    "name": "Jug"
+    "name": "Jug",
+    "isActive": true
   },
   {
     "code": "JR",
-    "name": "Jar"
+    "name": "Jar",
+    "isActive": true
   },
   {
     "code": "JT",
-    "name": "Jutebag"
+    "name": "Jutebag",
+    "isActive": true
   },
   {
     "code": "JY",
-    "name": "Jerrican, cylindrical"
+    "name": "Jerrican, cylindrical",
+    "isActive": true
   },
   {
     "code": "KG",
-    "name": "Keg"
+    "name": "Keg",
+    "isActive": true
   },
   {
     "code": "KI",
-    "name": "Kit"
+    "name": "Kit",
+    "isActive": true
   },
   {
     "code": "KR",
-    "name": "karung"
+    "name": "karung",
+    "isActive": true
   },
   {
     "code": "LE",
-    "name": "Luggage"
+    "name": "Luggage",
+    "isActive": true
   },
   {
     "code": "LG",
-    "name": "Log"
+    "name": "Log",
+    "isActive": true
   },
   {
     "code": "LT",
-    "name": "Lot"
+    "name": "Lot",
+    "isActive": true
   },
   {
     "code": "LU",
-    "name": "Lug"
+    "name": "Lug",
+    "isActive": true
   },
   {
     "code": "LV",
-    "name": "Liftvan"
+    "name": "Liftvan",
+    "isActive": true
   },
   {
     "code": "LZ",
-    "name": "Logs, in bundle/bunch/truss"
+    "name": "Logs, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "MA",
-    "name": "Crate, metal"
+    "name": "Crate, metal",
+    "isActive": true
   },
   {
     "code": "MB",
-    "name": "Multiply bag"
+    "name": "Multiply bag",
+    "isActive": true
   },
   {
     "code": "MC",
-    "name": "milk crate"
+    "name": "milk crate",
+    "isActive": true
   },
   {
     "code": "ME",
-    "name": "Container, metal"
+    "name": "Container, metal",
+    "isActive": true
   },
   {
     "code": "MR",
-    "name": "Receptacle, metal"
+    "name": "Receptacle, metal",
+    "isActive": true
   },
   {
     "code": "MS",
-    "name": "Multiwall sack"
+    "name": "Multiwall sack",
+    "isActive": true
   },
   {
     "code": "MT",
-    "name": "Mat"
+    "name": "Mat",
+    "isActive": true
   },
   {
     "code": "MW",
-    "name": "Receptacle, plastic wrapped"
+    "name": "Receptacle, plastic wrapped",
+    "isActive": true
   },
   {
     "code": "MX",
-    "name": "Macth box"
+    "name": "Macth box",
+    "isActive": true
   },
   {
     "code": "NA",
-    "name": "Not available"
+    "name": "Not available",
+    "isActive": true
   },
   {
     "code": "NE",
-    "name": "Unpacked or unpackaged"
+    "name": "Unpacked or unpackaged",
+    "isActive": true
   },
   {
     "code": "NF",
-    "name": "Unpacked or unpackaged, single unit"
+    "name": "Unpacked or unpackaged, single unit",
+    "isActive": true
   },
   {
     "code": "NG",
-    "name": "Unpacked or unpackaged, multiple units"
+    "name": "Unpacked or unpackaged, multiple units",
+    "isActive": true
   },
   {
     "code": "NS",
-    "name": "Nest"
+    "name": "Nest",
+    "isActive": true
   },
   {
     "code": "NT",
-    "name": "Net"
+    "name": "Net",
+    "isActive": true
   },
   {
     "code": "NU",
-    "name": "Net, tube, plastic"
+    "name": "Net, tube, plastic",
+    "isActive": true
   },
   {
     "code": "NV",
-    "name": "Net, tube, textile"
+    "name": "Net, tube, textile",
+    "isActive": true
   },
   {
     "code": "OA",
-    "name": "Pallet, CHEP 40 cm x 60 cm"
+    "name": "Pallet, CHEP 40 cm x 60 cm",
+    "isActive": true
   },
   {
     "code": "OB",
-    "name": "Pallet, CHEP 80 cm x 120 cm"
+    "name": "Pallet, CHEP 80 cm x 120 cm",
+    "isActive": true
   },
   {
     "code": "OC",
-    "name": "Pallet, CHEP 100 cm x 120 cm"
+    "name": "Pallet, CHEP 100 cm x 120 cm",
+    "isActive": true
   },
   {
     "code": "OD",
-    "name": "Pallet, AS 4068-1993"
+    "name": "Pallet, AS 4068-1993",
+    "isActive": true
   },
   {
     "code": "OE",
-    "name": "Pallet, ISO T11"
+    "name": "Pallet, ISO T11",
+    "isActive": true
   },
   {
     "code": "OF",
-    "name": "Platform, unspecified weight or dimension"
+    "name": "Platform, unspecified weight or dimension",
+    "isActive": true
   },
   {
     "code": "OK",
-    "name": "Block"
+    "name": "Block",
+    "isActive": true
   },
   {
     "code": "OT",
-    "name": "Octabin"
+    "name": "Octabin",
+    "isActive": true
   },
   {
     "code": "OU",
-    "name": "Container, outer"
+    "name": "Container, outer",
+    "isActive": true
   },
   {
     "code": "P2",
-    "name": "Pan"
+    "name": "Pan",
+    "isActive": true
   },
   {
     "code": "PA",
-    "name": "Packet"
+    "name": "Packet",
+    "isActive": true
   },
   {
     "code": "PB",
-    "name": "Pallet, box Combined open-ended box and pallet"
+    "name": "Pallet, box Combined open-ended box and pallet",
+    "isActive": true
   },
   {
     "code": "PC",
-    "name": "Parcel"
+    "name": "Parcel",
+    "isActive": true
   },
   {
     "code": "PD",
-    "name": "Pallet, modular, collars 80cms * 100cms"
+    "name": "Pallet, modular, collars 80cms * 100cms",
+    "isActive": true
   },
   {
     "code": "PE",
-    "name": "Pallet, modular, collars 80cms * 120cms"
+    "name": "Pallet, modular, collars 80cms * 120cms",
+    "isActive": true
   },
   {
     "code": "PF",
-    "name": "Pen"
+    "name": "Pen",
+    "isActive": true
   },
   {
     "code": "PG",
-    "name": "Plate"
+    "name": "Plate",
+    "isActive": true
   },
   {
     "code": "PH",
-    "name": "Pitcher"
+    "name": "Pitcher",
+    "isActive": true
   },
   {
     "code": "PI",
-    "name": "Pipe"
+    "name": "Pipe",
+    "isActive": true
   },
   {
     "code": "PJ",
-    "name": "Punnet"
+    "name": "Punnet",
+    "isActive": true
   },
   {
     "code": "PK",
-    "name": "Package"
+    "name": "Package",
+    "isActive": true
   },
   {
     "code": "PL",
-    "name": "Pail"
+    "name": "Pail",
+    "isActive": true
   },
   {
     "code": "PN",
-    "name": "Plank"
+    "name": "Plank",
+    "isActive": true
   },
   {
     "code": "PO",
-    "name": "Pouch"
+    "name": "Pouch",
+    "isActive": true
   },
   {
     "code": "PP",
-    "name": "Piece"
+    "name": "Piece",
+    "isActive": true
   },
   {
     "code": "PR",
-    "name": "Receptacle, plastic"
+    "name": "Receptacle, plastic",
+    "isActive": true
   },
   {
     "code": "PT",
-    "name": "Pot"
+    "name": "Pot",
+    "isActive": true
   },
   {
     "code": "PU",
-    "name": "Tray"
+    "name": "Tray",
+    "isActive": true
   },
   {
     "code": "PV",
-    "name": "Pipes, in bundle/bunch/truss"
+    "name": "Pipes, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "PX",
-    "name": "Pallet"
+    "name": "Pallet",
+    "isActive": true
   },
   {
     "code": "PY",
-    "name": "Plates, in bundle/bunch/truss"
+    "name": "Plates, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "PZ",
-    "name": "Pipes, in bundle/bunch/truss"
+    "name": "Pipes, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "QA",
-    "name": "Drum, steel, non-removable head"
+    "name": "Drum, steel, non-removable head",
+    "isActive": true
   },
   {
     "code": "QB",
-    "name": "Drum, steel, removable head"
+    "name": "Drum, steel, removable head",
+    "isActive": true
   },
   {
     "code": "QC",
-    "name": "Drum, aluminium, non-removable head"
+    "name": "Drum, aluminium, non-removable head",
+    "isActive": true
   },
   {
     "code": "QD",
-    "name": "Drum, aluminium, removable head"
+    "name": "Drum, aluminium, removable head",
+    "isActive": true
   },
   {
     "code": "QF",
-    "name": "Drum, plastic, non-removable head"
+    "name": "Drum, plastic, non-removable head",
+    "isActive": true
   },
   {
     "code": "QG",
-    "name": "Drum, plastic, removable head"
+    "name": "Drum, plastic, removable head",
+    "isActive": true
   },
   {
     "code": "QH",
-    "name": "Barrel, wooden, bung type"
+    "name": "Barrel, wooden, bung type",
+    "isActive": true
   },
   {
     "code": "QJ",
-    "name": "Barrel, wooden, removable head"
+    "name": "Barrel, wooden, removable head",
+    "isActive": true
   },
   {
     "code": "QK",
-    "name": "Jerrican, steel, non-removable head"
+    "name": "Jerrican, steel, non-removable head",
+    "isActive": true
   },
   {
     "code": "QL",
-    "name": "Jerrican, steel, removable head"
+    "name": "Jerrican, steel, removable head",
+    "isActive": true
   },
   {
     "code": "QM",
-    "name": "Jerrican, plastic, non-removable head"
+    "name": "Jerrican, plastic, non-removable head",
+    "isActive": true
   },
   {
     "code": "QN",
-    "name": "Jerrican, plastic, removable head"
+    "name": "Jerrican, plastic, removable head",
+    "isActive": true
   },
   {
     "code": "QP",
-    "name": "Box, wooden, natural wood, ordinary"
+    "name": "Box, wooden, natural wood, ordinary",
+    "isActive": true
   },
   {
     "code": "QQ",
-    "name": "Box, wooden, natural wood, with sift proof walls"
+    "name": "Box, wooden, natural wood, with sift proof walls",
+    "isActive": true
   },
   {
     "code": "QR",
-    "name": "Box, plastic, expanded"
+    "name": "Box, plastic, expanded",
+    "isActive": true
   },
   {
     "code": "QS",
-    "name": "Box, plastic, solid"
+    "name": "Box, plastic, solid",
+    "isActive": true
   },
   {
     "code": "RD",
-    "name": "Rod"
+    "name": "Rod",
+    "isActive": true
   },
   {
     "code": "RG",
-    "name": "Ring"
+    "name": "Ring",
+    "isActive": true
   },
   {
     "code": "RJ",
-    "name": "Rack, clothing hanger"
+    "name": "Rack, clothing hanger",
+    "isActive": true
   },
   {
     "code": "RK",
-    "name": "Rack"
+    "name": "Rack",
+    "isActive": true
   },
   {
     "code": "RL",
-    "name": "Reel"
+    "name": "Reel",
+    "isActive": true
   },
   {
     "code": "RO",
-    "name": "Roll"
+    "name": "Roll",
+    "isActive": true
   },
   {
     "code": "RT",
-    "name": "Rednet"
+    "name": "Rednet",
+    "isActive": true
   },
   {
     "code": "RZ",
-    "name": "Rods, in bundle/ bunch/truss"
+    "name": "Rods, in bundle/ bunch/truss",
+    "isActive": true
   },
   {
     "code": "SA",
-    "name": "Sack"
+    "name": "Sack",
+    "isActive": true
   },
   {
     "code": "SB",
-    "name": "Slab"
+    "name": "Slab",
+    "isActive": true
   },
   {
     "code": "SC",
-    "name": "Shallow crate"
+    "name": "Shallow crate",
+    "isActive": true
   },
   {
     "code": "SD",
-    "name": "Spindle"
+    "name": "Spindle",
+    "isActive": true
   },
   {
     "code": "SE",
-    "name": "Sea-chest"
+    "name": "Sea-chest",
+    "isActive": true
   },
   {
     "code": "SH",
-    "name": "Sachet"
+    "name": "Sachet",
+    "isActive": true
   },
   {
     "code": "SI",
-    "name": "Skid"
+    "name": "Skid",
+    "isActive": true
   },
   {
     "code": "SK",
-    "name": "Skeleton case"
+    "name": "Skeleton case",
+    "isActive": true
   },
   {
     "code": "SL",
-    "name": "Slipsheet"
+    "name": "Slipsheet",
+    "isActive": true
   },
   {
     "code": "SM",
-    "name": "Sheetmetal"
+    "name": "Sheetmetal",
+    "isActive": true
   },
   {
     "code": "SO",
-    "name": "Spool"
+    "name": "Spool",
+    "isActive": true
   },
   {
     "code": "SP",
-    "name": "Sheet, plastic wrapping"
+    "name": "Sheet, plastic wrapping",
+    "isActive": true
   },
   {
     "code": "SS",
-    "name": "Case, steel"
+    "name": "Case, steel",
+    "isActive": true
   },
   {
     "code": "ST",
-    "name": "Sheet"
+    "name": "Sheet",
+    "isActive": true
   },
   {
     "code": "SU",
-    "name": "Suitcase"
+    "name": "Suitcase",
+    "isActive": true
   },
   {
     "code": "SV",
-    "name": "Envelope, steel"
+    "name": "Envelope, steel",
+    "isActive": true
   },
   {
     "code": "SW",
-    "name": "Shrinkwrapped"
+    "name": "Shrinkwrapped",
+    "isActive": true
   },
   {
     "code": "SX",
-    "name": "Set"
+    "name": "Set",
+    "isActive": true
   },
   {
     "code": "SY",
-    "name": "Sleeve"
+    "name": "Sleeve",
+    "isActive": true
   },
   {
     "code": "SZ",
-    "name": "Sheets, in bundle/bunch/truss"
+    "name": "Sheets, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "T1",
-    "name": "Tablet"
+    "name": "Tablet",
+    "isActive": true
   },
   {
     "code": "TB",
-    "name": "Tub"
+    "name": "Tub",
+    "isActive": true
   },
   {
     "code": "TC",
-    "name": "Tea-chest"
+    "name": "Tea-chest",
+    "isActive": true
   },
   {
     "code": "TD",
-    "name": "Collapsible tube"
+    "name": "Collapsible tube",
+    "isActive": true
   },
   {
     "code": "TE",
-    "name": "Tyre"
+    "name": "Tyre",
+    "isActive": true
   },
   {
     "code": "TG",
-    "name": "Tank container, generic"
+    "name": "Tank container, generic",
+    "isActive": true
   },
   {
     "code": "TI",
-    "name": "Tierce"
+    "name": "Tierce",
+    "isActive": true
   },
   {
     "code": "TK",
-    "name": "Tank, rectangular"
+    "name": "Tank, rectangular",
+    "isActive": true
   },
   {
     "code": "TL",
-    "name": "Tub, with lid"
+    "name": "Tub, with lid",
+    "isActive": true
   },
   {
     "code": "TN",
-    "name": "Tin"
+    "name": "Tin",
+    "isActive": true
   },
   {
     "code": "TO",
-    "name": "Tun"
+    "name": "Tun",
+    "isActive": true
   },
   {
     "code": "TP",
-    "name": "Tray"
+    "name": "Tray",
+    "isActive": true
   },
   {
     "code": "TR",
-    "name": "Trunk"
+    "name": "Trunk",
+    "isActive": true
   },
   {
     "code": "TS",
-    "name": "Truss"
+    "name": "Truss",
+    "isActive": true
   },
   {
     "code": "TT",
-    "name": "Bag, tote"
+    "name": "Bag, tote",
+    "isActive": true
   },
   {
     "code": "TU",
-    "name": "Tube"
+    "name": "Tube",
+    "isActive": true
   },
   {
     "code": "TV",
-    "name": "Tube, with nozzle"
+    "name": "Tube, with nozzle",
+    "isActive": true
   },
   {
     "code": "TW",
-    "name": "Pallet, triwall"
+    "name": "Pallet, triwall",
+    "isActive": true
   },
   {
     "code": "TY",
-    "name": "Tank, cylindrical"
+    "name": "Tank, cylindrical",
+    "isActive": true
   },
   {
     "code": "TZ",
-    "name": "Tubes, in bundle/bunch/truss"
+    "name": "Tubes, in bundle/bunch/truss",
+    "isActive": true
   },
   {
     "code": "UC",
-    "name": "Uncaged"
+    "name": "Uncaged",
+    "isActive": true
   },
   {
     "code": "UN",
-    "name": "Unpackage"
+    "name": "Unpackage",
+    "isActive": true
   },
   {
     "code": "VA",
-    "name": "Vat"
+    "name": "Vat",
+    "isActive": true
   },
   {
     "code": "VG",
-    "name": "Bulk, gas ( at 1031 mbar and 15C )"
+    "name": "Bulk, gas ( at 1031 mbar and 15C )",
+    "isActive": true
   },
   {
     "code": "VI",
-    "name": "Vial"
+    "name": "Vial",
+    "isActive": true
   },
   {
     "code": "VK",
-    "name": "Vanpack"
+    "name": "Vanpack",
+    "isActive": true
   },
   {
     "code": "VL",
-    "name": "Bulk, liquid"
+    "name": "Bulk, liquid",
+    "isActive": true
   },
   {
     "code": "VN",
-    "name": "Vehicle"
+    "name": "Vehicle",
+    "isActive": true
   },
   {
     "code": "VO",
-    "name": "Bulk, solid, large particles (\"nodules\")"
+    "name": "Bulk, solid, large particles (\"nodules\")",
+    "isActive": true
   },
   {
     "code": "VP",
-    "name": "Vacuumpacked"
+    "name": "Vacuumpacked",
+    "isActive": true
   },
   {
     "code": "VQ",
-    "name": "Bulk,liquefied gas (at abnorml temprture/pressure)"
+    "name": "Bulk,liquefied gas (at abnorml temprture/pressure)",
+    "isActive": true
   },
   {
     "code": "VR",
-    "name": "Bulk, solid, granular particles (\"grains\")"
+    "name": "Bulk, solid, granular particles (\"grains\")",
+    "isActive": true
   },
   {
     "code": "VS",
-    "name": "Bulk, scrap metal"
+    "name": "Bulk, scrap metal",
+    "isActive": true
   },
   {
     "code": "VY",
-    "name": "Bulk, solid, fine particles (\"powders\")"
+    "name": "Bulk, solid, fine particles (\"powders\")",
+    "isActive": true
   },
   {
     "code": "WA",
-    "name": "Intermediate bulk container"
+    "name": "Intermediate bulk container",
+    "isActive": true
   },
   {
     "code": "WB",
-    "name": "Wickerbottle"
+    "name": "Wickerbottle",
+    "isActive": true
   },
   {
     "code": "WC",
-    "name": "Intermediate bulk container, steel"
+    "name": "Intermediate bulk container, steel",
+    "isActive": true
   },
   {
     "code": "WD",
-    "name": "Intermediate bulk container, aluminium"
+    "name": "Intermediate bulk container, aluminium",
+    "isActive": true
   },
   {
     "code": "WF",
-    "name": "Intermediate bulk container, metal"
+    "name": "Intermediate bulk container, metal",
+    "isActive": true
   },
   {
     "code": "WG",
-    "name": "Intermediate bulk cont,steel,pressurised >10 kpa"
+    "name": "Intermediate bulk cont,steel,pressurised >10 kpa",
+    "isActive": true
   },
   {
     "code": "WH",
-    "name": "Intermedt bulk cont,aluminium,pressurised >10 kpa"
+    "name": "Intermedt bulk cont,aluminium,pressurised >10 kpa",
+    "isActive": true
   },
   {
     "code": "WJ",
-    "name": "Intermediate bulk container,metal, pressure 10 kpa"
+    "name": "Intermediate bulk container,metal, pressure 10 kpa",
+    "isActive": true
   },
   {
     "code": "WK",
-    "name": "Intermediate bulk container, steel, liquid"
+    "name": "Intermediate bulk container, steel, liquid",
+    "isActive": true
   },
   {
     "code": "WL",
-    "name": "Intermediate bulk container, aluminium, liquid"
+    "name": "Intermediate bulk container, aluminium, liquid",
+    "isActive": true
   },
   {
     "code": "WM",
-    "name": "Intermediate bulk container, metal, liquid"
+    "name": "Intermediate bulk container, metal, liquid",
+    "isActive": true
   },
   {
     "code": "WN",
-    "name": "Intermd bulk cont,woven plastic,without coat/liner"
+    "name": "Intermd bulk cont,woven plastic,without coat/liner",
+    "isActive": true
   },
   {
     "code": "WP",
-    "name": "Intermediate bulk container, woven plastic, coated"
+    "name": "Intermediate bulk container, woven plastic, coated",
+    "isActive": true
   },
   {
     "code": "WQ",
-    "name": "Intermediate bulk cont,woven plastic,with liner"
+    "name": "Intermediate bulk cont,woven plastic,with liner",
+    "isActive": true
   },
   {
     "code": "WR",
-    "name": "Intermedt bulk cont,woven plastic,coated and liner"
+    "name": "Intermedt bulk cont,woven plastic,coated and liner",
+    "isActive": true
   },
   {
     "code": "WS",
-    "name": "Intermediate bulk container, plastic film"
+    "name": "Intermediate bulk container, plastic film",
+    "isActive": true
   },
   {
     "code": "WT",
-    "name": "Intermediate bulk cont,textile with out coat/liner"
+    "name": "Intermediate bulk cont,textile with out coat/liner",
+    "isActive": true
   },
   {
     "code": "WU",
-    "name": "Intermdte bulk cont,natural wood,with inner liner"
+    "name": "Intermdte bulk cont,natural wood,with inner liner",
+    "isActive": true
   },
   {
     "code": "WV",
-    "name": "Intermediate bulk container, textile, coated"
+    "name": "Intermediate bulk container, textile, coated",
+    "isActive": true
   },
   {
     "code": "WW",
-    "name": "Intermediate bulk container, textile, with liner"
+    "name": "Intermediate bulk container, textile, with liner",
+    "isActive": true
   },
   {
     "code": "WX",
-    "name": "Intermediate bulk cont,textile,coated and liner"
+    "name": "Intermediate bulk cont,textile,coated and liner",
+    "isActive": true
   },
   {
     "code": "WY",
-    "name": "Intermediate bulk cont,plywood,with inner liner"
+    "name": "Intermediate bulk cont,plywood,with inner liner",
+    "isActive": true
   },
   {
     "code": "WZ",
-    "name": "Intermd bulk cont,reconstttd wood,with inner liner"
+    "name": "Intermd bulk cont,reconstttd wood,with inner liner",
+    "isActive": true
   },
   {
     "code": "XA",
-    "name": "Bag, woven plastic, without inner coat/liner"
+    "name": "Bag, woven plastic, without inner coat/liner",
+    "isActive": true
   },
   {
     "code": "XB",
-    "name": "Bag, woven plastic, sift proof"
+    "name": "Bag, woven plastic, sift proof",
+    "isActive": true
   },
   {
     "code": "XC",
-    "name": "Bag, woven plastic, water resistant"
+    "name": "Bag, woven plastic, water resistant",
+    "isActive": true
   },
   {
     "code": "XD",
-    "name": "Bag, plastics film"
+    "name": "Bag, plastics film",
+    "isActive": true
   },
   {
     "code": "XF",
-    "name": "Bag, textile, without inner coat/liner"
+    "name": "Bag, textile, without inner coat/liner",
+    "isActive": true
   },
   {
     "code": "XG",
-    "name": "Bag, textile, sift proof"
+    "name": "Bag, textile, sift proof",
+    "isActive": true
   },
   {
     "code": "XH",
-    "name": "Bag, textile, water resistant"
+    "name": "Bag, textile, water resistant",
+    "isActive": true
   },
   {
     "code": "XJ",
-    "name": "Bag, paper, multi-wall"
+    "name": "Bag, paper, multi-wall",
+    "isActive": true
   },
   {
     "code": "XK",
-    "name": "Bag, paper, multi-wall, water resistant"
+    "name": "Bag, paper, multi-wall, water resistant",
+    "isActive": true
   },
   {
     "code": "XN",
-    "name": "test"
+    "name": "test",
+    "isActive": true
   },
   {
     "code": "YA",
-    "name": "Compsite packging,plastic receptacle in steel drum"
+    "name": "Compsite packging,plastic receptacle in steel drum",
+    "isActive": true
   },
   {
     "code": "YB",
-    "name": "Compste packgng,plastc recptcle in steel crate box"
+    "name": "Compste packgng,plastc recptcle in steel crate box",
+    "isActive": true
   },
   {
     "code": "YC",
-    "name": "Compste packgng,plastic recptcle in aluminium drum"
+    "name": "Compste packgng,plastic recptcle in aluminium drum",
+    "isActive": true
   },
   {
     "code": "YD",
-    "name": "Compste packgng,plastic recptcle in alumnium crate"
+    "name": "Compste packgng,plastic recptcle in alumnium crate",
+    "isActive": true
   },
   {
     "code": "YF",
-    "name": "Compsite packging,plastic receptacle in wooden box"
+    "name": "Compsite packging,plastic receptacle in wooden box",
+    "isActive": true
   },
   {
     "code": "YG",
-    "name": "Compste packgng,plastic receptacle in plywood drum"
+    "name": "Compste packgng,plastic receptacle in plywood drum",
+    "isActive": true
   },
   {
     "code": "YH",
-    "name": "Compste packgng,plastic receptacle in plywood box"
+    "name": "Compste packgng,plastic receptacle in plywood box",
+    "isActive": true
   },
   {
     "code": "YJ",
-    "name": "Compsite packging,plastic receptacle in fibre drum"
+    "name": "Compsite packging,plastic receptacle in fibre drum",
+    "isActive": true
   },
   {
     "code": "YK",
-    "name": "Compste packgng,plastic recptcle in fibreboard box"
+    "name": "Compste packgng,plastic recptcle in fibreboard box",
+    "isActive": true
   },
   {
     "code": "YL",
-    "name": "Compste packgng,plstc recptcle in plastic drum"
+    "name": "Compste packgng,plstc recptcle in plastic drum",
+    "isActive": true
   },
   {
     "code": "YM",
-    "name": "Compsite packgng,plstc recptcle in solid plstc box"
+    "name": "Compsite packgng,plstc recptcle in solid plstc box",
+    "isActive": true
   },
   {
     "code": "YN",
-    "name": "Composite packaging,glass receptacle in steel drum"
+    "name": "Composite packaging,glass receptacle in steel drum",
+    "isActive": true
   },
   {
     "code": "YP",
-    "name": "Compste packgng,glass recptacle in steel crate box"
+    "name": "Compste packgng,glass recptacle in steel crate box",
+    "isActive": true
   },
   {
     "code": "YQ",
-    "name": "Compste packgng,glass receptacle in aluminium drum"
+    "name": "Compste packgng,glass receptacle in aluminium drum",
+    "isActive": true
   },
   {
     "code": "YR",
-    "name": "Compste packgng,glass recptacle in aluminium crate"
+    "name": "Compste packgng,glass recptacle in aluminium crate",
+    "isActive": true
   },
   {
     "code": "YS",
-    "name": "Composite packaging,glass receptacle in wooden box"
+    "name": "Composite packaging,glass receptacle in wooden box",
+    "isActive": true
   },
   {
     "code": "YT",
-    "name": "Compsite packging,glass receptacle in plywood drum"
+    "name": "Compsite packging,glass receptacle in plywood drum",
+    "isActive": true
   },
   {
     "code": "YV",
-    "name": "Compste packgng,glass recptcle in wickrwork hamper"
+    "name": "Compste packgng,glass recptcle in wickrwork hamper",
+    "isActive": true
   },
   {
     "code": "YW",
-    "name": "Composite packaging,glass receptacle in fibre drum"
+    "name": "Composite packaging,glass receptacle in fibre drum",
+    "isActive": true
   },
   {
     "code": "YX",
-    "name": "Compste packgng,glass recptacle in fibreboard box"
+    "name": "Compste packgng,glass recptacle in fibreboard box",
+    "isActive": true
   },
   {
     "code": "YY",
-    "name": "Compste pckgng,glss recptcl in expndbl plastc pack"
+    "name": "Compste pckgng,glss recptcl in expndbl plastc pack",
+    "isActive": true
   },
   {
     "code": "YZ",
-    "name": "Compsite packgng,glass recptcle in solid plstc pck"
+    "name": "Compsite packgng,glass recptcle in solid plstc pck",
+    "isActive": true
   },
   {
     "code": "ZA",
-    "name": "Intermediate bulk container, paper, multi-wall"
+    "name": "Intermediate bulk container, paper, multi-wall",
+    "isActive": true
   },
   {
     "code": "ZB",
-    "name": "Bag, large"
+    "name": "Bag, large",
+    "isActive": true
   },
   {
     "code": "ZC",
-    "name": "Intermd bulk cont,paper,multi-wall,water resistant"
+    "name": "Intermd bulk cont,paper,multi-wall,water resistant",
+    "isActive": true
   },
   {
     "code": "ZD",
-    "name": "Intermd bulk cont,rgd plstc,w/strctrl equipm,solid"
+    "name": "Intermd bulk cont,rgd plstc,w/strctrl equipm,solid",
+    "isActive": true
   },
   {
     "code": "ZF",
-    "name": "Intermd bulk cont,rgid plstc,freestandng,solds"
+    "name": "Intermd bulk cont,rgid plstc,freestandng,solds",
+    "isActive": true
   },
   {
     "code": "ZG",
-    "name": "Intermdbulk cnt,rgd plstc,w/strctrl equipm,pressrd"
+    "name": "Intermdbulk cnt,rgd plstc,w/strctrl equipm,pressrd",
+    "isActive": true
   },
   {
     "code": "ZH",
-    "name": "Intermd bulk cont,rgd plstc,freestnd,pressurised"
+    "name": "Intermd bulk cont,rgd plstc,freestnd,pressurised",
+    "isActive": true
   },
   {
     "code": "ZJ",
-    "name": "Intermd bulk cont,rgd plstc,w/strctrl equipm,lquid"
+    "name": "Intermd bulk cont,rgd plstc,w/strctrl equipm,lquid",
+    "isActive": true
   },
   {
     "code": "ZK",
-    "name": "Intermd bulk cont,rgid plstc,freestanding,liquids"
+    "name": "Intermd bulk cont,rgid plstc,freestanding,liquids",
+    "isActive": true
   },
   {
     "code": "ZL",
-    "name": "Intermd bulk cont,composite,rigid plastic,solids"
+    "name": "Intermd bulk cont,composite,rigid plastic,solids",
+    "isActive": true
   },
   {
     "code": "ZM",
-    "name": "Intermd bulk cont,compste,flexbl plastic, solids"
+    "name": "Intermd bulk cont,compste,flexbl plastic, solids",
+    "isActive": true
   },
   {
     "code": "ZN",
-    "name": "Intermd bulk cont,compsit,rgid plstc,pressurised"
+    "name": "Intermd bulk cont,compsit,rgid plstc,pressurised",
+    "isActive": true
   },
   {
     "code": "ZP",
-    "name": "Intermd bulk cont,compsite,flexbl plstc,pressurised"
+    "name": "Intermd bulk cont,compsite,flexbl plstc,pressurised",
+    "isActive": true
   },
   {
     "code": "ZQ",
-    "name": "Intermd bulk cont,composite,rigid plastic,liquids"
+    "name": "Intermd bulk cont,composite,rigid plastic,liquids",
+    "isActive": true
   },
   {
     "code": "ZR",
-    "name": "Intermd bulk cont,compsite,flexible plastc,liquids"
+    "name": "Intermd bulk cont,compsite,flexible plastc,liquids",
+    "isActive": true
   },
   {
     "code": "ZS",
-    "name": "Intermediate bulk container, composite"
+    "name": "Intermediate bulk container, composite",
+    "isActive": true
   },
   {
     "code": "ZT",
-    "name": "Intermediate bulk container, fibreboard"
+    "name": "Intermediate bulk container, fibreboard",
+    "isActive": true
   },
   {
     "code": "ZU",
-    "name": "Intermediate bulk container, flexible"
+    "name": "Intermediate bulk container, flexible",
+    "isActive": true
   },
   {
     "code": "ZV",
-    "name": "Intermediate bulk container,metal,other than steel"
+    "name": "Intermediate bulk container,metal,other than steel",
+    "isActive": true
   },
   {
     "code": "ZW",
-    "name": "Intermediate bulk container, natural wood"
+    "name": "Intermediate bulk container, natural wood",
+    "isActive": true
   },
   {
     "code": "ZX",
-    "name": "Intermediate bulk container, plywood"
+    "name": "Intermediate bulk container, plywood",
+    "isActive": true
   },
   {
     "code": "ZY",
-    "name": "Intermediate bulk container, reconstituted wood"
+    "name": "Intermediate bulk container, reconstituted wood",
+    "isActive": true
   },
   {
     "code": "ZZ",
-    "name": "Mutually defined"
+    "name": "Mutually defined",
+    "isActive": true
   }
 ]

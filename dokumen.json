@@ -1,1266 +1,1582 @@
 [
   {
     "code": "001",
-    "name": "COA"
+    "name": "COA",
+    "isActive": true
   },
   {
     "code": "1",
-    "name": "PEB"
+    "name": "PEB",
+    "isActive": true
   },
   {
     "code": "2",
-    "name": "Pembayaran Pajak Ekspor"
+    "name": "Pembayaran Pajak Ekspor",
+    "isActive": true
   },
   {
     "code": "003",
-    "name": "Sertifikat Uji Tipe, Data Tingkat Konsumsi BBM, dan Data Uji Emisi CO2 dari pabrikan atau instansi terkait"
+    "name": "Sertifikat Uji Tipe, Data Tingkat Konsumsi BBM, dan Data Uji Emisi CO2 dari pabrikan atau instansi terkait",
+    "isActive": true
   },
   {
     "code": "3",
-    "name": "Pembayaran PNBP"
+    "name": "Pembayaran PNBP",
+    "isActive": true
   },
   {
     "code": "4",
-    "name": "Pembayaran PNBP Berkala"
+    "name": "Pembayaran PNBP Berkala",
+    "isActive": true
   },
   {
     "code": "10",
-    "name": "RKSP"
+    "name": "RKSP",
+    "isActive": true
   },
   {
     "code": "11",
-    "name": "MANIFES"
+    "name": "MANIFES",
+    "isActive": true
   },
   {
     "code": "012",
-    "name": "MILL Certificate"
+    "name": "MILL Certificate",
+    "isActive": true
   },
   {
     "code": "16",
-    "name": "BC 1.6 - PEMBERITAHUAN PABEAN PENGELUARAN BARANG DARI KAWASAN PABEAN UNTUK DITIMBUN DI PUSAT LOGISTIK BERIKAT"
+    "name": "BC 1.6 - PEMBERITAHUAN PABEAN PENGELUARAN BARANG DARI KAWASAN PABEAN UNTUK DITIMBUN DI PUSAT LOGISTIK BERIKAT",
+    "isActive": true
   },
   {
     "code": "19",
-    "name": "Pembayaran PEB Bea Keluar / PNBP"
+    "name": "Pembayaran PEB Bea Keluar / PNBP",
+    "isActive": true
   },
   {
     "code": "20",
-    "name": "BC 2.0 - PEMBERITAHUAN IMPOR BARANG"
+    "name": "BC 2.0 - PEMBERITAHUAN IMPOR BARANG",
+    "isActive": true
   },
   {
     "code": "21",
-    "name": "PIBK/IMPOR KHUSUS"
+    "name": "PIBK/IMPOR KHUSUS",
+    "isActive": true
   },
   {
     "code": "23",
-    "name": "BC 2.3 - PEMBERITAHUAN IMPOR BARANG UNTUK DITIMBUN DI TEMPAT PENIMBUNAN BERIKAT"
+    "name": "BC 2.3 - PEMBERITAHUAN IMPOR BARANG UNTUK DITIMBUN DI TEMPAT PENIMBUNAN BERIKAT",
+    "isActive": true
   },
   {
     "code": "25",
-    "name": "BC 2.5 - PEMBERITAHUAN IMPOR BARANG DARI TEMPAT PENIMBUNAN BERIKAT"
+    "name": "BC 2.5 - PEMBERITAHUAN IMPOR BARANG DARI TEMPAT PENIMBUNAN BERIKAT",
+    "isActive": true
   },
   {
     "code": "27",
-    "name": "BC 2.7 - PEMBERITAHUAN PENGELUARAN UNTUK DIANGKUT DARI TEMPAT PENIMBUNAN BERIKAT KE TEMPAT PENIMBUNAN BERIKAT LAINNYA"
+    "name": "BC 2.7 - PEMBERITAHUAN PENGELUARAN UNTUK DIANGKUT DARI TEMPAT PENIMBUNAN BERIKAT KE TEMPAT PENIMBUNAN BERIKAT LAINNYA",
+    "isActive": true
   },
   {
     "code": "28",
-    "name": "BC 2.8 - PEMBERITAHUAN IMPOR BARANG DARI PUSAT LOGISTIK BERIKAT"
+    "name": "BC 2.8 - PEMBERITAHUAN IMPOR BARANG DARI PUSAT LOGISTIK BERIKAT",
+    "isActive": true
   },
   {
     "code": "30",
-    "name": "BC 3.0 - PEMBERITAHUAN EKSPOR NARAMG"
+    "name": "BC 3.0 - PEMBERITAHUAN EKSPOR NARAMG",
+    "isActive": true
   },
   {
     "code": "33",
-    "name": "BC 3.3 - PEMBERITAHUAN EKSPOR BARANG MELALUI/DARI PUSAT LOGISTIK BERIKAT"
+    "name": "BC 3.3 - PEMBERITAHUAN EKSPOR BARANG MELALUI/DARI PUSAT LOGISTIK BERIKAT",
+    "isActive": true
   },
   {
     "code": "35",
-    "name": "Pembayaran SPPBK"
+    "name": "Pembayaran SPPBK",
+    "isActive": true
   },
   {
     "code": "36",
-    "name": "Pembayaran SPPBK Cicilan"
+    "name": "Pembayaran SPPBK Cicilan",
+    "isActive": true
   },
   {
     "code": "37",
-    "name": "Pembayaran SPPBK 50% Banding"
+    "name": "Pembayaran SPPBK 50% Banding",
+    "isActive": true
   },
   {
     "code": "38",
-    "name": "Pembayaran SPPBK 50% Banding Ditolak"
+    "name": "Pembayaran SPPBK 50% Banding Ditolak",
+    "isActive": true
   },
   {
     "code": "39",
-    "name": "Pembayaran SPKPBK"
+    "name": "Pembayaran SPKPBK",
+    "isActive": true
   },
   {
     "code": "40",
-    "name": "BC 4.0 - PEMBERITAHUAN PEMASUKAN BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN KE TEMPAT PENIMBUNAN BERIKAT"
+    "name": "BC 4.0 - PEMBERITAHUAN PEMASUKAN BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN KE TEMPAT PENIMBUNAN BERIKAT",
+    "isActive": true
   },
   {
     "code": "41",
-    "name": "BC 4.1 - PEMBERITAHUAN PENGELUARAN KEMBALI BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN DARI TEMPAT PENIMBUNAN BERIKAT"
+    "name": "BC 4.1 - PEMBERITAHUAN PENGELUARAN KEMBALI BARANG ASAL TEMPAT LAIN DALAM DAERAH PABEAN DARI TEMPAT PENIMBUNAN BERIKAT",
+    "isActive": true
   },
   {
     "code": "42",
-    "name": "Pembayaran SPKPBK 50% Banding"
+    "name": "Pembayaran SPKPBK 50% Banding",
+    "isActive": true
   },
   {
     "code": "43",
-    "name": "Pembayaran SPKPBK 50% Banding Ditolak"
+    "name": "Pembayaran SPKPBK 50% Banding Ditolak",
+    "isActive": true
   },
   {
     "code": "44",
-    "name": "Pembayaran SPSA Cicilan"
+    "name": "Pembayaran SPSA Cicilan",
+    "isActive": true
   },
   {
     "code": "45",
-    "name": "Pembayaran SPSA 50% Banding"
+    "name": "Pembayaran SPSA 50% Banding",
+    "isActive": true
   },
   {
     "code": "46",
-    "name": "Pembayaran SPSA 50% Banding Ditolak"
+    "name": "Pembayaran SPSA 50% Banding Ditolak",
+    "isActive": true
   },
   {
     "code": "50",
-    "name": "KITE"
+    "name": "KITE",
+    "isActive": true
   },
   {
     "code": "51",
-    "name": "FTZ 01"
+    "name": "FTZ 01",
+    "isActive": true
   },
   {
     "code": "52",
-    "name": "FTZ 02"
+    "name": "FTZ 02",
+    "isActive": true
   },
   {
     "code": "053",
-    "name": "MSDS"
+    "name": "MSDS",
+    "isActive": true
   },
   {
     "code": "53",
-    "name": "FTZ 03"
+    "name": "FTZ 03",
+    "isActive": true
   },
   {
     "code": "56",
-    "name": "Pembayaran Surat Peringatan"
+    "name": "Pembayaran Surat Peringatan",
+    "isActive": true
   },
   {
     "code": "57",
-    "name": "Pembayaran Surat Tagihan"
+    "name": "Pembayaran Surat Tagihan",
+    "isActive": true
   },
   {
     "code": "65",
-    "name": "BC 1.1 KONSOLIDASI PJT"
+    "name": "BC 1.1 KONSOLIDASI PJT",
+    "isActive": true
   },
   {
     "code": "66",
-    "name": "Pembayaran Lain-lain"
+    "name": "Pembayaran Lain-lain",
+    "isActive": true
   },
   {
     "code": "111",
-    "name": "Bank Devisa Hasil Ekspor (DHE)"
+    "name": "Bank Devisa Hasil Ekspor (DHE)",
+    "isActive": true
   },
   {
     "code": "161",
-    "name": "PPB - PEMBERITAHUAN PERPINDAHAN BARANG ANTAR TEMPAT PENIMBUNAN DALAM SATU PUSAT LOGISTIK BERIKAT"
+    "name": "PPB - PEMBERITAHUAN PERPINDAHAN BARANG ANTAR TEMPAT PENIMBUNAN DALAM SATU PUSAT LOGISTIK BERIKAT",
+    "isActive": true
   },
   {
     "code": "167",
-    "name": "Spesifikasi Barang"
+    "name": "Spesifikasi Barang",
+    "isActive": true
   },
   {
     "code": "202",
-    "name": "PENGELUARAN BAHAN BAKU DAN/ ATAU SISA BAHAN BAKU"
+    "name": "PENGELUARAN BAHAN BAKU DAN/ ATAU SISA BAHAN BAKU",
+    "isActive": true
   },
   {
     "code": "203",
-    "name": "PENGELUARAN SEMENTARA - SUBKONTRAK"
+    "name": "PENGELUARAN SEMENTARA - SUBKONTRAK",
+    "isActive": true
   },
   {
     "code": "204",
-    "name": "PENGELUARAN SEMENTARA - PERBAIKAN/ REPARASI"
+    "name": "PENGELUARAN SEMENTARA - PERBAIKAN/ REPARASI",
+    "isActive": true
   },
   {
     "code": "205",
-    "name": "PENGELUARAN SEMENTARA - PEMINJAMAN BARANG MODAL UNTUK KEPERLUAN PRODUKSI"
+    "name": "PENGELUARAN SEMENTARA - PEMINJAMAN BARANG MODAL UNTUK KEPERLUAN PRODUKSI",
+    "isActive": true
   },
   {
     "code": "206",
-    "name": "PENGELUARAN SEMENTARA - PENGETESAN ATAU PENGEMBANGAN KUALITAS PRODUKSI"
+    "name": "PENGELUARAN SEMENTARA - PENGETESAN ATAU PENGEMBANGAN KUALITAS PRODUKSI",
+    "isActive": true
   },
   {
     "code": "207",
-    "name": "PENGELUARAN SEMENTARA - PENGGUNAAN KEMASAN YANG DIPAKAI BERULANG (RETURNABLE PACKAGE)"
+    "name": "PENGELUARAN SEMENTARA - PENGGUNAAN KEMASAN YANG DIPAKAI BERULANG (RETURNABLE PACKAGE)",
+    "isActive": true
   },
   {
     "code": "208",
-    "name": "PENGELUARAN SEMENTARA - DIPAMERKAN"
+    "name": "PENGELUARAN SEMENTARA - DIPAMERKAN",
+    "isActive": true
   },
   {
     "code": "209",
-    "name": "PENGELUARAN SEMENTARA - TUJUAN LAIN DENGAN PERSETUJUAN KEPALA KANTOR PABEAN"
+    "name": "PENGELUARAN SEMENTARA - TUJUAN LAIN DENGAN PERSETUJUAN KEPALA KANTOR PABEAN",
+    "isActive": true
   },
   {
     "code": "210",
-    "name": "PENERIMAAN PEKERJAAN - SUBKONTRAK"
+    "name": "PENERIMAAN PEKERJAAN - SUBKONTRAK",
+    "isActive": true
   },
   {
     "code": "211",
-    "name": "PENERIMAAN PEKERJAAN - PERBAIKAN/ REPARASI"
+    "name": "PENERIMAAN PEKERJAAN - PERBAIKAN/ REPARASI",
+    "isActive": true
   },
   {
     "code": "212",
-    "name": "PENERIMAAN PEKERJAAN - PEKERJAAN LAIN"
+    "name": "PENERIMAAN PEKERJAAN - PEKERJAAN LAIN",
+    "isActive": true
   },
   {
     "code": "213",
-    "name": "PEMUSNAHAN BARANG DI KAWASAN BERIKAT"
+    "name": "PEMUSNAHAN BARANG DI KAWASAN BERIKAT",
+    "isActive": true
   },
   {
     "code": "217",
-    "name": "PACKING LIST"
+    "name": "PACKING LIST",
+    "isActive": true
   },
   {
     "code": "246",
-    "name": "L/C"
+    "name": "L/C",
+    "isActive": true
   },
   {
     "code": "261",
-    "name": "BC 2.6.1 - PEMBERITAHUAN PENGELUARAN BARANG DARI TEMPAT PENIMBUNAN BERIKAT DENGAN JAMINAN"
+    "name": "BC 2.6.1 - PEMBERITAHUAN PENGELUARAN BARANG DARI TEMPAT PENIMBUNAN BERIKAT DENGAN JAMINAN",
+    "isActive": true
   },
   {
     "code": "262",
-    "name": "BC 2.6.2 - PEMBERITAHUAN PEMASUKAN KEMBALI BARANG YANG DI KELUARKAN DARI TEMPAT PENIMBUNAN BERIKAT DENGAN JAMINAN"
+    "name": "BC 2.6.2 - PEMBERITAHUAN PEMASUKAN KEMBALI BARANG YANG DI KELUARKAN DARI TEMPAT PENIMBUNAN BERIKAT DENGAN JAMINAN",
+    "isActive": true
   },
   {
     "code": "281",
-    "name": "PPK - PEMBERITAHUAN PEMASUKAN KEMBALI BARANG ASAL PLB DARI LOKASI PENERIMA FASILITAS DI TEMPAT LAIN DALAM DAERAH PABEAN KE PLB"
+    "name": "PPK - PEMBERITAHUAN PEMASUKAN KEMBALI BARANG ASAL PLB DARI LOKASI PENERIMA FASILITAS DI TEMPAT LAIN DALAM DAERAH PABEAN KE PLB",
+    "isActive": true
   },
   {
     "code": "282",
-    "name": "DOKAP PLB - PEMBERITAHUAN PENGELUARAN DENGAN DOKUMEN PELENGKAP"
+    "name": "DOKAP PLB - PEMBERITAHUAN PENGELUARAN DENGAN DOKUMEN PELENGKAP",
+    "isActive": true
   },
   {
     "code": "299",
-    "name": "Foto Barang/Lainnya"
+    "name": "Foto Barang/Lainnya",
+    "isActive": true
   },
   {
     "code": "302",
-    "name": "CN Ekspor"
+    "name": "CN Ekspor",
+    "isActive": true
   },
   {
     "code": "315",
-    "name": "KONTRAK"
+    "name": "KONTRAK",
+    "isActive": true
   },
   {
     "code": "331",
-    "name": "P3BET - PEMBERITAHUAN PENGGABUNGAN DAN PEMECAHAN BARANG EKSPOR DAN TRANSHIPMENT"
+    "name": "P3BET - PEMBERITAHUAN PENGGABUNGAN DAN PEMECAHAN BARANG EKSPOR DAN TRANSHIPMENT",
+    "isActive": true
   },
   {
     "code": "343",
-    "name": "SHIPING ORDER"
+    "name": "SHIPING ORDER",
+    "isActive": true
   },
   {
     "code": "370",
-    "name": "PURCHASE ORDER"
+    "name": "PURCHASE ORDER",
+    "isActive": true
   },
   {
     "code": "380",
-    "name": "INVOICE"
+    "name": "INVOICE",
+    "isActive": true
   },
   {
     "code": "383",
-    "name": "SSTB"
+    "name": "SSTB",
+    "isActive": true
   },
   {
     "code": "388",
-    "name": "FAKTUR PAJAK"
+    "name": "FAKTUR PAJAK",
+    "isActive": true
   },
   {
     "code": "410",
-    "name": "SURAT SANGGUP BAYAR / SSB"
+    "name": "SURAT SANGGUP BAYAR / SSB",
+    "isActive": true
   },
   {
     "code": "430",
-    "name": "BANK GARANSI"
+    "name": "BANK GARANSI",
+    "isActive": true
   },
   {
     "code": "440",
-    "name": "SURAT TANDA BUKTI SETOR / STBS"
+    "name": "SURAT TANDA BUKTI SETOR / STBS",
+    "isActive": true
   },
   {
     "code": "450",
-    "name": "NPWP"
+    "name": "NPWP",
+    "isActive": true
   },
   {
     "code": "451",
-    "name": "Nomor Registrasi AEO"
+    "name": "Nomor Registrasi AEO",
+    "isActive": true
   },
   {
     "code": "454",
-    "name": "SSPCP / SSBC"
+    "name": "SSPCP / SSBC",
+    "isActive": true
   },
   {
     "code": "455",
-    "name": "SURAT SETORAN PAJAK (SSP)"
+    "name": "SURAT SETORAN PAJAK (SSP)",
+    "isActive": true
   },
   {
     "code": "456",
-    "name": "SKB"
+    "name": "SKB",
+    "isActive": true
   },
   {
     "code": "457",
-    "name": "Surat Keterangan Bebas (SKB) PPh"
+    "name": "Surat Keterangan Bebas (SKB) PPh",
+    "isActive": true
   },
   {
     "code": "458",
-    "name": "SURAT KETERANGAN TIDAK DIPUNGUT (SKTD) PPN"
+    "name": "SURAT KETERANGAN TIDAK DIPUNGUT (SKTD) PPN",
+    "isActive": true
   },
   {
     "code": "459",
-    "name": "Non SKB / SKTD"
+    "name": "Non SKB / SKTD",
+    "isActive": true
   },
   {
     "code": "460",
-    "name": "Surat Keterangan / SKB PP23"
+    "name": "Surat Keterangan / SKB PP23",
+    "isActive": true
   },
   {
     "code": "464",
-    "name": "Letter Of Credit (L/C)"
+    "name": "Letter Of Credit (L/C)",
+    "isActive": true
   },
   {
     "code": "465",
-    "name": "L/C"
+    "name": "L/C",
+    "isActive": true
   },
   {
     "code": "493",
-    "name": "Rekening Koran"
+    "name": "Rekening Koran",
+    "isActive": true
   },
   {
     "code": "500",
-    "name": "MOU PDE (Eksportir)"
+    "name": "MOU PDE (Eksportir)",
+    "isActive": true
   },
   {
     "code": "511",
-    "name": "FTZ-01 PEMASUKAN DARI LUAR DAERAH PABEAN (IMPOR)"
+    "name": "FTZ-01 PEMASUKAN DARI LUAR DAERAH PABEAN (IMPOR)",
+    "isActive": true
   },
   {
     "code": "512",
-    "name": "FTZ-01 PENGELUARAN KE LUAR DAERAH PABEAN (EKSPOR)"
+    "name": "FTZ-01 PENGELUARAN KE LUAR DAERAH PABEAN (EKSPOR)",
+    "isActive": true
   },
   {
     "code": "513",
-    "name": "FTZ-01 PENGELUARAN KE TEMPAT LAIN DALAM DAERAH PABEAN"
+    "name": "FTZ-01 PENGELUARAN KE TEMPAT LAIN DALAM DAERAH PABEAN",
+    "isActive": true
   },
   {
     "code": "521",
-    "name": "FTZ-02 PEMASUKAN ANTAR FREE TRADE ZONE DAN KAWASAN BERIKAT"
+    "name": "FTZ-02 PEMASUKAN ANTAR FREE TRADE ZONE DAN KAWASAN BERIKAT",
+    "isActive": true
   },
   {
     "code": "522",
-    "name": "FTZ-02 PENGELUARAN ANTAR FREE TRADE ZONE DAN KAWASAN BERIKAT"
+    "name": "FTZ-02 PENGELUARAN ANTAR FREE TRADE ZONE DAN KAWASAN BERIKAT",
+    "isActive": true
   },
   {
     "code": "530",
-    "name": "Polis"
+    "name": "Polis",
+    "isActive": true
   },
   {
     "code": "531",
-    "name": "FTZ-03 PEMASUKAN DARI TEMPAT LAIN DALAM DAERAH PABEAN"
+    "name": "FTZ-03 PEMASUKAN DARI TEMPAT LAIN DALAM DAERAH PABEAN",
+    "isActive": true
   },
   {
     "code": "575",
-    "name": "Bukti Bayar/Tagihan Insurance"
+    "name": "Bukti Bayar/Tagihan Insurance",
+    "isActive": true
   },
   {
     "code": "630",
-    "name": "Surat Jalan"
+    "name": "Surat Jalan",
+    "isActive": true
   },
   {
     "code": "640",
-    "name": "DELIVERY ORDER"
+    "name": "DELIVERY ORDER",
+    "isActive": true
   },
   {
     "code": "666",
-    "name": "Pengecualian Dengan Surat Keputusan"
+    "name": "Pengecualian Dengan Surat Keputusan",
+    "isActive": true
   },
   {
     "code": "704",
-    "name": "MASTER B/L"
+    "name": "MASTER B/L",
+    "isActive": true
   },
   {
     "code": "705",
-    "name": "B/L"
+    "name": "B/L",
+    "isActive": true
   },
   {
     "code": "727",
-    "name": "Brosur/Katalog"
+    "name": "Brosur/Katalog",
+    "isActive": true
   },
   {
     "code": "740",
-    "name": "AWB"
+    "name": "AWB",
+    "isActive": true
   },
   {
     "code": "741",
-    "name": "MASTER AWB"
+    "name": "MASTER AWB",
+    "isActive": true
   },
   {
     "code": "780",
-    "name": "Bukti Bayar/Tagihan Freight"
+    "name": "Bukti Bayar/Tagihan Freight",
+    "isActive": true
   },
   {
     "code": "800",
-    "name": "SERTIFIKAT ALAT PERANGKAT TELEKOM/POSTEL"
+    "name": "SERTIFIKAT ALAT PERANGKAT TELEKOM/POSTEL",
+    "isActive": true
   },
   {
     "code": "803",
-    "name": "SATS LN / DEPHUT"
+    "name": "SATS LN / DEPHUT",
+    "isActive": true
   },
   {
     "code": "805",
-    "name": "REGISTRASI B3 / KLH"
+    "name": "REGISTRASI B3 / KLH",
+    "isActive": true
   },
   {
     "code": "808",
-    "name": "IJIN IMPOR / POLRI"
+    "name": "IJIN IMPOR / POLRI",
+    "isActive": true
   },
   {
     "code": "809",
-    "name": "SIE"
+    "name": "SIE",
+    "isActive": true
   },
   {
     "code": "810",
-    "name": "SM/SPM"
+    "name": "SM/SPM",
+    "isActive": true
   },
   {
     "code": "811",
-    "name": "Sertifikat Legalitas Kayu (Dok.V-Legal)"
+    "name": "Sertifikat Legalitas Kayu (Dok.V-Legal)",
+    "isActive": true
   },
   {
     "code": "812",
-    "name": "Dok. Impor (PIB)"
+    "name": "Dok. Impor (PIB)",
+    "isActive": true
   },
   {
     "code": "813",
-    "name": "DOK. CUKAI (CK)"
+    "name": "DOK. CUKAI (CK)",
+    "isActive": true
   },
   {
     "code": "814",
-    "name": "SPEK IJIN EKSPOR BERKALA"
+    "name": "SPEK IJIN EKSPOR BERKALA",
+    "isActive": true
   },
   {
     "code": "815",
-    "name": "SPEK IJIN TATA NIAGA EKSPOR"
+    "name": "SPEK IJIN TATA NIAGA EKSPOR",
+    "isActive": true
   },
   {
     "code": "816",
-    "name": "DOK. EKSPOR (PEB)"
+    "name": "DOK. EKSPOR (PEB)",
+    "isActive": true
   },
   {
     "code": "817",
-    "name": "Eksportir Terdaftar (ET) Depdag"
+    "name": "Eksportir Terdaftar (ET) Depdag",
+    "isActive": true
   },
   {
     "code": "818",
-    "name": "Endorsement BRIK"
+    "name": "Endorsement BRIK",
+    "isActive": true
   },
   {
     "code": "819",
-    "name": "Sertifikat Intan Kasar"
+    "name": "Sertifikat Intan Kasar",
+    "isActive": true
   },
   {
     "code": "820",
-    "name": "Surat Persetujuan Ekspor (SPE)"
+    "name": "Surat Persetujuan Ekspor (SPE)",
+    "isActive": true
   },
   {
     "code": "821",
-    "name": "Surat Tanda Registrasi UPPB"
+    "name": "Surat Tanda Registrasi UPPB",
+    "isActive": true
   },
   {
     "code": "822",
-    "name": "Srt Tanda Pendaftaran Pedagang Bokor SIR"
+    "name": "Srt Tanda Pendaftaran Pedagang Bokor SIR",
+    "isActive": true
   },
   {
     "code": "823",
-    "name": "NPPBKC"
+    "name": "NPPBKC",
+    "isActive": true
   },
   {
     "code": "824",
-    "name": "TPP-SIR"
+    "name": "TPP-SIR",
+    "isActive": true
   },
   {
     "code": "825",
-    "name": "Surat Keterangan Elektronik"
+    "name": "Surat Keterangan Elektronik",
+    "isActive": true
   },
   {
     "code": "826",
-    "name": "SKEP Ijin PIB Berkala"
+    "name": "SKEP Ijin PIB Berkala",
+    "isActive": true
   },
   {
     "code": "834",
-    "name": "SNI GULA KRISTAL MENTAH / DEPTAN"
+    "name": "SNI GULA KRISTAL MENTAH / DEPTAN",
+    "isActive": true
   },
   {
     "code": "835",
-    "name": "IZIN DAN/ATAU PENDAFT PESTISIDA / DEPTAN"
+    "name": "IZIN DAN/ATAU PENDAFT PESTISIDA / DEPTAN",
+    "isActive": true
   },
   {
     "code": "836",
-    "name": "IZIN IMPOR / DEPTAN"
+    "name": "IZIN IMPOR / DEPTAN",
+    "isActive": true
   },
   {
     "code": "842",
-    "name": "SNI / ESDM"
+    "name": "SNI / ESDM",
+    "isActive": true
   },
   {
     "code": "843",
-    "name": "NOMOR PELUMAS TERDAFTAR / ESDM"
+    "name": "NOMOR PELUMAS TERDAFTAR / ESDM",
+    "isActive": true
   },
   {
     "code": "844",
-    "name": "IJIN USAHA NIAGA/IU NIAGA TERBATAS/ESDM"
+    "name": "IJIN USAHA NIAGA/IU NIAGA TERBATAS/ESDM",
+    "isActive": true
   },
   {
     "code": "845",
-    "name": "REKOMENDASI IMPOR PELUMAS"
+    "name": "REKOMENDASI IMPOR PELUMAS",
+    "isActive": true
   },
   {
     "code": "846",
-    "name": "SKEM"
+    "name": "SKEM",
+    "isActive": true
   },
   {
     "code": "851",
-    "name": "SURAT IJIN KARANTINA TANAMAN"
+    "name": "SURAT IJIN KARANTINA TANAMAN",
+    "isActive": true
   },
   {
     "code": "853",
-    "name": "SURAT IJIN KARANTINA HEWAN / IKAN"
+    "name": "SURAT IJIN KARANTINA HEWAN / IKAN",
+    "isActive": true
   },
   {
     "code": "854",
-    "name": "SURAT PERSETUJUAN MUAT BPOM"
+    "name": "SURAT PERSETUJUAN MUAT BPOM",
+    "isActive": true
   },
   {
     "code": "856",
-    "name": "LAP. PEMERIKSAAN SURVEYOR (LPS-E)"
+    "name": "LAP. PEMERIKSAAN SURVEYOR (LPS-E)",
+    "isActive": true
   },
   {
     "code": "857",
-    "name": "FUMIGATION CERTIFICATE"
+    "name": "FUMIGATION CERTIFICATE",
+    "isActive": true
   },
   {
     "code": "858",
-    "name": "CITES CERTIFICATE"
+    "name": "CITES CERTIFICATE",
+    "isActive": true
   },
   {
     "code": "860",
-    "name": "Electronic Certificate Of Origin (E-CO)"
+    "name": "Electronic Certificate Of Origin (E-CO)",
+    "isActive": true
   },
   {
     "code": "861",
-    "name": "CERTIFICATE OF ORIGIN (CO)"
+    "name": "CERTIFICATE OF ORIGIN (CO)",
+    "isActive": true
   },
   {
     "code": "862",
-    "name": "SPEK USDFS"
+    "name": "SPEK USDFS",
+    "isActive": true
   },
   {
     "code": "863",
-    "name": "SERTIFIKAT TRQ"
+    "name": "SERTIFIKAT TRQ",
+    "isActive": true
   },
   {
     "code": "864",
-    "name": "Deklarasi Asal Barang (DAB)"
+    "name": "Deklarasi Asal Barang (DAB)",
+    "isActive": true
   },
   {
     "code": "865",
-    "name": "Surat Keterangan Nilai Kandungan Lokal"
+    "name": "Surat Keterangan Nilai Kandungan Lokal",
+    "isActive": true
   },
   {
     "code": "866",
-    "name": "Sertifikat TRQ IUAECEPA"
+    "name": "Sertifikat TRQ IUAECEPA",
+    "isActive": true
   },
   {
     "code": "871",
-    "name": "Nomor Pendaftaran Alat Kesehatan/Depkes"
+    "name": "Nomor Pendaftaran Alat Kesehatan/Depkes",
+    "isActive": true
   },
   {
     "code": "872",
-    "name": "LAPORAN SURVEYOR DEPKES"
+    "name": "LAPORAN SURVEYOR DEPKES",
+    "isActive": true
   },
   {
     "code": "873",
-    "name": "IP (NARKTK, PREKURSOR & PSIKOTR)/DEPKES"
+    "name": "IP (NARKTK, PREKURSOR & PSIKOTR)/DEPKES",
+    "isActive": true
   },
   {
     "code": "874",
-    "name": "IT (PREKURSOR & PSIKOTR)/DEPKES"
+    "name": "IT (PREKURSOR & PSIKOTR)/DEPKES",
+    "isActive": true
   },
   {
     "code": "875",
-    "name": "SPI (NARKTK, PREKURSOR & PSIKOTR)/DEPKES"
+    "name": "SPI (NARKTK, PREKURSOR & PSIKOTR)/DEPKES",
+    "isActive": true
   },
   {
     "code": "876",
-    "name": "Ijin Pembawaan UKA"
+    "name": "Ijin Pembawaan UKA",
+    "isActive": true
   },
   {
     "code": "877",
-    "name": "Ijin Persetujuan Pembawaan UKA"
+    "name": "Ijin Persetujuan Pembawaan UKA",
+    "isActive": true
   },
   {
     "code": "878",
-    "name": "Ijin Pelaporan Pembawaan UKA"
+    "name": "Ijin Pelaporan Pembawaan UKA",
+    "isActive": true
   },
   {
     "code": "879",
-    "name": "SPI Kendaraan Bermotor CKD"
+    "name": "SPI Kendaraan Bermotor CKD",
+    "isActive": true
   },
   {
     "code": "880",
-    "name": "SPI Kendaraan Bermotor IKD"
+    "name": "SPI Kendaraan Bermotor IKD",
+    "isActive": true
   },
   {
     "code": "881",
-    "name": "Surat Persetujuan Impor Dewan Nasional KEK"
+    "name": "Surat Persetujuan Impor Dewan Nasional KEK",
+    "isActive": true
   },
   {
     "code": "882",
-    "name": "Surat Persetujuan Ekspor Dewan Nasional KEK"
+    "name": "Surat Persetujuan Ekspor Dewan Nasional KEK",
+    "isActive": true
   },
   {
     "code": "883",
-    "name": "SPI KBLBB CKD"
+    "name": "SPI KBLBB CKD",
+    "isActive": true
   },
   {
     "code": "884",
-    "name": "SPI KBLBB IKD"
+    "name": "SPI KBLBB IKD",
+    "isActive": true
   },
   {
     "code": "885",
-    "name": "SKVI Industri Galangan Kapal"
+    "name": "SKVI Industri Galangan Kapal",
+    "isActive": true
   },
   {
     "code": "886",
-    "name": "SPPI KBLBB Roda Empat"
+    "name": "SPPI KBLBB Roda Empat",
+    "isActive": true
   },
   {
     "code": "887",
-    "name": "SKVI MRO Pesawat Terbang"
+    "name": "SKVI MRO Pesawat Terbang",
+    "isActive": true
   },
   {
     "code": "889",
-    "name": "PENGECUALIAN BEA KELUAR"
+    "name": "PENGECUALIAN BEA KELUAR",
+    "isActive": true
   },
   {
     "code": "890",
-    "name": "SPPI KBLBB Roda Empat Hanya Insentif PPnBM DTP"
+    "name": "SPPI KBLBB Roda Empat Hanya Insentif PPnBM DTP",
+    "isActive": true
   },
   {
     "code": "891",
-    "name": "Tarif Khusus LPG"
+    "name": "Tarif Khusus LPG",
+    "isActive": true
   },
   {
     "code": "888",
-    "name": "PENGECUALIAN PERIJINAN"
+    "name": "PENGECUALIAN PERIJINAN",
+    "isActive": true
   },
   {
     "code": "902",
-    "name": "IJIN BAPETEN"
+    "name": "IJIN BAPETEN",
+    "isActive": true
   },
   {
     "code": "911",
-    "name": "SURAT KEPUTUSAN"
+    "name": "SURAT KEPUTUSAN",
+    "isActive": true
   },
   {
     "code": "912",
-    "name": "SPEK FASILITAS BKPM"
+    "name": "SPEK FASILITAS BKPM",
+    "isActive": true
   },
   {
     "code": "913",
-    "name": "SPEK FASILITAS PERTAMBANGAN"
+    "name": "SPEK FASILITAS PERTAMBANGAN",
+    "isActive": true
   },
   {
     "code": "914",
-    "name": "KITE IKM"
+    "name": "KITE IKM",
+    "isActive": true
   },
   {
     "code": "915",
-    "name": "SPEK Fasilitas Impor Sementara"
+    "name": "SPEK Fasilitas Impor Sementara",
+    "isActive": true
   },
   {
     "code": "916",
-    "name": "PIB"
+    "name": "PIB",
+    "isActive": true
   },
   {
     "code": "917",
-    "name": "BPBC / BPPAI"
+    "name": "BPBC / BPPAI",
+    "isActive": true
   },
   {
     "code": "918",
-    "name": "SK LABEL BAHASA INDONESIA"
+    "name": "SK LABEL BAHASA INDONESIA",
+    "isActive": true
   },
   {
     "code": "919",
-    "name": "SK Bermotor"
+    "name": "SK Bermotor",
+    "isActive": true
   },
   {
     "code": "920",
-    "name": "SPEK TPB"
+    "name": "SPEK TPB",
+    "isActive": true
   },
   {
     "code": "921",
-    "name": "Dokumen BC23"
+    "name": "Dokumen BC23",
+    "isActive": true
   },
   {
     "code": "922",
-    "name": "SPEK Fasilitas Impor Sementara Returnable Package"
+    "name": "SPEK Fasilitas Impor Sementara Returnable Package",
+    "isActive": true
   },
   {
     "code": "936",
-    "name": "KH-9a/Izin Impor Karantina Hewan"
+    "name": "KH-9a/Izin Impor Karantina Hewan",
+    "isActive": true
   },
   {
     "code": "937",
-    "name": "KH-14/Izin Impor Karantina Hewan"
+    "name": "KH-14/Izin Impor Karantina Hewan",
+    "isActive": true
   },
   {
     "code": "938",
-    "name": "KH-17/Izin Impor Karantina Hewan"
+    "name": "KH-17/Izin Impor Karantina Hewan",
+    "isActive": true
   },
   {
     "code": "939",
-    "name": "KT-5/Izin Impor Karantina Pertanian"
+    "name": "KT-5/Izin Impor Karantina Pertanian",
+    "isActive": true
   },
   {
     "code": "940",
-    "name": "KT-9/Izin Impor Karantina Pertanian"
+    "name": "KT-9/Izin Impor Karantina Pertanian",
+    "isActive": true
   },
   {
     "code": "941",
-    "name": "KT-13/Izin Impor Karantina Pertanian"
+    "name": "KT-13/Izin Impor Karantina Pertanian",
+    "isActive": true
   },
   {
     "code": "942",
-    "name": "IZIN IMPOR KARANTINA TUMBUHAN"
+    "name": "IZIN IMPOR KARANTINA TUMBUHAN",
+    "isActive": true
   },
   {
     "code": "943",
-    "name": "KH-5 / IZIN IMPOR KARANTINA HEWAN"
+    "name": "KH-5 / IZIN IMPOR KARANTINA HEWAN",
+    "isActive": true
   },
   {
     "code": "944",
-    "name": "KH-7 / IZIN IMPOR KARANTINA HEWAN"
+    "name": "KH-7 / IZIN IMPOR KARANTINA HEWAN",
+    "isActive": true
   },
   {
     "code": "945",
-    "name": "KH-12 / IZIN IMPOR KARANTINA HEWAN"
+    "name": "KH-12 / IZIN IMPOR KARANTINA HEWAN",
+    "isActive": true
   },
   {
     "code": "946",
-    "name": "KID-3 / IZIN IMPOR KARANTINA IKAN"
+    "name": "KID-3 / IZIN IMPOR KARANTINA IKAN",
+    "isActive": true
   },
   {
     "code": "947",
-    "name": "KID-15 / IZIN IMPOR KARANTINA IKAN"
+    "name": "KID-15 / IZIN IMPOR KARANTINA IKAN",
+    "isActive": true
   },
   {
     "code": "948",
-    "name": "NPIK"
+    "name": "NPIK",
+    "isActive": true
   },
   {
     "code": "949",
-    "name": "PENGAKUAN SBG IMPORTIR PRODUSEN"
+    "name": "PENGAKUAN SBG IMPORTIR PRODUSEN",
+    "isActive": true
   },
   {
     "code": "950",
-    "name": "KID-4/IZIN KARANTINA IKAN"
+    "name": "KID-4/IZIN KARANTINA IKAN",
+    "isActive": true
   },
   {
     "code": "951",
-    "name": "HC (HEALTH CERTIFICATE)"
+    "name": "HC (HEALTH CERTIFICATE)",
+    "isActive": true
   },
   {
     "code": "952",
-    "name": "SERTIFIKAT HALAL"
+    "name": "SERTIFIKAT HALAL",
+    "isActive": true
   },
   {
     "code": "956",
-    "name": "PENGAKUAN SBG IMPORTIR TERDAFTAR"
+    "name": "PENGAKUAN SBG IMPORTIR TERDAFTAR",
+    "isActive": true
   },
   {
     "code": "957",
-    "name": "SNI/SPB/DEPDAG"
+    "name": "SNI/SPB/DEPDAG",
+    "isActive": true
   },
   {
     "code": "958",
-    "name": "LAPORAN SURVEYOR / DEPDAG"
+    "name": "LAPORAN SURVEYOR / DEPDAG",
+    "isActive": true
   },
   {
     "code": "959",
-    "name": "SURAT PERSETUJUAN IMPOR DEP.DAG"
+    "name": "SURAT PERSETUJUAN IMPOR DEP.DAG",
+    "isActive": true
   },
   {
     "code": "960",
-    "name": "3D/PC dan/atau PFP"
+    "name": "3D/PC dan/atau PFP",
+    "isActive": true
   },
   {
     "code": "961",
-    "name": "Hasil Lab"
+    "name": "Hasil Lab",
+    "isActive": true
   },
   {
     "code": "962",
-    "name": "LAPORAN BONGKAR/STUFFING"
+    "name": "LAPORAN BONGKAR/STUFFING",
+    "isActive": true
   },
   {
     "code": "963",
-    "name": "Skep Ekspor Reekspor Lainnya"
+    "name": "Skep Ekspor Reekspor Lainnya",
+    "isActive": true
   },
   {
     "code": "964",
-    "name": "SURAT PERINTAH MASUK INSTALASI KARANTINA ATAU TEMPAT LAIN"
+    "name": "SURAT PERINTAH MASUK INSTALASI KARANTINA ATAU TEMPAT LAIN",
+    "isActive": true
   },
   {
     "code": "965",
-    "name": "SURAT PERINTAH PEMINDAHAN MEDIA PEMBAWA (SP2MP)"
+    "name": "SURAT PERINTAH PEMINDAHAN MEDIA PEMBAWA (SP2MP)",
+    "isActive": true
   },
   {
     "code": "966",
-    "name": "SURAT KETERANGAN MEDIA PEMBAWA LAIN"
+    "name": "SURAT KETERANGAN MEDIA PEMBAWA LAIN",
+    "isActive": true
   },
   {
     "code": "967",
-    "name": "SERTIFIKAT PELEPASAN"
+    "name": "SERTIFIKAT PELEPASAN",
+    "isActive": true
   },
   {
     "code": "968",
-    "name": "SURAT KETERANGAN KARANTINA"
+    "name": "SURAT KETERANGAN KARANTINA",
+    "isActive": true
   },
   {
     "code": "969",
-    "name": "SURAT KETERANGAN HASIL PENGAWASAN"
+    "name": "SURAT KETERANGAN HASIL PENGAWASAN",
+    "isActive": true
   },
   {
     "code": "970",
-    "name": "Sertifikat Kesehatan Hewan"
+    "name": "Sertifikat Kesehatan Hewan",
+    "isActive": true
   },
   {
     "code": "971",
-    "name": "Sertifikat Sanitasi Produk Hewan"
+    "name": "Sertifikat Sanitasi Produk Hewan",
+    "isActive": true
   },
   {
     "code": "972",
-    "name": "Sertifikat Kesehatan Ikan dan Produk Ikan (Ekspor)"
+    "name": "Sertifikat Kesehatan Ikan dan Produk Ikan (Ekspor)",
+    "isActive": true
   },
   {
     "code": "973",
-    "name": "SERTIFIKAT KESEHATAN TUMBUHAN UNTUK EKSPOR"
+    "name": "SERTIFIKAT KESEHATAN TUMBUHAN UNTUK EKSPOR",
+    "isActive": true
   },
   {
     "code": "974",
-    "name": "SERTIFIKAT KESEHATAN TUMBUHAN UNTUK RE-EKSPOR"
+    "name": "SERTIFIKAT KESEHATAN TUMBUHAN UNTUK RE-EKSPOR",
+    "isActive": true
   },
   {
     "code": "975",
-    "name": "SERTIFIKAT EKSPOR UNTUK PRODUK TUMBUHAN"
+    "name": "SERTIFIKAT EKSPOR UNTUK PRODUK TUMBUHAN",
+    "isActive": true
   },
   {
     "code": "980",
-    "name": "DEKLARASI IMPOR"
+    "name": "DEKLARASI IMPOR",
+    "isActive": true
   },
   {
     "code": "981",
-    "name": "DNP dan Dokumen Pendukungnya/ INP/ Informasi Komponen Biaya"
+    "name": "DNP dan Dokumen Pendukungnya/ INP/ Informasi Komponen Biaya",
+    "isActive": true
   },
   {
     "code": "982",
-    "name": "Surat Keterangan"
+    "name": "Surat Keterangan",
+    "isActive": true
   },
   {
     "code": "983",
-    "name": "Surat Pernyataan"
+    "name": "Surat Pernyataan",
+    "isActive": true
   },
   {
     "code": "985",
-    "name": "Bukti Transfer"
+    "name": "Bukti Transfer",
+    "isActive": true
   },
   {
     "code": "991",
-    "name": "MASTERLIST KEK/FTZ"
+    "name": "MASTERLIST KEK/FTZ",
+    "isActive": true
   },
   {
     "code": "993",
-    "name": "SURAT IJIN MENTERI PERTANIAN"
+    "name": "SURAT IJIN MENTERI PERTANIAN",
+    "isActive": true
   },
   {
     "code": "994",
-    "name": "BUKTI PENERIMAAN JAMINAN (BPJ)"
+    "name": "BUKTI PENERIMAAN JAMINAN (BPJ)",
+    "isActive": true
   },
   {
     "code": "995",
-    "name": "STBS / SSP-E (PAJAK EKSPOR)"
+    "name": "STBS / SSP-E (PAJAK EKSPOR)",
+    "isActive": true
   },
   {
     "code": "996",
-    "name": "SRT SANGGUP BAYAR (SSB)"
+    "name": "SRT SANGGUP BAYAR (SSB)",
+    "isActive": true
   },
   {
     "code": "997",
-    "name": "COSTOMS BOND / STTJ"
+    "name": "COSTOMS BOND / STTJ",
+    "isActive": true
   },
   {
     "code": "998",
-    "name": "SPEK FASILITAS KEMUDAHAN EKSPOR"
+    "name": "SPEK FASILITAS KEMUDAHAN EKSPOR",
+    "isActive": true
   },
   {
     "code": "999",
-    "name": "LAINNYA"
+    "name": "LAINNYA",
+    "isActive": true
   },
   {
     "code": "1001",
-    "name": "VISA"
+    "name": "VISA",
+    "isActive": true
   },
   {
     "code": "1002",
-    "name": "KITAS"
+    "name": "KITAS",
+    "isActive": true
   },
   {
     "code": "1003",
-    "name": "Dokumen Bukti Kegiatan/Penugasan Bekerja atau Belajar"
+    "name": "Dokumen Bukti Kegiatan/Penugasan Bekerja atau Belajar",
+    "isActive": true
   },
   {
     "code": "1004",
-    "name": "Foto/Scan Halaman Depan Paspor"
+    "name": "Foto/Scan Halaman Depan Paspor",
+    "isActive": true
   },
   {
     "code": "1005",
-    "name": "Surat Keterangan Pindah"
+    "name": "Surat Keterangan Pindah",
+    "isActive": true
   },
   {
     "code": "1006",
-    "name": "Surat Kuasa"
+    "name": "Surat Kuasa",
+    "isActive": true
   },
   {
     "code": "1007",
-    "name": "Identitas"
+    "name": "Identitas",
+    "isActive": true
   },
   {
     "code": "1008",
-    "name": "Surat Pernyataan Hubungan Keluarga"
+    "name": "Surat Pernyataan Hubungan Keluarga",
+    "isActive": true
   },
   {
     "code": "1009",
-    "name": "Kartu Keluarga"
+    "name": "Kartu Keluarga",
+    "isActive": true
   },
   {
     "code": "1010",
-    "name": "Surat Keterangan Kematian"
+    "name": "Surat Keterangan Kematian",
+    "isActive": true
   },
   {
     "code": "1011",
-    "name": "Surat Keterangan Kematian dari Perwakilan RI"
+    "name": "Surat Keterangan Kematian dari Perwakilan RI",
+    "isActive": true
   },
   {
     "code": "1012",
-    "name": "Foto/Scan Halaman Depan Paspor Keluarga"
+    "name": "Foto/Scan Halaman Depan Paspor Keluarga",
+    "isActive": true
   },
   {
     "code": "1013",
-    "name": "Dokumen Tambahan untuk Permohonan Barang Pindahan"
+    "name": "Dokumen Tambahan untuk Permohonan Barang Pindahan",
+    "isActive": true
   },
   {
     "code": "03001",
-    "name": "Izin Prinsip Pendirian Kawasan Berikat Sebelum Fisik Bangunan Berdiri"
+    "name": "Izin Prinsip Pendirian Kawasan Berikat Sebelum Fisik Bangunan Berdiri",
+    "isActive": true
   },
   {
     "code": "03002",
-    "name": "Keputusan Penetapan Tempat Sebagai Kawasan Berikat Dan Pemberian Izin Penyelenggara Kawasan Berikat"
+    "name": "Keputusan Penetapan Tempat Sebagai Kawasan Berikat Dan Pemberian Izin Penyelenggara Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03003",
-    "name": "Persetujuan Penetapan Tempat Sebagai Kawasan Berikat Dan Pemberian Izin Penyelenggara Kawasan Berikat Sekaligus Izin Pengusaha Kawasan Berikat"
+    "name": "Persetujuan Penetapan Tempat Sebagai Kawasan Berikat Dan Pemberian Izin Penyelenggara Kawasan Berikat Sekaligus Izin Pengusaha Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03004",
-    "name": "Izin PDKB"
+    "name": "Izin PDKB",
+    "isActive": true
   },
   {
     "code": "03005",
-    "name": "Perpanjangan Penetapan Tempat Sebagai Kawasan Berikat Dan Izin Penyelenggara Kawasan Berikat, Izin Pengusaha Kawasan Berikat, Atau Izin PDKB Sebelum Jangka Waktu Izin Tersebut Berakhir"
+    "name": "Perpanjangan Penetapan Tempat Sebagai Kawasan Berikat Dan Izin Penyelenggara Kawasan Berikat, Izin Pengusaha Kawasan Berikat, Atau Izin PDKB Sebelum Jangka Waktu Izin Tersebut Berakhir",
+    "isActive": true
   },
   {
     "code": "03006",
-    "name": "Perubahan Izin Penyelenggara Kawasan Berikat, Izin Pengusaha Kawasan Berikat, Atau Izin PDKB (Terdapat Perubahan Nama Perusahaan Yang Bukan Dikarenakan Merger Atau Diakuisisi, Jenis Hasil Produksi, Atau Luas Kawasan Berikat)"
+    "name": "Perubahan Izin Penyelenggara Kawasan Berikat, Izin Pengusaha Kawasan Berikat, Atau Izin PDKB (Terdapat Perubahan Nama Perusahaan Yang Bukan Dikarenakan Merger Atau Diakuisisi, Jenis Hasil Produksi, Atau Luas Kawasan Berikat)",
+    "isActive": true
   },
   {
     "code": "03007",
-    "name": "Perubahan Keputusan Izin Penyelenggara Kawasan Berikat, Izin Pengusaha Kawasan Berikat, Atau Izin PDKB"
+    "name": "Perubahan Keputusan Izin Penyelenggara Kawasan Berikat, Izin Pengusaha Kawasan Berikat, Atau Izin PDKB",
+    "isActive": true
   },
   {
     "code": "03008",
-    "name": "Pemberian Izin Penambahan Pintu Khusus Pemasukan Dan Pengeluaran Barang Di Kawasan Berikat"
+    "name": "Pemberian Izin Penambahan Pintu Khusus Pemasukan Dan Pengeluaran Barang Di Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03009",
-    "name": "Pemberian Izin Penambahan Pintu Khusus Orang Di Kawasan Berikat"
+    "name": "Pemberian Izin Penambahan Pintu Khusus Orang Di Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03010",
-    "name": "Persetujuan Pemasukan Barang Dari Kawasan Bebas Ke Kawasan Berikat"
+    "name": "Persetujuan Pemasukan Barang Dari Kawasan Bebas Ke Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03011",
-    "name": "Persetujuan Pemasukan Barang Modal Dari Luar Daerah Pabean"
+    "name": "Persetujuan Pemasukan Barang Modal Dari Luar Daerah Pabean",
+    "isActive": true
   },
   {
     "code": "03012",
-    "name": "Persetujuan Pemasukan Barang Modal Dari Kawasan Berikat Lain"
+    "name": "Persetujuan Pemasukan Barang Modal Dari Kawasan Berikat Lain",
+    "isActive": true
   },
   {
     "code": "03013",
-    "name": "Persetujuan Pemasukan Barang Jadi Asal Luar Daerah Pabean Untuk Digabungkan Dengan Hasil Produksi Utama Kawasan Berikat"
+    "name": "Persetujuan Pemasukan Barang Jadi Asal Luar Daerah Pabean Untuk Digabungkan Dengan Hasil Produksi Utama Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03014",
-    "name": "Persetujuan Pemasukan Peralatan Perkantoran Asal Luar Daerah Pabean Ke Kawasan Berikat"
+    "name": "Persetujuan Pemasukan Peralatan Perkantoran Asal Luar Daerah Pabean Ke Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03015",
-    "name": "Persetujuan Pemasukan Barang Contoh Asal Luar Daerah Pabean"
+    "name": "Persetujuan Pemasukan Barang Contoh Asal Luar Daerah Pabean",
+    "isActive": true
   },
   {
     "code": "03016",
-    "name": "Persetujuan Pembebasan Bea Masuk Untuk Barang Contoh Yang Akan Dikeluarkan Ke Tempat Lain Dalam Daerah Pabean"
+    "name": "Persetujuan Pembebasan Bea Masuk Untuk Barang Contoh Yang Akan Dikeluarkan Ke Tempat Lain Dalam Daerah Pabean",
+    "isActive": true
   },
   {
     "code": "03017",
-    "name": "Persetujuan Mengeluarkan Hasil Produksi Kawasan Berikat Ke Tempat Penyelenggaraan Pameran Berikat (TPPB)"
+    "name": "Persetujuan Mengeluarkan Hasil Produksi Kawasan Berikat Ke Tempat Penyelenggaraan Pameran Berikat (TPPB)",
+    "isActive": true
   },
   {
     "code": "03018",
-    "name": "Persetujuan Untuk Mengeluarkan Bahan Baku Dan/Atau Bahan Rusak Dan/Atau Apkir (Reject) Yang Sama Sekali Tidak Diproses Ke Gudang Berikat Asal Barang"
+    "name": "Persetujuan Untuk Mengeluarkan Bahan Baku Dan/Atau Bahan Rusak Dan/Atau Apkir (Reject) Yang Sama Sekali Tidak Diproses Ke Gudang Berikat Asal Barang",
+    "isActive": true
   },
   {
     "code": "03019",
-    "name": "Persetujuan Untuk Mengeluarkan Barang Dan/Atau Bahan Rusak Dan/Atau Apkir (Reject) Asal Tlddp Ke TLDDP"
+    "name": "Persetujuan Untuk Mengeluarkan Barang Dan/Atau Bahan Rusak Dan/Atau Apkir (Reject) Asal Tlddp Ke TLDDP",
+    "isActive": true
   },
   {
     "code": "03020",
-    "name": "Persetujuan Pengeluaran Bahan Baku/Sisa Bahan Baku Asal Impor Untuk Direekspor"
+    "name": "Persetujuan Pengeluaran Bahan Baku/Sisa Bahan Baku Asal Impor Untuk Direekspor",
+    "isActive": true
   },
   {
     "code": "03021",
-    "name": "Persetujuan Pengeluaran Bahan Baku Dan/Atau Sisa Bahan Baku Asal Luar Daerah Pabean Ke Kawasan Berikat Lain"
+    "name": "Persetujuan Pengeluaran Bahan Baku Dan/Atau Sisa Bahan Baku Asal Luar Daerah Pabean Ke Kawasan Berikat Lain",
+    "isActive": true
   },
   {
     "code": "03022",
-    "name": "Persetujuan Pengeluaran Bahan Baku Dan/Atau Sisa Bahan Baku Asal Luar Daerah Pabean Ke Perusahaan Industri Di TLDDP"
+    "name": "Persetujuan Pengeluaran Bahan Baku Dan/Atau Sisa Bahan Baku Asal Luar Daerah Pabean Ke Perusahaan Industri Di TLDDP",
+    "isActive": true
   },
   {
     "code": "03023",
-    "name": "Persetujuan Pemindahtanganan Barang Selain Hasil Produksi Dalam Rangka Saling Melengkapi Kebutuhan Dalam Proses Produksi Atau Peningkatan Produksi Ke Kawasan Berikat Lain Dalam Satu Manajemen"
+    "name": "Persetujuan Pemindahtanganan Barang Selain Hasil Produksi Dalam Rangka Saling Melengkapi Kebutuhan Dalam Proses Produksi Atau Peningkatan Produksi Ke Kawasan Berikat Lain Dalam Satu Manajemen",
+    "isActive": true
   },
   {
     "code": "03024",
-    "name": "Persetujuan Pemindahtanganan Barang Selain Hasil Produksi Dalam Rangka Saling Melengkapi Kebutuhan Dalam Proses Produksi Atau Peningkatan Produksi Ke Kawasan Berikat Lain Dalam Satu PKB"
+    "name": "Persetujuan Pemindahtanganan Barang Selain Hasil Produksi Dalam Rangka Saling Melengkapi Kebutuhan Dalam Proses Produksi Atau Peningkatan Produksi Ke Kawasan Berikat Lain Dalam Satu PKB",
+    "isActive": true
   },
   {
     "code": "03025",
-    "name": "Persetujuan Pemindahtanganan Barang Selain Hasil Produksi Dalam Rangka Saling Melengkapi Kebutuhan Dalam Proses Produksi Atau Peningkatan Produksi Ke Kawasan Berikat Lainnya"
+    "name": "Persetujuan Pemindahtanganan Barang Selain Hasil Produksi Dalam Rangka Saling Melengkapi Kebutuhan Dalam Proses Produksi Atau Peningkatan Produksi Ke Kawasan Berikat Lainnya",
+    "isActive": true
   },
   {
     "code": "03026",
-    "name": "Persetujuan Pengeluaran Barang Modal Asal Impor Yang Belum Dibayar BM-nya Untuk Direekspor"
+    "name": "Persetujuan Pengeluaran Barang Modal Asal Impor Yang Belum Dibayar BM-nya Untuk Direekspor",
+    "isActive": true
   },
   {
     "code": "03027",
-    "name": "Persetujuan Pengeluaran Barang Modal Asal Impor Yang Belum Diselesaikan Kewajiban BM-nya Ke Kawasan Berikat Lain Setelah Jangka Waktu 2 (Dua) Tahun Sejak Diimpor Dan Telahdipergunakan Di Kawasan Berikat"
+    "name": "Persetujuan Pengeluaran Barang Modal Asal Impor Yang Belum Diselesaikan Kewajiban BM-nya Ke Kawasan Berikat Lain Setelah Jangka Waktu 2 (Dua) Tahun Sejak Diimpor Dan Telahdipergunakan Di Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03028",
-    "name": "Persetujuan Pengeluaran Barang Modal Asal Impor Yang Belum Diselesaikan Kewajiban BM Ke Tempat Lain Dalam Daerah Pabean Sebelum Jangka Waktu 4 (Empat) Tahun Sejak Diimpor, Dan Telah Dipergunakan Di Kawasan Berikat"
+    "name": "Persetujuan Pengeluaran Barang Modal Asal Impor Yang Belum Diselesaikan Kewajiban BM Ke Tempat Lain Dalam Daerah Pabean Sebelum Jangka Waktu 4 (Empat) Tahun Sejak Diimpor, Dan Telah Dipergunakan Di Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03029",
-    "name": "Keputusan Pembebasan BM Atas Pengeluaran Barang Modal Asal Impor Yang Belum Diselesaikan Kewajiban Pembayaran Bm Ke TLDDP Setelah Jangka Waktu 4 (Empat) Tahun Sejak Diimpor, Dan Telah Dipergunakan Di Kawasan Berikat"
+    "name": "Keputusan Pembebasan BM Atas Pengeluaran Barang Modal Asal Impor Yang Belum Diselesaikan Kewajiban Pembayaran Bm Ke TLDDP Setelah Jangka Waktu 4 (Empat) Tahun Sejak Diimpor, Dan Telah Dipergunakan Di Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03030",
-    "name": "Persetujuan Pengeluaran Peralatan Perkantoran Asal Impor Yang Belum Lunas BM Untuk Direekspor"
+    "name": "Persetujuan Pengeluaran Peralatan Perkantoran Asal Impor Yang Belum Lunas BM Untuk Direekspor",
+    "isActive": true
   },
   {
     "code": "03031",
-    "name": "Persetujuan Pengeluaran Peralatan Perkantoran Asal Impor Yang Belum Diselesaikan Kewajiban Pembayaran Bm Ke Kawasan Berikat Lain Setelah Dipergunakan Di Kawasan Berikat"
+    "name": "Persetujuan Pengeluaran Peralatan Perkantoran Asal Impor Yang Belum Diselesaikan Kewajiban Pembayaran Bm Ke Kawasan Berikat Lain Setelah Dipergunakan Di Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03032",
-    "name": "Persetujuan Pengeluaran Peralatan Perkantoran Asal Impor Yang Belum Diselesaikan Kewajiban Pembayaran Bm Ke TLDDP Sebelum Jangka Waktu 4 (Empat) Tahun Sejak Diimpor, Dan Telah Dipergunakan Di Kawasan Berikat Yang Bersangkutan"
+    "name": "Persetujuan Pengeluaran Peralatan Perkantoran Asal Impor Yang Belum Diselesaikan Kewajiban Pembayaran Bm Ke TLDDP Sebelum Jangka Waktu 4 (Empat) Tahun Sejak Diimpor, Dan Telah Dipergunakan Di Kawasan Berikat Yang Bersangkutan",
+    "isActive": true
   },
   {
     "code": "03033",
-    "name": "Persetujuan Pengeluaran Peralatan Perkantoran Asal Impor Yang Belum Diselesaikan Kewajiban Pembayaran Bm Ke TLDDP Setelah Jangka Waktu 4 (Empat) Tahun Sejak Diimpor, Dan Telah Dipergunakan Di Kawasan Berikat"
+    "name": "Persetujuan Pengeluaran Peralatan Perkantoran Asal Impor Yang Belum Diselesaikan Kewajiban Pembayaran Bm Ke TLDDP Setelah Jangka Waktu 4 (Empat) Tahun Sejak Diimpor, Dan Telah Dipergunakan Di Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03034",
-    "name": "Persetujuan Untuk Memindahtangankan Barang Modal Dan/Atau Peralatan Perkantoran Yang Telah Dilunasi BM Dan PDRI Pada Saat Pemasukan Ke Kawasan Berikat"
+    "name": "Persetujuan Untuk Memindahtangankan Barang Modal Dan/Atau Peralatan Perkantoran Yang Telah Dilunasi BM Dan PDRI Pada Saat Pemasukan Ke Kawasan Berikat",
+    "isActive": true
   },
   {
     "code": "03035",
-    "name": "Persetujuan Untuk Memindahtangankan Barang Modal Asal Tempat Lain Dalam Daerah Pabean"
+    "name": "Persetujuan Untuk Memindahtangankan Barang Modal Asal Tempat Lain Dalam Daerah Pabean",
+    "isActive": true
   },
   {
     "code": "03036",
-    "name": "Persetujuan Pengeluaran Barang Modal Untuk Perbaikan/Reparasi Ke Luar Daerah Pabean"
+    "name": "Persetujuan Pengeluaran Barang Modal Untuk Perbaikan/Reparasi Ke Luar Daerah Pabean",
+    "isActive": true
   },
   {
     "code": "03037",
-    "name": "Persetujuan Pengeluaran Barang Modal Untuk Perbaikan/Reparasi Ke TLDDP"
+    "name": "Persetujuan Pengeluaran Barang Modal Untuk Perbaikan/Reparasi Ke TLDDP",
+    "isActive": true
   },
   {
     "code": "03038",
-    "name": "Persetujuan Pengeluaran Barang Modal Untuk Perbaikan/Reparasi Ke KB Lain"
+    "name": "Persetujuan Pengeluaran Barang Modal Untuk Perbaikan/Reparasi Ke KB Lain",
+    "isActive": true
   },
   {
     "code": "03039",
-    "name": "Persetujuan Subkontrak Kurang Dari 60 (Enam Puluh) Hari Ke TLDDP"
+    "name": "Persetujuan Subkontrak Kurang Dari 60 (Enam Puluh) Hari Ke TLDDP",
+    "isActive": true
   },
   {
     "code": "03040",
-    "name": "Persetujuan Subkontrak Kurang Dari 60 (Enam Puluh) Hari Ke KB Lain"
+    "name": "Persetujuan Subkontrak Kurang Dari 60 (Enam Puluh) Hari Ke KB Lain",
+    "isActive": true
   },
   {
     "code": "03041",
-    "name": "Persetujuan Subkontrak Lebih Dari 60 (Enam Puluh) Hari Ke TLDDP"
+    "name": "Persetujuan Subkontrak Lebih Dari 60 (Enam Puluh) Hari Ke TLDDP",
+    "isActive": true
   },
   {
     "code": "03042",
-    "name": "Persetujuan Subkontrak Lebih Dari 60 (Enam Puluh) Hari Ke PDKB Lain"
+    "name": "Persetujuan Subkontrak Lebih Dari 60 (Enam Puluh) Hari Ke PDKB Lain",
+    "isActive": true
   },
   {
     "code": "03043",
-    "name": "Persetujuan Meminjamkan Mesin/Cetakan (Moulding) Ke KB Lain Dalam Rangka Subkontrak"
+    "name": "Persetujuan Meminjamkan Mesin/Cetakan (Moulding) Ke KB Lain Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03044",
-    "name": "Persetujuan Meminjamkan Mesin/Cetakan (Moulding) Ke KB Lain Bukan Dalam Rangka Subkontrak"
+    "name": "Persetujuan Meminjamkan Mesin/Cetakan (Moulding) Ke KB Lain Bukan Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03045",
-    "name": "Persetujuan Meminjamkan Mesin/Cetakan (Moulding) Ke TLDDP Dalam Rangka Subkontrak"
+    "name": "Persetujuan Meminjamkan Mesin/Cetakan (Moulding) Ke TLDDP Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03046",
-    "name": "Persetujuan Meminjamkan Mesin/Cetakan (Moulding) Ke TLDDP Bukan Dalam Rangka Subkontrak"
+    "name": "Persetujuan Meminjamkan Mesin/Cetakan (Moulding) Ke TLDDP Bukan Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03047",
-    "name": "Persetujuan Perpanjangan Meminjamkan Mesin Dan/Atau Cetakan (Moulding) Ke PDKB Lain Dalam Rangka Subkontrak"
+    "name": "Persetujuan Perpanjangan Meminjamkan Mesin Dan/Atau Cetakan (Moulding) Ke PDKB Lain Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03048",
-    "name": "Persetujuan Perpanjangan Meminjamkan Mesin Dan/Atau Cetakan (Moulding) Ke PDKB Lain Bukan Dalam Rangka Subkontrak"
+    "name": "Persetujuan Perpanjangan Meminjamkan Mesin Dan/Atau Cetakan (Moulding) Ke PDKB Lain Bukan Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03049",
-    "name": "Persetujuan Perpanjangan Meminjamkan Mesin Dan/Atau Cetakan (Moulding) Ke TLDDP Dalam Rangka Subkontrak"
+    "name": "Persetujuan Perpanjangan Meminjamkan Mesin Dan/Atau Cetakan (Moulding) Ke TLDDP Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03050",
-    "name": "Persetujuan Perpanjangan Meminjamkan Mesin Dan/Atau Cetakan (Moulding) Ke TLDDP Selain Dalam Rangka Subkontrak"
+    "name": "Persetujuan Perpanjangan Meminjamkan Mesin Dan/Atau Cetakan (Moulding) Ke TLDDP Selain Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03051",
-    "name": "Persetujuan Peminjaman Mesin Atau Cetakan (Moulding) Yang Melebihi Jangka Waktu"
+    "name": "Persetujuan Peminjaman Mesin Atau Cetakan (Moulding) Yang Melebihi Jangka Waktu",
+    "isActive": true
   },
   {
     "code": "03052",
-    "name": "Persetujuan Pemusnahan Atas Barangbarang Yang Busuk Dan/Atau Yang Karena Sifat Dan Bentuknya Dapat Dimusnahkan"
+    "name": "Persetujuan Pemusnahan Atas Barangbarang Yang Busuk Dan/Atau Yang Karena Sifat Dan Bentuknya Dapat Dimusnahkan",
+    "isActive": true
   },
   {
     "code": "03053",
-    "name": "Persetujuan Perusakan Atas Barang Asal Luar Daerah Pabean Yang Karena Sifat Dan Bentuknya Tidak Dapat Dimusnahkan"
+    "name": "Persetujuan Perusakan Atas Barang Asal Luar Daerah Pabean Yang Karena Sifat Dan Bentuknya Tidak Dapat Dimusnahkan",
+    "isActive": true
   },
   {
     "code": "03054",
-    "name": "Persetujuan Menerima Subkontrak Dari TLDDP"
+    "name": "Persetujuan Menerima Subkontrak Dari TLDDP",
+    "isActive": true
   },
   {
     "code": "03055",
-    "name": "Persetujuan Peminjaman Mesin/Cetakan (Moulding) Dari TLDDP Dalam Rangka Subkontrak"
+    "name": "Persetujuan Peminjaman Mesin/Cetakan (Moulding) Dari TLDDP Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03056",
-    "name": "Persetujuan Peminjaman Mesin/Cetakan (Moulding) Dari TLDDP Bukan Dalam Rangka Subkontrak"
+    "name": "Persetujuan Peminjaman Mesin/Cetakan (Moulding) Dari TLDDP Bukan Dalam Rangka Subkontrak",
+    "isActive": true
   },
   {
     "code": "03057",
-    "name": "Persetujuan Peminjaman Mesin/Peralatan Pabrik Dari TLDDP"
+    "name": "Persetujuan Peminjaman Mesin/Peralatan Pabrik Dari TLDDP",
+    "isActive": true
   },
   {
     "code": "03060",
-    "name": "Persetujuan Pemasukan Barang Modal Berupa Peralatan Pabrik Dari Luar Daerah Pabean"
+    "name": "Persetujuan Pemasukan Barang Modal Berupa Peralatan Pabrik Dari Luar Daerah Pabean",
+    "isActive": true
   },
   {
     "code": "03061",
-    "name": "Persetujuan Pemasukan Barang Modal Berupa Suku Cadang Dari Luar Daerah Pabean Yang Dimasukkan Tidak Bersamaan Dengan Barang Modal"
+    "name": "Persetujuan Pemasukan Barang Modal Berupa Suku Cadang Dari Luar Daerah Pabean Yang Dimasukkan Tidak Bersamaan Dengan Barang Modal",
+    "isActive": true
   },
   {
     "code": "03062",
-    "name": "Persetujuan Pemasukan Kembali (Reimpor) Barang Hasil Produksi Asal TPB"
+    "name": "Persetujuan Pemasukan Kembali (Reimpor) Barang Hasil Produksi Asal TPB",
+    "isActive": true
   },
   {
     "code": "03063",
-    "name": "Persetujuan Pemasukan Kembali (Reimpor) Barang Modal Setelah Perbaikan/Reparasi Dari Luar Daerah Pabean"
+    "name": "Persetujuan Pemasukan Kembali (Reimpor) Barang Modal Setelah Perbaikan/Reparasi Dari Luar Daerah Pabean",
+    "isActive": true
   },
   {
     "code": "03064",
-    "name": "Persetujuan Perpanjangan Jangka Waktu Pengeluaran Barang Modal Keperluan Perbaikan/Reparasi Tujuan TLDDP"
+    "name": "Persetujuan Perpanjangan Jangka Waktu Pengeluaran Barang Modal Keperluan Perbaikan/Reparasi Tujuan TLDDP",
+    "isActive": true
   },
   {
     "code": "03065",
-    "name": "Persetujuan Pengeluaran Barang Contoh/Sampel KB Dengan Tujuan TLDDP"
+    "name": "Persetujuan Pengeluaran Barang Contoh/Sampel KB Dengan Tujuan TLDDP",
+    "isActive": true
   },
   {
     "code": "03066",
-    "name": "Rekomendasi Meminjamkan Barang Modal Ke TLDDP Dalam Rangka Subkontrak Atau Bukan Lebih Dari 6 Bulan"
+    "name": "Rekomendasi Meminjamkan Barang Modal Ke TLDDP Dalam Rangka Subkontrak Atau Bukan Lebih Dari 6 Bulan",
+    "isActive": true
   },
   {
     "code": "9001",
-    "name": "Surat Permohonan Perbaikan Dokumen Pabean"
+    "name": "Surat Permohonan Perbaikan Dokumen Pabean",
+    "isActive": true
   },
   {
     "code": "9002",
-    "name": "Surat Persetujuan Perbaikan Dokumen Pabean oleh Kepala Kantor"
+    "name": "Surat Persetujuan Perbaikan Dokumen Pabean oleh Kepala Kantor",
+    "isActive": true
   },
   {
     "code": "9003",
-    "name": "Surat Persetujuan Perbaikan Dokumen Pabean oleh Kepala Seksi"
+    "name": "Surat Persetujuan Perbaikan Dokumen Pabean oleh Kepala Seksi",
+    "isActive": true
   },
   {
     "code": "9004",
-    "name": "Berita Acara Wawancara Perbaikan Dokumen Pabean"
+    "name": "Berita Acara Wawancara Perbaikan Dokumen Pabean",
+    "isActive": true
   },
   {
     "code": "9005",
-    "name": "Dokumen Pelengkap Perubahan Data Lainnya"
+    "name": "Dokumen Pelengkap Perubahan Data Lainnya",
+    "isActive": true
   },
   {
     "code": "LAB01",
-    "name": "PRE ENTRY CLASSIFICATION"
+    "name": "PRE ENTRY CLASSIFICATION",
+    "isActive": true
   },
   {
     "code": "LAB02",
-    "name": "IMPOR"
+    "name": "IMPOR",
+    "isActive": true
   },
   {
     "code": "LAB03",
-    "name": "BARANG KIRIMAN"
+    "name": "BARANG KIRIMAN",
+    "isActive": true
   },
   {
     "code": "LAB06",
-    "name": "FORM 3D"
+    "name": "FORM 3D",
+    "isActive": true
   }
 ]

@@ -1,18 +1,22 @@
 [
   {
     "code": "20",
-    "name": "20 FEET"
+    "name": "20 FEET",
+    "isActive": true
   },
   {
     "code": "40",
-    "name": "40 FEET"
+    "name": "40 FEET",
+    "isActive": true
   },
   {
     "code": "45",
-    "name": "45 FEET"
+    "name": "45 FEET",
+    "isActive": true
   },
   {
     "code": "60",
-    "name": "60 FEET"
+    "name": "60 FEET",
+    "isActive": true
   }
 ]
