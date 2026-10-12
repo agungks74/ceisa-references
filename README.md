@@ -6,6 +6,7 @@ Runtime master data for the ANC frontend.
 
 - `manifest.json` lists the available reference datasets and their version.
 - Each `*.json` file contains records with `code`, `name`, optional `documentCode`, and `isActive`.
+- `kantor.json`, `jenis-identitas.json`, and `fasilitas-ppn.json` migrate the existing BC 4.0 frontend options. They contain only the options previously present in the application, not a complete official reference list.
 
 ## HS Code BTKI 2022
 

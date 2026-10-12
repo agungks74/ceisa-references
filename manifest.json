@@ -1,11 +1,14 @@
 {
-  "version": "2026-10-12.1",
+  "version": "2026-10-12.2",
   "files": {
     "dokumen": "dokumen.json",
+    "fasilitas-ppn": "fasilitas-ppn.json",
     "hs-code": "hs-code.json",
     "jenis-kemasan": "jenis-kemasan.json",
+    "jenis-identitas": "jenis-identitas.json",
     "jenis-kontainer": "jenis-kontainer.json",
     "jenis-tpb": "jenis-tpb.json",
+    "kantor": "kantor.json",
     "kategori-barang": "kategori-barang.json",
     "satuan-barang": "satuan-barang.json",
     "tipe-kontainer": "tipe-kontainer.json",

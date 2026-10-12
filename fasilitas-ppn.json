@@ -1,0 +1,6 @@
+[
+  { "code": "3", "name": "DTG - DITANGGUHKAN", "isActive": true },
+  { "code": "5", "name": "BBS - DIBEBASKAN", "isActive": true },
+  { "code": "6", "name": "TIDAK DIPUNGUT", "isActive": true },
+  { "code": "7", "name": "SUDAH DILUNASI", "isActive": true }
+]
