@@ -1,0 +1,14 @@
+{
+  "version": "2026-10-12",
+  "files": {
+    "dokumen": "dokumen.json",
+    "jenis-kemasan": "jenis-kemasan.json",
+    "jenis-kontainer": "jenis-kontainer.json",
+    "jenis-tpb": "jenis-tpb.json",
+    "kategori-barang": "kategori-barang.json",
+    "satuan-barang": "satuan-barang.json",
+    "tipe-kontainer": "tipe-kontainer.json",
+    "tujuan-pengiriman": "tujuan-pengiriman.json",
+    "ukuran-kontainer": "ukuran-kontainer.json"
+  }
+}

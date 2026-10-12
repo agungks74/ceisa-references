@@ -1,0 +1,14 @@
+[
+  {
+    "code": "4",
+    "name": "EMPTY"
+  },
+  {
+    "code": "8",
+    "name": "FCL"
+  },
+  {
+    "code": "7",
+    "name": "LCL"
+  }
+]

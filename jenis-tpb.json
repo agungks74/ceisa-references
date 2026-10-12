@@ -1,0 +1,42 @@
+[
+  {
+    "code": "1",
+    "name": "KAWASAN BERIKAT"
+  },
+  {
+    "code": "2",
+    "name": "GUDANG BERIKAT"
+  },
+  {
+    "code": "3",
+    "name": "TPPB"
+  },
+  {
+    "code": "4",
+    "name": "TBB"
+  },
+  {
+    "code": "5",
+    "name": "TLB"
+  },
+  {
+    "code": "6",
+    "name": "KDUB"
+  },
+  {
+    "code": "7",
+    "name": "LAINNYA"
+  },
+  {
+    "code": "8",
+    "name": "KAWASAN BEBAS"
+  },
+  {
+    "code": "9",
+    "name": "KAWASAN EKONOMI KHUSUS"
+  },
+  {
+    "code": "10",
+    "name": "KAWASAN EKONOMI LAINNYA"
+  }
+]

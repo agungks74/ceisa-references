@@ -1,0 +1,167 @@
+[
+  {
+    "documentCode": "23",
+    "code": "01",
+    "name": "BARANG UNTUK DITIMBUN"
+  },
+  {
+    "documentCode": "23",
+    "code": "02",
+    "name": "BARANG UNTUK KEPERLUAN PENGUSAHAAN"
+  },
+  {
+    "documentCode": "23",
+    "code": "11",
+    "name": "UNTUK BAHAN BAKU/BAHAN PENOLONG"
+  },
+  {
+    "documentCode": "23",
+    "code": "12",
+    "name": "UNTUK PENGEMAS/ALAT BANTU PENGEMAS"
+  },
+  {
+    "documentCode": "23",
+    "code": "13",
+    "name": "UNTUK PERALATAN UNTUK PEMBANGUNAN, PERLUASAN, ATAU KONSTRUKSI KB"
+  },
+  {
+    "documentCode": "23",
+    "code": "14",
+    "name": "UNTUK BARANG MODAL DAN/ATAU SPAREPARTS BARANG MODAL"
+  },
+  {
+    "documentCode": "23",
+    "code": "15",
+    "name": "UNTUK BARANG CONTOH"
+  },
+  {
+    "documentCode": "23",
+    "code": "16",
+    "name": "UNTUK BARANG JADI GUNA DIGABUNG DENGAN HASIL PRODUKSI"
+  },
+  {
+    "documentCode": "23",
+    "code": "17",
+    "name": "UNTUK BARANG REIMPOR"
+  },
+  {
+    "documentCode": "23",
+    "code": "18",
+    "name": "UNTUK PERALATAN PERKANTORAN"
+  },
+  {
+    "documentCode": "23",
+    "code": "19",
+    "name": "BARANG UNTUK KEPERLUAN PENANGANAN COVID19"
+  },
+  {
+    "documentCode": "23",
+    "code": "21",
+    "name": "UNTUK BARANG YANG DITIMBUN DI GB"
+  },
+  {
+    "documentCode": "23",
+    "code": "22",
+    "name": "UNTUK BARANG REIMPOR"
+  },
+  {
+    "documentCode": "23",
+    "code": "31",
+    "name": "UNTUK BARANG UNTUK DIPAMERKAN"
+  },
+  {
+    "documentCode": "23",
+    "code": "32",
+    "name": "UNTUK BARANG UNTUK MENDUKUNG KEPERLUAN PAMERAN"
+  },
+  {
+    "documentCode": "23",
+    "code": "33",
+    "name": "UNTUK BARANG REIMPOR"
+  },
+  {
+    "documentCode": "23",
+    "code": "41",
+    "name": "UNTUK BARANG YANG DITIMBUN DI TBB"
+  },
+  {
+    "documentCode": "23",
+    "code": "42",
+    "name": "UNTUK BARANG REIMPOR"
+  },
+  {
+    "documentCode": "23",
+    "code": "51",
+    "name": "UNTUK BARANG LELANG"
+  },
+  {
+    "documentCode": "23",
+    "code": "52",
+    "name": "UNTUK SPAREPARTS"
+  },
+  {
+    "documentCode": "23",
+    "code": "53",
+    "name": "UNTUK BARANG REIMPOR"
+  },
+  {
+    "documentCode": "23",
+    "code": "61",
+    "name": "UNTUK BARANG YANG DITIMBUN DI KDUB"
+  },
+  {
+    "documentCode": "23",
+    "code": "62",
+    "name": "UNTUK BARANG REIMPOR"
+  },
+  {
+    "documentCode": "25",
+    "code": "1",
+    "name": "HASIL PRODUKSI"
+  },
+  {
+    "documentCode": "25",
+    "code": "2",
+    "name": "BAHAN BAKU"
+  },
+  {
+    "documentCode": "25",
+    "code": "3",
+    "name": "BARANG MODAL"
+  },
+  {
+    "documentCode": "25",
+    "code": "4",
+    "name": "PERALATAN KANTOR"
+  },
+  {
+    "documentCode": "25",
+    "code": "5",
+    "name": "SISA DARI PROSES PRODUKSI/LIMBAH (WASTE/SCRAP) DAN/ATAU SISA ATAU BEKAS PENGEMAS"
+  },
+  {
+    "documentCode": "25",
+    "code": "6",
+    "name": "BARANG YANG DITIMBUN UNTUK DIJUAL"
+  },
+  {
+    "documentCode": "25",
+    "code": "7",
+    "name": "BARANG YANG DIPAMERKAN UNTUK DIJUAL"
+  },
+  {
+    "documentCode": "25",
+    "code": "8",
+    "name": "BARANG LAINNYA"
+  },
+  {
+    "documentCode": "25",
+    "code": "9",
+    "name": "BARANG UNTUK KEPERLUAN PENANGANAN COVID19"
+  },
+  {
+    "documentCode": "25",
+    "code": "10",
+    "name": "BARANG CONTOH"
+  }
+]

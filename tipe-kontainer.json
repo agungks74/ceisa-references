@@ -1,0 +1,38 @@
+[
+  {
+    "code": "1",
+    "name": "General / Dry Cargo"
+  },
+  {
+    "code": "2",
+    "name": "Tunne Type"
+  },
+  {
+    "code": "3",
+    "name": "Open Top Steel"
+  },
+  {
+    "code": "4",
+    "name": "Flat Rack"
+  },
+  {
+    "code": "5",
+    "name": "Reefer/Refregete"
+  },
+  {
+    "code": "6",
+    "name": "Barge Container"
+  },
+  {
+    "code": "7",
+    "name": "Bulk Container"
+  },
+  {
+    "code": "8",
+    "name": "Isotank"
+  },
+  {
+    "code": "99",
+    "name": "Lain-lain"
+  }
+]
