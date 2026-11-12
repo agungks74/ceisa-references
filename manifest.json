@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-13.2",
+  "version": "2026-11-13.3",
   "files": {
     "dokumen": "dokumen.json",
     "fasilitas-ppn": "fasilitas-ppn.json",
@@ -11,6 +11,7 @@
     "jenis-tpb": "jenis-tpb.json",
     "kantor": "kantor.json",
     "kategori-barang": "kategori-barang.json",
+    "kategori-ekspor": "kategori-ekspor.json",
     "negara": "negara.json",
     "satuan-barang": "satuan-barang.json",
     "tipe-kontainer": "tipe-kontainer.json",
