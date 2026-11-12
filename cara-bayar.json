@@ -1,0 +1,19 @@
+[
+  { "code": "1", "name": "BIASA/TUNAI", "isActive": true },
+  { "code": "2", "name": "BERKALA", "isActive": true },
+  { "code": "3", "name": "DENGAN JAMINAN", "isActive": true },
+  { "code": "4", "name": "PERHITUNGAN KEMUDIAN", "isActive": true },
+  { "code": "5", "name": "KONSINYASI (CONSIGNMENT)", "isActive": true },
+  { "code": "6", "name": "USANCE LETTER OF CREDIT", "isActive": true },
+  { "code": "7", "name": "RED CLAUSE LETTER OF CREDIT", "isActive": true },
+  { "code": "8", "name": "INTER-COMPANY ACCOUNT", "isActive": true },
+  { "code": "9", "name": "GABUNGAN/LAINNYA", "isActive": true },
+  { "code": "10", "name": "PEMBAYARAN KEMUDIAN (OPEN ACCOUNT) SECARA BERTAHAP", "isActive": true },
+  { "code": "11", "name": "PEMBAYARAN KEMUDIAN (OPEN ACCOUNT) SECARA TUNAI", "isActive": true },
+  { "code": "12", "name": "DILAKUKAN DI DN DENGAN PEMBAYARAN UANG TUNAI", "isActive": true },
+  { "code": "13", "name": "DILAKUKAN DI DN DENGAN PEMBAYARAN MELALUI TELEGRAPH", "isActive": true },
+  { "code": "14", "name": "DILAKUKAN TANPA PEMBAYARAN", "isActive": true },
+  { "code": "15", "name": "PEMBAYARAN DIMUKA (ADVANCE PAYMENT)", "isActive": true },
+  { "code": "16", "name": "SIGHT LETTER OF CREDIT", "isActive": true },
+  { "code": "17", "name": "INKASO (COLLECTION DRAFT)", "isActive": true }
+]
