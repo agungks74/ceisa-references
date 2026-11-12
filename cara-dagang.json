@@ -1,0 +1,17 @@
+[
+  { "code": "1", "name": "Biasa", "isActive": true },
+  { "code": "2", "name": "IMB - Imbal Dagang", "isActive": true },
+  { "code": "3", "name": "PMK - Pembayaran dimuka / Advance Payment", "isActive": true },
+  { "code": "4", "name": "KMD Bertahap - Pembayaran Kemudian / Open Account Tunai", "isActive": true },
+  { "code": "5", "name": "KMD Tunai - Pembayaran Kemudian / Open Account Tunai", "isActive": true },
+  { "code": "6", "name": "SLC - Sight Letter of Credit", "isActive": true },
+  { "code": "7", "name": "ULC - Usance Letter of Credit", "isActive": true },
+  { "code": "8", "name": "RLC - Red Clause Letter of Credit", "isActive": true },
+  { "code": "9", "name": "WSI - Wessel Inkaso / Collection Draft", "isActive": true },
+  { "code": "10", "name": "KON - Konsinyasi / Consignment", "isActive": true },
+  { "code": "11", "name": "ICA - Inter Company Account", "isActive": true },
+  { "code": "12", "name": "PDN Tunai - Pembayaran di Dalam Negeri Tunai", "isActive": true },
+  { "code": "13", "name": "TT - Pembayaran di Dalam Negeri melalui Telegraph Transfer", "isActive": true },
+  { "code": "14", "name": "NCV - Dilakukan tanpa pembayaran", "isActive": true },
+  { "code": "15", "name": "Lainnya", "isActive": true }
+]
