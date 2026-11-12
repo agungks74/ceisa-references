@@ -1,0 +1,9 @@
+[
+  { "code": "1", "name": "BIASA", "isActive": true },
+  { "code": "2", "name": "BERKALA", "isActive": true },
+  { "code": "3", "name": "FASILITAS", "isActive": true },
+  { "code": "4", "name": "RE-IMPOR", "isActive": true },
+  { "code": "5", "name": "RE-EKSPOR", "isActive": true },
+  { "code": "6", "name": "EX IMPOR SEMENTARA", "isActive": true },
+  { "code": "7", "name": "EKSPOR GABUNGAN", "isActive": true }
+]
