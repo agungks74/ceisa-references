@@ -1018,5 +1018,90 @@
     "code": "ZWL",
     "name": "Zimbabwe Dollar",
     "isActive": true
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "isActive": true
+  },
+  {
+    "code": "BYN",
+    "name": "Belarusian Ruble",
+    "isActive": true
+  },
+  {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "isActive": true
+  },
+  {
+    "code": "XOF",
+    "name": "CFA Franc BCEAO",
+    "isActive": true
+  },
+  {
+    "code": "XAF",
+    "name": "CFA Franc BEAC",
+    "isActive": true
+  },
+  {
+    "code": "XCG",
+    "name": "Caribbean Guilder",
+    "isActive": true
+  },
+  {
+    "code": "XPF",
+    "name": "CFP Franc",
+    "isActive": true
+  },
+  {
+    "code": "MRU",
+    "name": "Ouguiya",
+    "isActive": true
+  },
+  {
+    "code": "STN",
+    "name": "Dobra",
+    "isActive": true
+  },
+  {
+    "code": "SLE",
+    "name": "Leone",
+    "isActive": true
+  },
+  {
+    "code": "SSP",
+    "name": "South Sudanese Pound",
+    "isActive": true
+  },
+  {
+    "code": "USN",
+    "name": "US Dollar (Next day)",
+    "isActive": true
+  },
+  {
+    "code": "UYW",
+    "name": "Unidad Previsional",
+    "isActive": true
+  },
+  {
+    "code": "VES",
+    "name": "Bolívar Soberano",
+    "isActive": true
+  },
+  {
+    "code": "VED",
+    "name": "Bolívar Soberano",
+    "isActive": true
+  },
+  {
+    "code": "ZMW",
+    "name": "Zambian Kwacha",
+    "isActive": true
+  },
+  {
+    "code": "ZWG",
+    "name": "Zimbabwe Gold",
+    "isActive": true
   }
 ]
