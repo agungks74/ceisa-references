@@ -1,8 +1,9 @@
 {
-  "version": "2026-11-13.7",
+  "version": "2026-11-13.8",
   "files": {
     "dokumen": "dokumen.json",
     "cara-bayar": "cara-bayar.json",
+    "cara-angkut": "cara-angkut.json",
     "cara-dagang": "cara-dagang.json",
     "fasilitas-ppn": "fasilitas-ppn.json",
     "hs-code": "hs-code.json",

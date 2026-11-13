@@ -1,0 +1,14 @@
+[
+  { "code": "1", "name": "LAUT", "isActive": true },
+  { "code": "2", "name": "KERETA API", "isActive": true },
+  { "code": "3", "name": "DARAT", "isActive": true },
+  { "code": "4", "name": "UDARA", "isActive": true },
+  { "code": "5", "name": "POS", "isActive": true },
+  { "code": "6", "name": "MULTIMODA", "isActive": true },
+  { "code": "7", "name": "INSTALASI / PIPA", "isActive": true },
+  { "code": "8", "name": "PERAIRAN", "isActive": true },
+  { "code": "9", "name": "LAINNYA", "isActive": true },
+  { "code": "10", "name": "INSTALASI", "isActive": true },
+  { "code": "11", "name": "PIPA", "isActive": true },
+  { "code": "12", "name": "TRANSMISI", "isActive": true }
+]
