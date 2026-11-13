@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-13.5",
+  "version": "2026-11-13.6",
   "files": {
     "dokumen": "dokumen.json",
     "cara-bayar": "cara-bayar.json",
@@ -14,6 +14,7 @@
     "kantor": "kantor.json",
     "kategori-barang": "kategori-barang.json",
     "kategori-ekspor": "kategori-ekspor.json",
+    "kategori-konsolidator": "kategori-konsolidator.json",
     "negara": "negara.json",
     "satuan-barang": "satuan-barang.json",
     "tipe-kontainer": "tipe-kontainer.json",
