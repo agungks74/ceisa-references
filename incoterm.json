@@ -1,0 +1,18 @@
+[
+  { "code": "CFR", "name": "Cost and Freight", "isActive": true },
+  { "code": "CIF", "name": "Cost, Insurance and Freight", "isActive": true },
+  { "code": "CIP", "name": "Carriage and Insurance Paid to", "isActive": true },
+  { "code": "CPT", "name": "Carriage Paid To", "isActive": true },
+  { "code": "DAF", "name": "Delivered At Frontier", "isActive": true },
+  { "code": "DAP", "name": "Delivered At Place", "isActive": true },
+  { "code": "DAT", "name": "Delivered At Terminal", "isActive": true },
+  { "code": "DDP", "name": "Delivered Duty Paid", "isActive": true },
+  { "code": "DDU", "name": "Delivered Duty Unpaid", "isActive": true },
+  { "code": "DEQ", "name": "Delivered Ex Quay", "isActive": true },
+  { "code": "DES", "name": "Delivered Ex Ship", "isActive": true },
+  { "code": "EXW", "name": "Ex Works", "isActive": true },
+  { "code": "FAS", "name": "Free Alongside Ship", "isActive": true },
+  { "code": "FCA", "name": "Free Carrier", "isActive": true },
+  { "code": "FOB", "name": "Free on Board", "isActive": true },
+  { "code": "LAN", "name": "LAINNYA", "isActive": true }
+]

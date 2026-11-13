@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-13.10",
+  "version": "2026-11-13.11",
   "files": {
     "dokumen": "dokumen.json",
     "cara-bayar": "cara-bayar.json",
@@ -7,6 +7,7 @@
     "cara-dagang": "cara-dagang.json",
     "fasilitas-ppn": "fasilitas-ppn.json",
     "hs-code": "hs-code.json",
+    "incoterm": "incoterm.json",
     "jenis-ekspor": "jenis-ekspor.json",
     "jenis-kemasan": "jenis-kemasan.json",
     "jenis-identitas": "jenis-identitas.json",
