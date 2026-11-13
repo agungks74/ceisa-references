@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-13.8",
+  "version": "2026-11-13.9",
   "files": {
     "dokumen": "dokumen.json",
     "cara-bayar": "cara-bayar.json",
@@ -21,6 +21,7 @@
     "satuan-barang": "satuan-barang.json",
     "tipe-kontainer": "tipe-kontainer.json",
     "tujuan-pengiriman": "tujuan-pengiriman.json",
-    "ukuran-kontainer": "ukuran-kontainer.json"
+    "ukuran-kontainer": "ukuran-kontainer.json",
+    "valuta": "valuta.json"
   }
 }
