@@ -1,0 +1,11 @@
+[
+  { "code": "1", "name": "DIBAYAR", "isActive": true },
+  { "code": "2", "name": "DITANGGUNG PEMERINTAH", "isActive": true },
+  { "code": "3", "name": "DITANGGUHKAN", "isActive": true },
+  { "code": "4", "name": "BERKALA", "isActive": true },
+  { "code": "5", "name": "DIBEBASKAN", "isActive": true },
+  { "code": "6", "name": "TIDAK DIPUNGUT", "isActive": true },
+  { "code": "7", "name": "SUDAH DILUNASI", "isActive": true },
+  { "code": "8", "name": "DIJAMINKAN", "isActive": true },
+  { "code": "9", "name": "DITUNDA", "isActive": true }
+]
