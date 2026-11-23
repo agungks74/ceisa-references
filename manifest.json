@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-20.1",
+  "version": "2026-11-23.1",
   "files": {
     "dokumen": "dokumen.json",
     "cara-bayar": "cara-bayar.json",
@@ -14,6 +14,7 @@
     "jenis-identitas": "jenis-identitas.json",
     "jenis-kontainer": "jenis-kontainer.json",
     "jenis-pengangkutan": "jenis-pengangkutan.json",
+    "jenis-prosedur": "jenis-prosedur.json",
     "jenis-tpb": "jenis-tpb.json",
     "kantor": "kantor.json",
     "kategori-barang": "kategori-barang.json",
